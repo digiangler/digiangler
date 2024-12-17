@@ -36,13 +36,21 @@
 
 <img src="https://skillicons.dev/icons?i=jquery,react,next,vue,nuxt,angular,nodejs,deno,bun,vite,vitest,express,babel,electron,solidjs,astro,svelte,graphql,gatsby,remix,redux,vuetify,tailwind,windicss,styledcomponents,bootstrap,mui,flask,fastapi,jest,laravel,rails,django,wordpress,nest,flutter" /> <br /><br />
 
-## DB and Dev Tools etc
+## DB
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongo,supabase,redis,anaconda,aws,gcp,firebase,azure,cloudflare,docker,kubernetes,terraform,git,github,githubactions,gitlab,heroku,vercel,prisma,netlify,visualstudio,vscode,vscodium,idea,webstorm,rider,androidstudio,sublime,atom,bitbucket,postman,gulp,nginx,vim,neovim,emacs,webpack,npm,pnpm,yarn,bash,stackoverflow,twitter,instagram,linkedin,discord,gmail,obsidian,notion" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongo" /> <br /><br />
+
+## Dev Tools etc
+
+<img src="https://skillicons.dev/icons?i=supabase,redis,anaconda,aws,gcp,firebase,azure,cloudflare,docker,kubernetes,terraform,git,github,githubactions,gitlab,heroku,vercel,prisma,netlify,bitbucket,postman,gulp,nginx,webpack,npm,pnpm,yarn,bash" /> <br /><br />
 
 ## Design Tools etc
 
 <img src="https://skillicons.dev/icons?i=figma,xd,ps,pr,svg" /> <br /><br />
+
+## Writing Tools etc
+
+<img src="https://skillicons.dev/icons?i=vim,neovim,emacs,visualstudio,vscode,idea,webstorm,rider,androidstudio,sublime,atom,obsidian,notion,vscodium,discord,gmail" /> <br /><br />
 
 ---
 
