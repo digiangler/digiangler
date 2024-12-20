@@ -28,9 +28,13 @@
 
 <img src="https://skillicons.dev/icons?i=apple,windows,linux,ubuntu" /> <br /><br />
 
+## Markup Languages
+
+<img src="https://skillicons.dev/icons?i=html,htmx,css,sass,less,md" /> <br /><br />
+
 ## Programming Languages
 
-<img src="https://skillicons.dev/icons?i=html,htmx,css,sass,less,md,js,ts,py,ruby,php,cs,dotnet,go,rust,r,lua,perl,swift,kotlin,dart" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=js,ts,py,ruby,php,cs,dotnet,go,rust,r,lua,perl,swift,kotlin,dart" /> <br /><br />
 
 ## Frameworks and Library
 
