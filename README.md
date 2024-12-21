@@ -30,7 +30,7 @@
 
 ## Markup Languages
 
-<img src="https://skillicons.dev/icons?i=html,htmx,css,sass,less,md" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,htmx,css,sass,less,tailwind,windicss,styledcomponents,md" /> <br /><br />
 
 ## Programming Languages
 
@@ -38,7 +38,7 @@
 
 ## Frameworks and Library
 
-<img src="https://skillicons.dev/icons?i=jquery,react,next,vue,nuxt,angular,nodejs,deno,bun,vite,vitest,express,babel,electron,solidjs,astro,svelte,graphql,gatsby,remix,redux,vuetify,tailwind,windicss,styledcomponents,bootstrap,mui,flask,fastapi,jest,laravel,rails,django,wordpress,nest,flutter" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=jquery,react,next,vue,nuxt,angular,nodejs,deno,bun,vite,vitest,express,babel,electron,solidjs,astro,svelte,graphql,gatsby,remix,redux,vuetify,bootstrap,mui,flask,fastapi,jest,laravel,rails,django,wordpress,nest,flutter" /> <br /><br />
 
 ## DB
 
