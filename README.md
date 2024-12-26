@@ -2,7 +2,7 @@
 
 1. I'm a **Full-Stack Developer** (Web Frontend and Backend Developer) from Japan
 
-2. My favorites are **TypeScript, Python, Postgres, React, Next.js, Docker, Obsidian**
+2. My favorites are **TypeScript, Python, Postgres, React, Next.js, Docker, Obsidian, Todoist(GTD)**
 
 3. You can find my **Portfolio site** at [here](https://digiangler.com) 【メンテナンス中】
 
@@ -11,6 +11,8 @@
 5. You can find my **note** Blog [here](https://note.com/digiangler777)
 
 6. You can find my **Zenn** Blog [here](https://zenn.dev/digiangler)
+
+7. You can find my **Dribbble** at [here](https://dribbble.com/digi-angler)
 
 ---
 
