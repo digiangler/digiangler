@@ -10,6 +10,8 @@
 
 5. You can find my **note** Blog [here](https://note.com/digiangler777)
 
+6. You can find my **Qiita** Blog [here](https://qiita.com/digiangler)
+
 6. You can find my **Zenn** Blog [here](https://zenn.dev/digiangler)
 
 7. You can find my **Dribbble** at [here](https://dribbble.com/digi-angler)
