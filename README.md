@@ -25,6 +25,8 @@
 
 [<img src="https://github.com/digiangler/digiangler/blob/main/assets/img/Elon_Musk.jpg" />](https://github.com/digiangler)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=digiangler&theme=matrix&row=2&column=6&no-frame=true)](https://github.com/digiangler/github-profile-trophy)
+
 ## <img alt="Icon" width="26px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/spotify_alt_macos_bigsur_icon_189704.png" /> Relaxing Coding Mix 
 
 [<img src="https://spotify-now-playing-seven.vercel.app/api/spotify-playing" alt="Digi-Angler Spotify Playing" width="350" />](https://open.spotify.com/user/7zkt2748z5boqwalbplgbmnbx)
