@@ -1,4 +1,8 @@
-# 👋 About Me
+# 📝 About Me
+
+![Static Badge](https://img.shields.io/badge/Digi--Angler-rgb(106%2C90%2C205))
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/digiangler)
+![GitHub followers](https://img.shields.io/github/followers/digiangler?style=social)
 
 1. I'm a **Full-Stack Developer** (Web Frontend and Backend Developer) from Japan
 
@@ -12,9 +16,9 @@
 
 6. You can find my **Qiita** Blog [here](https://qiita.com/digiangler)
 
-6. You can find my **Zenn** Blog [here](https://zenn.dev/digiangler)
+7. You can find my **Zenn** Blog [here](https://zenn.dev/digiangler)
 
-7. You can find my **Dribbble** at [here](https://dribbble.com/digi-angler)
+8. You can find my **Dribbble** at [here](https://dribbble.com/digi-angler)
 
 ---
 
