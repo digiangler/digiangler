@@ -1,9 +1,53 @@
-# 📝 About Me
+# 👋🏼 Profile README
 
-![Static Badge](https://img.shields.io/badge/Digi--Angler-rgb(106%2C90%2C205))
-![GitHub followers](https://img.shields.io/github/followers/digiangler?style=social&logoColor=rgb(106%2C90%2C205))
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/digiangler?style=social&logoColor=rgb(106%2C90%2C205))
-![Twitch Status](https://img.shields.io/twitch/status/digiangler)
+[![Static Badge](https://img.shields.io/badge/Digi--Angler-rgb(106%2C90%2C205))](#)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/digiangler)
+[![PayPal](https://img.shields.io/badge/PayPal-003087?logo=paypal&logoColor=fff)](#)
+[![Stripe](https://img.shields.io/badge/Stripe-5851DD?logo=stripe&logoColor=fff)](#)
+[![GitHub followers](https://img.shields.io/github/followers/digiangler?style=social&logoColor=rgb(106%2C90%2C205))](#)
+[![Twitch Status](https://img.shields.io/twitch/status/digiangler)](#)
+
+## 📱 Social Medias
+
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white)](#)
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](#)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#)
+[![Threads](https://img.shields.io/badge/Threads-000000?logo=Threads&logoColor=white)](#)
+[![Dribble](https://img.shields.io/badge/Dribbble-EA4C89?logo=dribbble&logoColor=white)](#)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](#)
+[![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)](#)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](#)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](#)
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](#)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](#)
+[![Apple Music](https://img.shields.io/badge/Apple%20Music-FA243C?logo=apple%20music&logoColor=white)](#)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)
+[![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](#)
+
+## ⭐ This is my current recommended technology!
+
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+[![Bun](https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff)](#)
+[![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
+[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
+[![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff)](#)
+[![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)](#)
+[![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?logo=drizzle&logoColor=000)](#)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
+[![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff)](#)
+[![Storybook](https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=fff)](#)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)
+[![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=fff)](#)
+[![Warp](https://img.shields.io/badge/Warp-01A4FF?logo=warp&logoColor=fff)](#)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
+[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)](#)
+[![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)](#)
+[![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)](#)
+
+---
+
+## 📝 About Me
 
 1. I'm a **Full-Stack Developer** (Web Frontend and Backend Developer) from Japan
 
@@ -29,7 +73,7 @@
 
 [<img src="https://github.com/digiangler/digiangler/blob/main/assets/img/Elon_Musk.jpg" />](https://github.com/digiangler)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=digiangler&theme=matrix&row=2&column=7&no-frame=true)](https://github.com/digiangler/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=digiangler&theme=matrix&row=2&column=7&no-frame=true&no-bg=true)](https://github.com/digiangler/github-profile-trophy)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=digiangler&show_icons=true&locale=ja&layout=compact&theme=merko)
 
