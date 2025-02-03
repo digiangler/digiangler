@@ -49,6 +49,8 @@
 
 ## 📝 About Me
 
+> ⚠️ **Note:** This README is a template. Please replace the content with your own information.
+
 1. I'm a **Full-Stack Developer** (Web Frontend and Backend Developer) from Japan
 
 2. My favorites are **TypeScript, Python, Postgres, React, Next.js, Supabase, Prisma, Docker, Warp, ChatGPT, Obsidian, Notion, Todoist(GTD)**
