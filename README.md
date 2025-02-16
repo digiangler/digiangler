@@ -53,7 +53,7 @@
 
 1. I'm a **Full-Stack Developer** (Web Frontend and Backend Developer) from Japan
 
-2. My favorites are **TypeScript, Python, Postgres, React, Next.js, Supabase, Prisma, Docker, Warp, ChatGPT, Obsidian, Notion, Todoist(GTD)**
+2. My favorites are **TypeScript, Python, Postgres, React, Next.js, Vite, Playwright, Supabase, Prisma, Docker, Warp, ChatGPT, Obsidian, Notion, Todoist(GTD)**
 
 3. You can find my **Portfolio site** at [here](https://digiangler.com) 【メンテナンス中】
 
