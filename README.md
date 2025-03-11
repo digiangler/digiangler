@@ -67,7 +67,7 @@
 
 8. You can find my **Dribbble** at [here](https://dribbble.com/digi-angler)
 
-## <img alt="Icon" width="26px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/spotify_alt_macos_bigsur_icon_189704.png" /> Relaxing Coding Mix 
+## 🎵 Relaxing Coding Mix
 
 [<img src="https://spotify-now-playing-seven.vercel.app/api/spotify-playing" alt="Digi-Angler Spotify Playing" width="350" />](https://open.spotify.com/user/7zkt2748z5boqwalbplgbmnbx)
 
