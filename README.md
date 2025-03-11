@@ -55,7 +55,7 @@
 
 2. My favorites are **TypeScript, Python, Postgres, React, Next.js, Vite, Playwright, Supabase, Prisma, Docker, Warp, Figma, ChatGPT, Obsidian, Notion, Todoist(GTD)**
 
-3. You can find my **Portfolio site** at [here](https://digiangler.com) 【メンテナンス中】
+3. You can find my **Portfolio site** at [here](https://digiangler.dev) 【メンテナンス中】
 
 4. You can find my **Curriculum vitae** at [here](https://github.com/digiangler/curriculum_vitae)
 
@@ -70,6 +70,26 @@
 ## <img alt="Icon" width="26px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/spotify_alt_macos_bigsur_icon_189704.png" /> Relaxing Coding Mix 
 
 [<img src="https://spotify-now-playing-seven.vercel.app/api/spotify-playing" alt="Digi-Angler Spotify Playing" width="350" />](https://open.spotify.com/user/7zkt2748z5boqwalbplgbmnbx)
+
+---
+
+## 📱 SNS
+
+- [X](https://x.com/digiangler)
+
+- [Bluesky](https://bsky.app/profile/digiangler.bsky.social)
+
+- [Instagram](https://instagram.com/digi_angler)
+
+- [Threads](https://www.threads.net/@digi_angler)
+
+- [note](https://note.com/digiangler777)
+
+- [Qiita](https://qiita.com/digiangler)
+
+- [Zenn](https://zenn.dev/digiangler)
+
+- [Dribbble](https://dribbble.com/digi-angler)
 
 ---
 
