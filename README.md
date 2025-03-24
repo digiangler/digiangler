@@ -2,6 +2,8 @@
 
 > ⚠️ **Note:** This README is a template. Please replace the content with your own information.
 
+[<img src="https://github.com/digiangler/digiangler/blob/main/assets/img/Elon_Musk.jpg" />](https://github.com/digiangler)
+
 [![Static Badge](https://img.shields.io/badge/Digi--Angler-rgb(106%2C90%2C205))](#)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/digiangler)
 [![PayPal](https://img.shields.io/badge/PayPal-003087?logo=paypal&logoColor=fff)](#)
@@ -123,17 +125,11 @@
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)
 [![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](#)
 
----
-
-[<img src="https://github.com/digiangler/digiangler/blob/main/assets/img/Elon_Musk.jpg" />](https://github.com/digiangler)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=digiangler&theme=matrix&row=2&column=7&no-frame=true&no-bg=true)](https://github.com/digiangler/github-profile-trophy)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=digiangler&show_icons=true&locale=ja&layout=compact&theme=merko)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=digi_angler&show_icons=true&locale=ja&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
----
+[![](https://github-readme-stats.vercel.app/api/wakatime?username=digi_angler&show_icons=true&locale=ja&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🎵 Relaxing Coding Mix
 
