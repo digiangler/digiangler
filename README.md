@@ -71,8 +71,6 @@
 
 [more note posts...](https://note.com/digiangler777)
 
----
-
 ## OS
 
 <img src="https://skillicons.dev/icons?i=apple,windows,linux,ubuntu" /> <br /><br />
@@ -104,8 +102,6 @@
 ## Writing Tools etc
 
 <img src="https://skillicons.dev/icons?i=vim,neovim,emacs,visualstudio,vscode,idea,webstorm,rider,androidstudio,sublime,atom,obsidian,notion,vscodium,discord,gmail" /> <br /><br />
-
----
 
 ## 📱 Social Medias
 
