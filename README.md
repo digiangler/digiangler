@@ -29,8 +29,6 @@
 [![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)](#)
 [![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)](#)
 
----
-
 ## 📝 About Me
 
 1. I'm a **Full-Stack Developer** (Web Frontend and Backend Developer) from Japan
@@ -55,21 +53,7 @@
 
 ## 📱 SNS
 
-- [X](https://x.com/digiangler)
-
-- [Bluesky](https://bsky.app/profile/digiangler.bsky.social)
-
-- [Instagram](https://instagram.com/digi_angler)
-
-- [Threads](https://www.threads.net/@digi_angler)
-
-- [note](https://note.com/digiangler777)
-
-- [Qiita](https://qiita.com/digiangler)
-
-- [Zenn](https://zenn.dev/digiangler)
-
-- [Dribbble](https://dribbble.com/digi-angler)
+[X](https://x.com/digiangler) - [Bluesky](https://bsky.app/profile/digiangler.bsky.social) - [Instagram](https://instagram.com/digi_angler) - [Threads](https://www.threads.net/@digi_angler) - [note](https://note.com/digiangler777) - [Qiita](https://qiita.com/digiangler) - [Zenn](https://zenn.dev/digiangler) - [Dribbble](https://dribbble.com/digi-angler)
 
 ## :zap: Latest Qiita Posts
 
