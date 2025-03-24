@@ -1,29 +1,13 @@
 # 👋🏼 Profile README
 
+> ⚠️ **Note:** This README is a template. Please replace the content with your own information.
+
 [![Static Badge](https://img.shields.io/badge/Digi--Angler-rgb(106%2C90%2C205))](#)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/digiangler)
 [![PayPal](https://img.shields.io/badge/PayPal-003087?logo=paypal&logoColor=fff)](#)
 [![Stripe](https://img.shields.io/badge/Stripe-5851DD?logo=stripe&logoColor=fff)](#)
 [![GitHub followers](https://img.shields.io/github/followers/digiangler?style=social&logoColor=rgb(106%2C90%2C205))](#)
 [![Twitch Status](https://img.shields.io/twitch/status/digiangler)](#)
-
-## 📱 Social Medias
-
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
-[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white)](#)
-[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](#)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#)
-[![Threads](https://img.shields.io/badge/Threads-000000?logo=Threads&logoColor=white)](#)
-[![Dribble](https://img.shields.io/badge/Dribbble-EA4C89?logo=dribbble&logoColor=white)](#)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](#)
-[![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)](#)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](#)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](#)
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](#)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](#)
-[![Apple Music](https://img.shields.io/badge/Apple%20Music-FA243C?logo=apple%20music&logoColor=white)](#)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)
-[![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](#)
 
 ## ⭐ This is my current recommended technology!
 
@@ -49,8 +33,6 @@
 
 ## 📝 About Me
 
-> ⚠️ **Note:** This README is a template. Please replace the content with your own information.
-
 1. I'm a **Full-Stack Developer** (Web Frontend and Backend Developer) from Japan
 
 2. My favorites are **TypeScript, Python, Postgres, React, Next.js, Vite, Playwright, Supabase, Prisma, Docker, Warp, Figma, ChatGPT, Obsidian, Notion, Todoist(GTD)**
@@ -67,11 +49,9 @@
 
 8. You can find my **Dribbble** at [here](https://dribbble.com/digi-angler)
 
-## 🎵 Relaxing Coding Mix
+## 🦄 Story
 
-[<img src="https://spotify-now-playing-seven.vercel.app/api/spotify-playing" alt="Digi-Angler Spotify Playing" width="350" />](https://open.spotify.com/user/7zkt2748z5boqwalbplgbmnbx)
-
----
+モノづくりに魅せられて 〜北海道生まれのエンジニアが見つけた自由への道〜 [here](https://note.com/digiangler777/n/n1e9be41e34e8)
 
 ## 📱 SNS
 
@@ -91,15 +71,21 @@
 
 - [Dribbble](https://dribbble.com/digi-angler)
 
+## :zap: Latest Qiita Posts
+
+<!-- QIITA:START -->
+<!-- QIITA:END -->
+
+[more Qiita posts...](https://qiita.com/digiangler)
+
+## :zap: Latest note Posts
+
+<!-- NOTE:START -->
+<!-- NOTE:END -->
+
+[more note posts...](https://note.com/digiangler777)
+
 ---
-
-[<img src="https://github.com/digiangler/digiangler/blob/main/assets/img/Elon_Musk.jpg" />](https://github.com/digiangler)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=digiangler&theme=matrix&row=2&column=7&no-frame=true&no-bg=true)](https://github.com/digiangler/github-profile-trophy)
-
-![](https://github-readme-stats.vercel.app/api/top-langs?username=digiangler&show_icons=true&locale=ja&layout=compact&theme=merko)
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=digi_angler&show_icons=true&locale=ja&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 ## OS
 
@@ -135,20 +121,36 @@
 
 ---
 
-## :zap: Latest Qiita Posts
+## 📱 Social Medias
 
-<!-- QIITA:START -->
-<!-- QIITA:END -->
-
-[more Qiita posts...](https://qiita.com/digiangler)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white)](#)
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](#)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#)
+[![Threads](https://img.shields.io/badge/Threads-000000?logo=Threads&logoColor=white)](#)
+[![Dribble](https://img.shields.io/badge/Dribbble-EA4C89?logo=dribbble&logoColor=white)](#)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](#)
+[![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)](#)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](#)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](#)
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](#)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](#)
+[![Apple Music](https://img.shields.io/badge/Apple%20Music-FA243C?logo=apple%20music&logoColor=white)](#)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)
+[![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](#)
 
 ---
 
-## :zap: Latest note Posts
+[<img src="https://github.com/digiangler/digiangler/blob/main/assets/img/Elon_Musk.jpg" />](https://github.com/digiangler)
 
-<!-- NOTE:START -->
-<!-- NOTE:END -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=digiangler&theme=matrix&row=2&column=7&no-frame=true&no-bg=true)](https://github.com/digiangler/github-profile-trophy)
 
-[more note posts...](https://note.com/digiangler777)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=digiangler&show_icons=true&locale=ja&layout=compact&theme=merko)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=digi_angler&show_icons=true&locale=ja&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+
+## 🎵 Relaxing Coding Mix
+
+[<img src="https://spotify-now-playing-seven.vercel.app/api/spotify-playing" alt="Digi-Angler Spotify Playing" width="350" />](https://open.spotify.com/user/7zkt2748z5boqwalbplgbmnbx)
