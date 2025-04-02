@@ -1,6 +1,6 @@
 # 👋🏼 Profile README
 
-> ⚠️ **Note:** This README is a template. Please replace the content with your own information.
+<!-- > ⚠️ **Note:** This README is a template. Please replace the content with your own information. -->
 
 [<img src="https://github.com/digiangler/digiangler/blob/main/assets/img/Gemini_Generated_Image_note_member.jpeg" />](https://github.com/digiangler)
 
