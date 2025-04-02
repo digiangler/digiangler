@@ -2,7 +2,7 @@
 
 > ⚠️ **Note:** This README is a template. Please replace the content with your own information.
 
-[<img src="https://github.com/digiangler/digiangler/blob/main/assets/img/Elon_Musk.jpg" />](https://github.com/digiangler)
+[<img src="https://github.com/digiangler/digiangler/blob/main/assets/img/Gemini_Generated_Image_note_member.jpg" />](https://github.com/digiangler)
 
 [![Static Badge](https://img.shields.io/badge/Digi--Angler-rgb(106%2C90%2C205))](#)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/digiangler)
@@ -33,9 +33,9 @@
 
 ## 📝 About Me
 
-1. I'm a **Full-Stack Developer** (Web Frontend and Backend Developer) from Japan
+1. I'm a **Freelance Developer (Full Cycle | Individual Developer)** from Japan
 
-2. My favorites are **TypeScript, Python, Postgres, React, Next.js, Vite, Playwright, Supabase, Prisma, Docker, Warp, Figma, Claude, Grok, Obsidian, Notion, Todoist(GTD)**
+2. My favorites are **TypeScript, Python, Postgres, React, Next.js, Vite, Tailwind CSS, Playwright, Supabase, Prisma, Docker, Cursor, Warp, Figma, Claude, Grok, Obsidian, Notion, Todoist(GTD)**
 
 3. You can find my **Portfolio site** at [here](https://digiangler.dev) 【メンテナンス中】
 
