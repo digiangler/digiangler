@@ -2,7 +2,7 @@
 
 > ⚠️ **Note:** This README is a template. Please replace the content with your own information.
 
-[<img src="https://github.com/digiangler/digiangler/blob/main/assets/img/Gemini_Generated_Image_note_member.jpg" />](https://github.com/digiangler)
+[<img src="https://github.com/digiangler/digiangler/blob/main/assets/img/Gemini_Generated_Image_note_member.jpeg" />](https://github.com/digiangler)
 
 [![Static Badge](https://img.shields.io/badge/Digi--Angler-rgb(106%2C90%2C205))](#)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/digiangler)
