@@ -37,7 +37,7 @@
 
 モノづくりに魅せられて 〜北海道生まれのエンジニアが見つけた自由への道〜 [here](https://note.com/digiangler777/n/n1e9be41e34e8)
 
-## 📱 Platform, SNS
+## 🦉 Digital Platform
 
 [Portfolio site](https://digiangler.dev) 【メンテナンス中】 - [Curriculum vitae](https://github.com/digiangler/curriculum_vitae)
 
