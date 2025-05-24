@@ -2,14 +2,48 @@
 
 <!-- > ⚠️ **Note:** This README is a template. Please replace the content with your own information. -->
 
-[<img src="https://github.com/digiangler/digiangler/blob/main/assets/img/Gemini_Generated_Image_note_member.jpeg" />](https://github.com/digiangler)
-
-[![Static Badge](https://img.shields.io/badge/Digi--Angler-rgb(106%2C90%2C205))](#)
+[![Static Badge](<https://img.shields.io/badge/Digi--Angler-rgb(106%2C90%2C205)>)](#)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/digiangler)
 [![PayPal](https://img.shields.io/badge/PayPal-003087?logo=paypal&logoColor=fff)](#)
 [![Stripe](https://img.shields.io/badge/Stripe-5851DD?logo=stripe&logoColor=fff)](#)
-[![GitHub followers](https://img.shields.io/github/followers/digiangler?style=social&logoColor=rgb(106%2C90%2C205))](#)
+[![GitHub followers](<https://img.shields.io/github/followers/digiangler?style=social&logoColor=rgb(106%2C90%2C205)>)](#)
 [![Twitch Status](https://img.shields.io/twitch/status/digiangler)](#)
+
+## 📝 About Me
+
+👋 こんにちは！フリーランスの**フルサイクル開発者**兼**内省的ストーリーテラー**、おおとろです。
+技術の可能性に魅せられ、クライアントワークの**受託開発**から、自分の価値観を反映する**個人開発**まで幅広く活動しています。
+
+🔧 **フルサイクル**での開発を得意とし、UI/UX からフロントエンド、バックエンド、AI 駆動のソリューションまで一気通貫で構築。
+最近は**生成 AI**を活かした**AI 駆動開発**にも力を注ぎ、**バイブコーディング**を通じてコードにリズムと美学を宿しています。
+
+💡 **物語性と技術を掛け合わせ、価値あるプロダクトを作りたい。**
+
+📌 **得意領域**
+• フルサイクル開発
+• バイブコーディング
+• AI 駆動開発
+
+📌 **開発スタイル**
+• 共感と体験を重視した UI/UX 設計
+
+📌 **現在の注力分野**
+• 個人開発プロジェクトの継続的改善とスケール
+
+🎣 釣りや珈琲に情熱を注ぎつつ、**物語を紡ぐようにコードを書く**のが信条。
+興味が合う方や共創に関心のある方は、気軽に声をかけてください！
+
+## 🦄 Story
+
+モノづくりに魅せられて 〜北海道生まれのエンジニアが見つけた自由への道〜 [here](https://note.com/digiangler777/n/n1e9be41e34e8)
+
+## 📱 Platform, SNS
+
+[Portfolio site](https://digiangler.dev) 【メンテナンス中】 - [Curriculum vitae](https://github.com/digiangler/curriculum_vitae)
+
+[note](https://note.com/digiangler777) - [Qiita](https://qiita.com/digiangler) - [Zenn](https://zenn.dev/digiangler) - [Dribbble](https://dribbble.com/digi-angler)
+
+[X](https://x.com/digiangler) - [Bluesky](https://bsky.app/profile/digiangler.bsky.social) - [Instagram](https://instagram.com/digi_angler) - [Threads](https://www.threads.net/@digi_angler)
 
 ## ⭐ This is my current recommended technology!
 
@@ -31,102 +65,10 @@
 [![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)](#)
 [![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)](#)
 
-## 📝 About Me
-
-1. I'm a **Freelance Developer (Full Cycle | Individual Developer)** from Japan
-
-2. My favorites are **TypeScript, Python, Postgres, React, Next.js, Vite, Tailwind CSS, Playwright, Supabase, Prisma, Docker, Cursor, Warp, Figma, Claude, Grok, Obsidian, Notion, Todoist(GTD)**
-
-3. You can find my **Portfolio site** at [here](https://digiangler.dev) 【メンテナンス中】
-
-4. You can find my **Curriculum vitae** at [here](https://github.com/digiangler/curriculum_vitae)
-
-5. You can find my **note** Blog [here](https://note.com/digiangler777)
-
-6. You can find my **Qiita** Blog [here](https://qiita.com/digiangler)
-
-7. You can find my **Zenn** Blog [here](https://zenn.dev/digiangler)
-
-8. You can find my **Dribbble** at [here](https://dribbble.com/digi-angler)
-
-## 🦄 Story
-
-モノづくりに魅せられて 〜北海道生まれのエンジニアが見つけた自由への道〜 [here](https://note.com/digiangler777/n/n1e9be41e34e8)
-
-## 📱 SNS
-
-[X](https://x.com/digiangler) - [Bluesky](https://bsky.app/profile/digiangler.bsky.social) - [Instagram](https://instagram.com/digi_angler) - [Threads](https://www.threads.net/@digi_angler) - [note](https://note.com/digiangler777) - [Qiita](https://qiita.com/digiangler) - [Zenn](https://zenn.dev/digiangler) - [Dribbble](https://dribbble.com/digi-angler)
-
-## :zap: Latest Qiita Posts
-
-<!-- QIITA:START -->
-<!-- QIITA:END -->
-
-[more Qiita posts...](https://qiita.com/digiangler)
-
-## :zap: Latest note Posts
-
-<!-- NOTE:START -->
-<!-- NOTE:END -->
-
-[more note posts...](https://note.com/digiangler777)
-
-## OS
-
-<img src="https://skillicons.dev/icons?i=apple,windows,linux,ubuntu" /> <br /><br />
-
-## Markup Languages
-
-<img src="https://skillicons.dev/icons?i=html,htmx,css,sass,less,tailwind,windicss,styledcomponents,md" /> <br /><br />
-
-## Programming Languages
-
-<img src="https://skillicons.dev/icons?i=js,ts,py,ruby,php,cs,dotnet,go,rust,r,lua,perl,swift,kotlin,dart" /> <br /><br />
-
-## Frameworks and Library
-
-<img src="https://skillicons.dev/icons?i=jquery,react,next,vue,nuxt,angular,nodejs,deno,bun,vite,vitest,express,babel,electron,solidjs,astro,svelte,graphql,gatsby,remix,redux,vuetify,bootstrap,mui,flask,fastapi,jest,laravel,rails,django,wordpress,nest,flutter" /> <br /><br />
-
-## DB
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongo" /> <br /><br />
-
-## Dev Tools etc
-
-<img src="https://skillicons.dev/icons?i=supabase,redis,anaconda,aws,gcp,firebase,azure,cloudflare,docker,kubernetes,terraform,git,github,githubactions,gitlab,heroku,vercel,prisma,netlify,bitbucket,postman,gulp,nginx,webpack,npm,pnpm,yarn,bash" /> <br /><br />
-
-## Design Tools etc
-
-<img src="https://skillicons.dev/icons?i=figma,xd,ps,pr,svg" /> <br /><br />
-
-## Writing Tools etc
-
-<img src="https://skillicons.dev/icons?i=vim,neovim,emacs,visualstudio,vscode,idea,webstorm,rider,androidstudio,sublime,atom,obsidian,notion,vscodium,discord,gmail" /> <br /><br />
-
-## 📱 Social Medias
-
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
-[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white)](#)
-[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](#)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#)
-[![Threads](https://img.shields.io/badge/Threads-000000?logo=Threads&logoColor=white)](#)
-[![Dribble](https://img.shields.io/badge/Dribbble-EA4C89?logo=dribbble&logoColor=white)](#)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](#)
-[![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)](#)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](#)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](#)
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](#)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](#)
-[![Apple Music](https://img.shields.io/badge/Apple%20Music-FA243C?logo=apple%20music&logoColor=white)](#)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)
-[![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](#)
+[<img src="https://github.com/digiangler/digiangler/blob/main/assets/img/Gemini_Generated_Image_note_member.jpeg" />](https://github.com/digiangler)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=digiangler&theme=matrix&row=2&column=7&no-frame=true&no-bg=true)](https://github.com/digiangler/github-profile-trophy)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=digiangler&show_icons=true&locale=ja&layout=compact&theme=merko)
 
 [![](https://github-readme-stats.vercel.app/api/wakatime?username=digi_angler&show_icons=true&locale=ja&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
-## 🎵 Relaxing Coding Mix
-
-[<img src="https://spotify-now-playing-seven.vercel.app/api/spotify-playing" alt="Digi-Angler Spotify Playing" width="350" />](https://open.spotify.com/user/7zkt2748z5boqwalbplgbmnbx)
