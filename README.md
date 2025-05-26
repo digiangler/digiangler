@@ -45,7 +45,7 @@
 
 [X](https://x.com/digiangler) - [Bluesky](https://bsky.app/profile/digiangler.bsky.social) - [Instagram](https://instagram.com/digi_angler) - [Threads](https://www.threads.net/@digi_angler)
 
-## ⭐ This is my current recommended technology!
+## 👻 This is my current recommended technology!
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
 [![Bun](https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff)](#)
