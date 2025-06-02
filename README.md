@@ -73,5 +73,4 @@
 
 [![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=digi_angler&show_icons=true&locale=ja&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=7zkt2748z5boqwalbplgbmnbx&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=7zkt2748z5boqwalbplgbmnbx&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)]]
-[![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=7zkt2748z5boqwalbplgbmnbx&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)](https://open.spotify.com/user/7zkt2748z5boqwalbplgbmnbx)
+[[(https://spotify-github-profile.kittinanx.com/api/view.svg?uid=7zkt2748z5boqwalbplgbmnbx&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=7zkt2748z5boqwalbplgbmnbx&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)]]
