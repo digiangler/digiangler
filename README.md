@@ -65,10 +65,12 @@
 [![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)](#)
 [![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)](#)
 
-[<img src="https://github.com/digiangler/digiangler/blob/main/assets/img/Gemini_Generated_Image_note_member.jpeg" />](https://github.com/digiangler)
+[![Gemini](https://github.com/digiangler/digiangler/blob/main/assets/img/Gemini_Generated_Image_note_member.jpeg)](https://github.com/digiangler)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=digiangler&theme=matrix&row=2&column=7&no-frame=true&no-bg=true)](https://github.com/digiangler/github-profile-trophy)
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=digiangler&show_icons=true&locale=ja&layout=compact&theme=merko)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=digiangler&show_icons=true&locale=ja&layout=compact&theme=merko)](https://github.com/digiangler)
 
-[![](https://github-readme-stats.vercel.app/api/wakatime?username=digi_angler&show_icons=true&locale=ja&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=digi_angler&show_icons=true&locale=ja&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=7zkt2748z5boqwalbplgbmnbx&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=7zkt2748z5boqwalbplgbmnbx&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)]]
