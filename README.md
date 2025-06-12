@@ -11,24 +11,28 @@
 
 ## 📝 About Me
 
-👋 こんにちは！フリーランスの**フルサイクル開発者**兼**内省的ストーリーテラー**、おおとろです。
+👋 こんにちは！おおとろです。
+フリーランスの**フルサイクル開発者** ✕ **内省的ストーリーテラー**として活動しています。
 技術の可能性に魅せられ、クライアントワークの**受託開発**から、自分の価値観を反映する**個人開発**まで幅広く活動しています。
 
 🔧 **フルサイクル**での開発を得意とし、UI/UX からフロントエンド、バックエンド、AI 駆動のソリューションまで一気通貫で構築。
 最近は**生成 AI**を活かした**AI 駆動開発**にも力を注ぎ、**バイブコーディング**を通じてコードにリズムと美学を宿しています。
 
-💡 **物語性と技術を掛け合わせ、価値あるプロダクトを作りたい。**
+💡 **物語性と技術を掛け合わせ、価値あるプロダクトを作っています。**
 
 📌 **得意領域**
-• フルサイクル開発
-• バイブコーディング
-• AI 駆動開発
+
+- フルサイクル開発
+- バイブコーディング
+- AI 駆動開発
 
 📌 **開発スタイル**
-• 共感と体験を重視した UI/UX 設計
+
+- 共感と体験を重視した UI/UX 設計
 
 📌 **現在の注力分野**
-• 個人開発プロジェクトの継続的改善とスケール
+
+- 個人開発プロジェクトの継続的改善とスケール
 
 🎣 釣りや珈琲に情熱を注ぎつつ、**物語を紡ぐようにコードを書く**のが信条。
 興味が合う方や共創に関心のある方は、気軽に声をかけてください！
@@ -39,35 +43,64 @@
 
 ## 🦉 Digital Platform
 
-[Portfolio site](https://digiangler.dev) 【メンテナンス中】 - [Curriculum vitae](https://github.com/digiangler/curriculum_vitae)
+- [Portfolio site](https://digiangler.dev) 【メンテナンス中】
+- [Curriculum vitae](https://github.com/digiangler/curriculum_vitae)
 
-[note](https://note.com/digiangler777) - [Qiita](https://qiita.com/digiangler) - [Zenn](https://zenn.dev/digiangler) - [Dribbble](https://dribbble.com/digi-angler)
+- [note](https://note.com/digiangler777)
+- [Qiita](https://qiita.com/digiangler)
+- [Zenn](https://zenn.dev/digiangler)
+- [GitHub](https://github.com/digiangler)
+- [Dribbble](https://dribbble.com/digi-angler)
 
-[X](https://x.com/digiangler) - [Bluesky](https://bsky.app/profile/digiangler.bsky.social) - [Instagram](https://instagram.com/digi_angler) - [Threads](https://www.threads.net/@digi_angler)
+- [X](https://x.com/digiangler)
+- [Bluesky](https://bsky.app/profile/digiangler.bsky.social)
+- [Instagram](https://instagram.com/digi_angler)
+- [Threads](https://www.threads.net/@digi_angler)
+- [Mastodon](https://mastodon.social/@digi_angler)
 
 ## 👻 This is my current recommended technology!
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
-[![Bun](https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff)](#)
 [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=fff)](#)
+[![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff)](#)
+[![Radix UI](https://img.shields.io/badge/Radix%20UI-000?logo=radix-ui&logoColor=fff)](#)
+[![Lucide React](https://img.shields.io/badge/Lucide%20React-000?logo=lucide&logoColor=fff)](#)
+[![Clerk](https://img.shields.io/badge/Clerk-000?logo=clerk&logoColor=fff)](#)
 [![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff)](#)
 [![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)](#)
-[![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?logo=drizzle&logoColor=000)](#)
-[![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
-[![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff)](#)
+[![Zod](https://img.shields.io/badge/Zod-F5CA4A?logo=zod&logoColor=fff)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)](#)
 [![Storybook](https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=fff)](#)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)
 [![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=fff)](#)
-[![Warp](https://img.shields.io/badge/Warp-01A4FF?logo=warp&logoColor=fff)](#)
+[![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-79B8FF?logo=github-copilot&logoColor=fff)](#)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-00A400?logo=openai&logoColor=fff)](#)
+[![Claude](https://img.shields.io/badge/Claude-000?logo=claude&logoColor=fff)](#)
+[![Gemini](https://img.shields.io/badge/Gemini-FF4B00?logo=google-gemini&logoColor=fff)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](#)
+[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=fff)](#)
+[![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=fff)](#)
+[![ESLint](https://img.shields.io/badge/ESLint-4B3263?logo=eslint&logoColor=fff)](#)
+[![Prettier](https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=000)](#)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff)](#)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)](#)
-[![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)](#)
+[![Warp](https://img.shields.io/badge/Warp-01A4FF?logo=warp&logoColor=fff)](#)
+[![Raycast](https://img.shields.io/badge/Raycast-000?logo=raycast&logoColor=fff)](#)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff)](#)
 [![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)](#)
+[![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)](#)
+[![Todoist](https://img.shields.io/badge/Todoist-73D5FF?logo=todoist&logoColor=000)](#)
 
-[![Gemini](https://github.com/digiangler/digiangler/blob/main/assets/img/Gemini_Generated_Image_note_member.jpeg)](https://github.com/digiangler)
+[![Profile Image](https://github.com/digiangler/digiangler/blob/main/assets/img/Gemini_Generated_Image_note_member.jpeg)](https://github.com/digiangler)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=digiangler&theme=matrix&row=2&column=7&no-frame=true&no-bg=true)](https://github.com/digiangler/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=digiangler&theme=matrix&row=2&column=9&no-frame=true&no-bg=true)](https://github.com/digiangler/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=digiangler&show_icons=true&locale=ja&layout=compact&theme=merko)](https://github.com/digiangler)
 
