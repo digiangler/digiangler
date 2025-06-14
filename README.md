@@ -1,7 +1,5 @@
 # 👋🏼 Profile README
 
-<!-- > ⚠️ **Note:** This README is a template. Please replace the content with your own information. -->
-
 [![Static Badge](<https://img.shields.io/badge/Digi--Angler-rgb(106%2C90%2C205)>)](#)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/digiangler)
 [![PayPal](https://img.shields.io/badge/PayPal-003087?logo=paypal&logoColor=fff)](#)
