@@ -13,4 +13,4 @@ null*
 .DS_Store
 
 # Add below lines to exclude Obsidian cache
-.histry/
+.history/
