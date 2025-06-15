@@ -43,30 +43,23 @@
 
 システムエンジニアとしてのサラリーマン生活を捨て、フリーランス開発者として個人で生きる道を選んだ理由を、ストーリー仕立てで書きました。
 
-📖 モノづくりに魅せられて 〜北海道生まれのエンジニアが見つけた自由への道〜 [here](https://note.com/digiangler777/n/n1e9be41e34e8)
+[📖 モノづくりに魅せられて 〜北海道生まれのエンジニアが見つけた自由への道〜](https://note.com/digiangler777/n/n1e9be41e34e8)
 
-📖 システムエンジニアからフリーランス開発者へ 〜僕が自由と情熱を選んだ理由〜 [here](https://note.com/digiangler777/n/nfbf5a336a1b6)
+[📖 システムエンジニアからフリーランス開発者へ 〜僕が自由と情熱を選んだ理由〜](https://note.com/digiangler777/n/nfbf5a336a1b6)
 
-📌 **note メンバシップ**
+## 📌 note メンバーシップ
 
-🦄 おおとろの秘密基地：僕の吃音克服フリーランス記 [here](https://note.com/digiangler777/membership)
+[🦄 おおとろの秘密基地：僕の吃音克服フリーランス記](https://note.com/digiangler777/membership)
 
 ## 🦉 Digital Platform
 
 - [Portfolio site](https://digiangler.dev) 【メンテナンス中】
 - [Curriculum vitae](https://github.com/digiangler/curriculum_vitae)
 
-- [note](https://note.com/digiangler777)
-- [Qiita](https://qiita.com/digiangler)
-- [Zenn](https://zenn.dev/digiangler)
-- [GitHub](https://github.com/digiangler)
-- [Dribbble](https://dribbble.com/digi-angler)
+- [note](https://note.com/digiangler777) - [Qiita](https://qiita.com/digiangler) - [Zenn](https://zenn.dev/digiangler)
+- [GitHub](https://github.com/digiangler) - [Dribbble](https://dribbble.com/digi-angler)
 
-- [X](https://x.com/digiangler)
-- [Bluesky](https://bsky.app/profile/digiangler.bsky.social)
-- [Instagram](https://instagram.com/digi_angler)
-- [Threads](https://www.threads.net/@digi_angler)
-- [Mastodon](https://mastodon.social/@digi_angler)
+- [X](https://x.com/digiangler) - [Bluesky](https://bsky.app/profile/digiangler.bsky.social) - [Instagram](https://instagram.com/digi_angler) - [Threads](https://www.threads.net/@digi_angler) - [Mastodon](https://mastodon.social/@digi_angler)
 
 ## 👻 This is my current recommended technology!
 
