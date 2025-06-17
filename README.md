@@ -107,10 +107,12 @@
 
 [![Profile Image](https://github.com/digiangler/digiangler/blob/main/assets/img/Gemini_Generated_Image_note_member.jpeg)](https://github.com/digiangler)
 
-|                                                                               GitHub Profile Trophies                                                                                |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| [![trophy](https://github-profile-trophy.vercel.app/?username=digiangler&theme=matrix&row=2&column=9&no-frame=true&no-bg=true)](https://github.com/digiangler/github-profile-trophy) |
+## 📊 GitHub Stats
 
-|                                                                               GitHub Languages                                                                               |                                                                                                                                                              Spotify Playing                                                                                                                                                               |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Languages | Spotify |
+|:-:|:-:|
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=digiangler&show_icons=true&locale=ja&layout=compact&theme=merko)](https://github.com/digiangler) | [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=7zkt2748z5boqwalbplgbmnbx&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=7zkt2748z5boqwalbplgbmnbx&redirect=true) |
+
+## 🏆 GitHub Profile Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=digiangler&theme=matrix&row=2&column=9&no-frame=true&no-bg=true)](https://github.com/digiangler/github-profile-trophy)
