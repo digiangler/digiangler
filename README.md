@@ -51,6 +51,15 @@
 
 ✉️ <b>興味が合う方や共創に関心のある方</b>は、ぜひ気軽にご連絡ください！
 
+<table><tr>
+<td align="center">
+<img src="assets/img/note_qr.png" alt="note QR" width="140" /><br><b>note メンバーシップ</b>
+</td>
+<td align="center">
+<img src="assets/img/bmc_qr.png" alt="Buy Me a Coffee QR" width="140" /><br><b>Buy Me a Coffee</b>
+</td>
+</tr></table>
+
 ## 🦄 Story & Links
 
 <table>
