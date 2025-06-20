@@ -15,8 +15,6 @@
 
 ## 📝 About Me
 
-<div align="center">
-
 ### 👋 こんにちは！おおとろです。
 
 #### 肩書
@@ -25,23 +23,21 @@
 
 ---
 
-#### Mission
+#### <span style="color:#00BFFF;">Mission</span>
 
-⚙️ <b>技術の可能性</b>に魅せられ、クライアントワークの<b>受託開発</b>から、自分の価値観を反映する<b>個人開発</b>まで幅広く活動。
+⚙️ <b><span style="color:#00BFFF;">技術の可能性</span></b>に魅せられ、クライアントワークの<b><span style="color:#FF69B4;">受託開発</span></b>から、自分の価値観を反映する<b><span style="color:#FFD700;">個人開発</span></b>まで幅広く活動。
 
-#### Strength
+#### <span style="color:#32CD32;">Strength</span>
 
-🔧 <b>フルサイクル</b>での開発を得意とし、<b>UI/UX</b> から <b>フロントエンド</b>、<b>バックエンド</b>、<b>AI 駆動のソリューション</b>まで一気通貫で構築。
+🔧 <b><span style="color:#32CD32;">フルサイクル</span></b>での開発を得意とし、<b><span style="color:#FF8C00;">UI/UX</span></b> から <b><span style="color:#1E90FF;">フロントエンド</span></b>、<b><span style="color:#8A2BE2;">バックエンド</span></b>、<b><span style="color:#FF1493;">AI 駆動のソリューション</span></b>まで一気通貫で構築。
 
-#### Focus
+#### <span style="color:#FF69B4;">Focus</span>
 
-💡 <b>生成 AI</b>を活かした<b>AI 駆動開発</b>にも注力し、<b>バイブコーディング</b>でコードにリズムと美学を宿す。
+💡 <b><span style="color:#FF69B4;">生成 AI</span></b>を活かした<b><span style="color:#FF69B4;">AI 駆動開発</span></b>にも注力し、<b><span style="color:#00CED1;">バイブコーディング</span></b>でコードにリズムと美学を宿す。
 
-#### Value
+#### <span style="color:#FFD700;">Value</span>
 
-💡 <b>物語性と技術</b>を掛け合わせ、<b>価値あるプロダクト</b>を創出。
-
-</div>
+💡 <b><span style="color:#FFD700;">物語性と技術</span></b>を掛け合わせ、<b><span style="color:#FFD700;">価値あるプロダクト</span></b>を創出。
 
 | 📌 **得意領域** digi-angler_github_header_v2                | 📌 **開発スタイル**               | 📌 **現在の注力分野**                              |
 | :---------------------------------------------------------- | :-------------------------------- | :------------------------------------------------- |
