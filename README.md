@@ -9,7 +9,7 @@
 [![GitHub followers](<https://img.shields.io/github/followers/digiangler?style=social&logoColor=rgb(106%2C90%2C205)>)](#)
 [![Twitch Status](https://img.shields.io/twitch/status/digiangler)](#)
 
-<img src="https://github.com/digiangler/digiangler/blob/main/assets/img/Gemini_Generated_Image_note_member.jpeg" alt="Profile Image" width="400" />
+<img src="https://github.com/digiangler/digiangler/blob/main/assets/img/digi-angler_github_header_v2.jpg" alt="Profile Header Image" width="800" />
 
 </div>
 
@@ -31,7 +31,7 @@
 
 </div>
 
-| 📌 **得意領域**                                             | 📌 **開発スタイル**               | 📌 **現在の注力分野**                              |
+| 📌 **得意領域** digi-angler_github_header_v2                | 📌 **開発スタイル**               | 📌 **現在の注力分野**                              |
 | :---------------------------------------------------------- | :-------------------------------- | :------------------------------------------------- |
 | - フルサイクル開発<br>- バイブコーディング<br>- AI 駆動開発 | - 共感と体験を重視した UI/UX 設計 | - 個人開発プロジェクトの継続的改善とスケールアップ |
 
