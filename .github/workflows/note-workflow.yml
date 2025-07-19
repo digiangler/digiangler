@@ -2,7 +2,7 @@ name: Latest note post workflow
 on:
   schedule:
     # Runs every hour
-    - cron: "0 * * * *"
+    - cron: '0 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -10,8 +10,8 @@ jobs:
     name: Update this repo's README with latest note posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          comment_tag_name: "NOTE"
-          feed_list: "https://note.com/digiangler777/rss"
+          comment_tag_name: 'NOTE'
+          feed_list: 'https://note.com/digiangler777/rss'
