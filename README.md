@@ -232,10 +232,12 @@
 
 ### 🍣 note
 
-<!--NOTE_START-->
-<!--NOTE_END-->
+<!-- NOTE:START --> <!-- NOTE:END -->
 
 ### 🍣 Qiita
 
-<!--QIITA_START-->
-<!--QIITA_END-->
+<!-- QIITA:START --> <!-- QIITA:END -->
+
+### 🍣 Zenn
+
+<!-- ZENN:START --> <!-- ZENN:END -->
