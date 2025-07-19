@@ -233,6 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [「また、うまく話せないかも…」 会議前の不安が楽しみに変わった、吃音症と僕の小さな工夫](https://note.com/digiangler777/n/n66c159397bd5)
+- [【SF小説】プロジェクト・ラプラスの亡霊 第二幕 （16）](https://note.com/digiangler777/n/ne3bb8bfbaabb)
+- [AI 時代に、Git の “巻き戻し” がくれた自由](https://note.com/digiangler777/n/nddd79fc7e41a)
+- [【SF小説】プロジェクト・ラプラスの亡霊 第二幕 （15）](https://note.com/digiangler777/n/n83ac278d35d4)
+- [そのコンポーネント、本当に使いこなせてる？ 〜 shadcn/ui の 「思想」 を理解して、保守性と開発速度を両立させた僕の物語〜](https://note.com/digiangler777/n/n2a58fc4b949b)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
