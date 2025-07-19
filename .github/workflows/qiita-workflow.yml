@@ -17,4 +17,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: 'QIITA'
-          feed_list: 'https://qiita.com/digiangler/feed.atom'
+          feed_list: 'https://qiita.com/digiangler/feed'
