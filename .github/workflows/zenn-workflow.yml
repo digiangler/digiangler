@@ -14,4 +14,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: 'NOTE'
-          feed_list: 'https://zenn.dev/digiangler/rss'
+          feed_list: 'https://zenn.dev/digiangler/feed'
