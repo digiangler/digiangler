@@ -232,10 +232,10 @@
 
 ### 🍣 note
 
-<!--NOTE:START-->
-<!--NOTE:END-->
+<!--NOTE_START-->
+<!--NOTE_END-->
 
 ### 🍣 Qiita
 
-<!--QIITA:START-->
-<!--QIITA:END-->
+<!--QIITA_START-->
+<!--QIITA_END-->
