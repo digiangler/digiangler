@@ -21,25 +21,25 @@
 
 #### 肩書
 
-<span style="font-size:1.1em;font-weight:bold;">フリーランスの <span style="color:#6A5ACD;">フルサイクル開発者</span> ✕ <span style="color:#FF8C00;">内省的ストーリーテラー</span></span>
+**フリーランスのフルサイクル開発者 ✕ 内省的ストーリーテラー**
 
 ---
 
-#### <span style="color:#00BFFF;">Mission</span>
+#### Mission
 
-⚙️ <b><span style="color:#00BFFF;">技術の可能性</span></b>に魅せられ、クライアントワークの<b><span style="color:#FF69B4;">受託開発</span></b>から、自分の価値観を反映する<b><span style="color:#FFD700;">個人開発</span></b>まで幅広く活動。
+⚙️ **技術の可能性**に魅せられ、クライアントワークの**受託開発**から、自分の価値観を反映する**個人開発**まで幅広く活動。
 
-#### <span style="color:#32CD32;">Strength</span>
+#### Strength
 
-🔧 <b><span style="color:#32CD32;">フルサイクル</span></b>での開発を得意とし、<b><span style="color:#FF8C00;">UI/UX</span></b> から <b><span style="color:#1E90FF;">フロントエンド</span></b>、<b><span style="color:#8A2BE2;">バックエンド</span></b>、<b><span style="color:#FF1493;">AI 駆動のソリューション</span></b>まで一気通貫で構築。
+🔧 **フルサイクル**での開発を得意とし、**UI/UX** から **フロントエンド**、**バックエンド**、**AI 駆動のソリューション**まで一気通貫で構築。
 
-#### <span style="color:#FF69B4;">Focus</span>
+#### Focus
 
-💡 <b><span style="color:#FF69B4;">生成 AI</span></b>を活かした<b><span style="color:#FF69B4;">AI 駆動開発</span></b>にも注力し、<b><span style="color:#00CED1;">バイブコーディング</span></b>でコードにリズムと美学を宿す。
+💡 **生成 AI**を活かした**AI 駆動開発**にも注力し、**バイブコーディング**でコードにリズムと美学を宿す。
 
-#### <span style="color:#FFD700;">Value</span>
+#### Value
 
-💡 <b><span style="color:#FFD700;">物語性と技術</span></b>を掛け合わせ、<b><span style="color:#FFD700;">価値あるプロダクト</span></b>を創出。
+💡 **物語性と技術**を掛け合わせ、**価値あるプロダクト**を創出。
 
 | 📌 **得意領域**                                             | 📌 **開発スタイル**               | 📌 **現在の注力分野**                              |
 | :---------------------------------------------------------- | :-------------------------------- | :------------------------------------------------- |
@@ -47,11 +47,24 @@
 
 #### Philosophy
 
-🎣 <b>釣りや珈琲</b>に情熱を注ぎつつ、<b>物語を紡ぐようにコードを書く</b>のが信条。
+🎣 **釣りや珈琲**に情熱を注ぎつつ、**物語を紡ぐようにコードを書く**のが信条。
+「**Vibe Coding**」とは、単に機能するコードを書くだけでなく、その**可読性、保守性、そして開発者自身の体験（DX）**にまでこだわる開発スタイルです。美しいコードは、良い音楽のように心地よいリズムと調和を生み出します。
+
+#### My Favorite Things
+
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=fff)](https://code.visualstudio.com/)
+[![Warp](https://img.shields.io/badge/Warp-01A4FF?logo=warp&logoColor=fff)](https://www.warp.dev/)
+[![Obsidian](https://img.shields.io/badge/Obsidian-%23483699?logo=obsidian&logoColor=white)](https://obsidian.md/)
+[![Herman Miller](https://img.shields.io/badge/Herman_Miller-000?logo=herman-miller&logoColor=fff)](https://www.hermanmiller.com/)
+[![Coffee](https://img.shields.io/badge/Coffee-6F4E37?logo=coffeescript&logoColor=fff)](https://www.google.com/search?q=specialty+coffee)
+[![Fishing](https://img.shields.io/badge/Fishing-0077B6?logo=fish&logoColor=fff)](https://www.google.com/search?q=lure+fishing)
 
 #### Message
 
-✉️ <b>興味が合う方や共創に関心のある方</b>は、ぜひ気軽にご連絡ください！
+✉️ **興味が合う方や共創に関心のある方**、お気軽にご連絡ください！
+
+- **お力になれること**: Next.js/TypeScript を用いた Web アプリケーションのフルサイクル開発、AI 駆動開発の導入支援、UI/UX の壁打ちなど。
+- **探していること**: 社会的意義のあるプロジェクトへの参加、新しい技術に挑戦できる共創パートナー。
 
 <table><tr>
 <td align="center">
@@ -119,10 +132,10 @@
 
 ### 🤖 AI & Productivity
 
-[![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-79B8FF?logo=github-copilot&logoColor=fff)](https://github.com/features/copilot)
-[![ChatGPT](https://img.shields.io/badge/ChatGPT-00A400?logo=openai&logoColor=fff)](https://chat.openai.com/)
-[![Claude](https://img.shields.io/badge/Claude-000?logo=claude&logoColor=fff)](https://claude.ai/)
-[![Gemini](https://img.shields.io/badge/Gemini-FF4B00?logo=google-gemini&logoColor=fff)](https://gemini.google.com/)
+[![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=github-copilot&logoColor=fff)](https://github.com/features/copilot)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?logo=openai&logoColor=fff)](https://chat.openai.com/)
+[![Claude](https://img.shields.io/badge/Claude-D97A53?logo=claude&logoColor=fff)](https://claude.ai/)
+[![Gemini](https://img.shields.io/badge/Gemini-8E4BFF?logo=google-gemini&logoColor=fff)](https://gemini.google.com/)
 
 ### 📚 Backend & Database
 
@@ -135,7 +148,7 @@
 [![SWR](https://img.shields.io/badge/SWR-000?logo=swr&logoColor=fff)](https://swr.vercel.app/)
 [![React Query](https://img.shields.io/badge/React%20Query-FF4154?logo=react-query&logoColor=fff)](https://tanstack.com/query/latest)
 [![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?logo=react-hook-form&logoColor=fff)](https://react-hook-form.com/)
-[![Zod](https://img.shields.io/badge/Zod-F5CA4A?logo=zod&logoColor=fff)](https://zod.dev/)
+[![Zod](https://img.shields.io/badge/Zod-3E67B1?logo=zod&logoColor=fff)](https://zod.dev/)
 
 ### 🛡 DevOps & Security
 
@@ -143,16 +156,16 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/)
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=fff)](https://github.com/features/actions)
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=fff)](https://www.cloudflare.com/)
-[![Clerk](https://img.shields.io/badge/Clerk-000?logo=clerk&logoColor=fff)](https://clerk.com/)
+[![Clerk](https://img.shields.io/badge/Clerk-6C47FF?logo=clerk&logoColor=fff)](https://clerk.com/)
 
 ### 🎯 Productivity & Organization
 
 [![Warp](https://img.shields.io/badge/Warp-01A4FF?logo=warp&logoColor=fff)](https://www.warp.dev/)
-[![Raycast](https://img.shields.io/badge/Raycast-000?logo=raycast&logoColor=fff)](https://www.raycast.com/)
+[![Raycast](https://img.shields.io/badge/Raycast-FF6363?logo=raycast&logoColor=fff)](https://www.raycast.com/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff)](https://discord.com/)
 [![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)](https://www.notion.so/)
 [![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)](https://obsidian.md/)
-[![Todoist](https://img.shields.io/badge/Todoist-73D5FF?logo=todoist&logoColor=000)](https://todoist.com/)
+[![Todoist](https://img.shields.io/badge/Todoist-E44232?logo=todoist&logoColor=fff)](https://todoist.com/)
 
 </div>
 
