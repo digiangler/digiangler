@@ -48,11 +48,12 @@
 #### Philosophy
 
 🎣 **釣りや珈琲**に情熱を注ぎつつ、**物語を紡ぐようにコードを書く**のが信条。
-「**Vibe Coding**」とは、単に機能するコードを書くだけでなく、その**可読性、保守性、そして開発者自身の体験（DX）**にまでこだわる開発スタイルです。美しいコードは、良い音楽のように心地よいリズムと調和を生み出します。
+「**Vibe Coding**」とは、単に機能するコードを書くだけでなく、その**可読性、保守性、そして開発者自身の体験（DX）** にまでこだわる開発スタイルです。美しいコードは、良い音楽のように心地よいリズムと調和を生み出します。
 
 #### My Favorite Things
 
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=fff)](https://code.visualstudio.com/)
+[![Cursor](https://img.shields.io/badge/Cursor-000?logo=cursor&logoColor=white)](https://cursor.sh/)
 [![Warp](https://img.shields.io/badge/Warp-01A4FF?logo=warp&logoColor=fff)](https://www.warp.dev/)
 [![Obsidian](https://img.shields.io/badge/Obsidian-%23483699?logo=obsidian&logoColor=white)](https://obsidian.md/)
 [![Herman Miller](https://img.shields.io/badge/Herman_Miller-000?logo=herman-miller&logoColor=fff)](https://www.hermanmiller.com/)
@@ -109,32 +110,51 @@
 ### 🛠 Languages & Frameworks
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](https://www.typescriptlang.org/)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)](https://www.php.net/)
+[![Ruby](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white)](https://www.ruby-lang.org/)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://www.python.org/)
+[![C#](https://img.shields.io/badge/C%23-512BD4?logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff)](https://nodejs.org/)
 [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=fff)](https://react.dev/)
 [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](https://nextjs.org/)
+[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)](https://vuejs.org/)
+[![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxt.js&logoColor=white)](https://nuxt.com/)
+[![Astro](https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=white)](https://astro.build/)
+[![Svelte](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white)](https://svelte.dev/)
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)](https://laravel.com/)
+[![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?logo=ruby-on-rails&logoColor=white)](https://rubyonrails.org/)
+[![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![Hono](https://img.shields.io/badge/Hono-E36002?logo=hono&logoColor=white)](https://hono.dev/)
 
 ### 🎨 UI & Design
 
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=fff)](https://tailwindcss.com/)
 [![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff)](https://ui.shadcn.com/)
+[![MUI](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white)](https://mui.com/)
 [![Radix UI](https://img.shields.io/badge/Radix%20UI-000?logo=radix-ui&logoColor=fff)](https://www.radix-ui.com/)
 [![Lucide React](https://img.shields.io/badge/Lucide%20React-000?logo=lucide&logoColor=fff)](https://lucide.dev/)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](https://www.figma.com/)
+[![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)](https://www.canva.com/)
 
 ### 🔧 Development Tools
 
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](https://www.docker.com/)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)](https://vercel.com/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](https://www.postman.com/)
 [![Storybook](https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=fff)](https://storybook.js.org/)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](https://vitejs.dev/)
 [![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=fff)](https://vitest.dev/)
+[![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)](https://playwright.dev/)
+[![Bun](https://img.shields.io/badge/Bun-000?logo=bun&logoColor=white)](https://bun.sh/)
+[![Prettier](https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=black)](https://prettier.io/)
+[![ESLint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white)](https://eslint.org/)
 
 ### 🤖 AI & Productivity
 
 [![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=github-copilot&logoColor=fff)](https://github.com/features/copilot)
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?logo=openai&logoColor=fff)](https://chat.openai.com/)
 [![Claude](https://img.shields.io/badge/Claude-D97A53?logo=claude&logoColor=fff)](https://claude.ai/)
+[![Perplexity](https://img.shields.io/badge/Perplexity-000?logo=perplexity&logoColor=white)](https://www.perplexity.ai/)
 [![Gemini](https://img.shields.io/badge/Gemini-8E4BFF?logo=google-gemini&logoColor=fff)](https://gemini.google.com/)
 
 ### 📚 Backend & Database
@@ -142,6 +162,9 @@
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)](https://www.prisma.io/)
 [![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff)](https://supabase.io/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)](https://www.oracle.com/database/)
 
 ### 🔄 State Management & Forms
 
@@ -157,15 +180,31 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=fff)](https://github.com/features/actions)
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=fff)](https://www.cloudflare.com/)
 [![Clerk](https://img.shields.io/badge/Clerk-6C47FF?logo=clerk&logoColor=fff)](https://clerk.com/)
+[![Stripe](https://img.shields.io/badge/Stripe-6772E5?logo=stripe&logoColor=white)](https://stripe.com/)
 
 ### 🎯 Productivity & Organization
 
 [![Warp](https://img.shields.io/badge/Warp-01A4FF?logo=warp&logoColor=fff)](https://www.warp.dev/)
 [![Raycast](https://img.shields.io/badge/Raycast-FF6363?logo=raycast&logoColor=fff)](https://www.raycast.com/)
+[![GitKraken](https://img.shields.io/badge/GitKraken-179287?logo=gitkraken&logoColor=white)](https://www.gitkraken.com/)
+[![asdf](https://img.shields.io/badge/asdf-00A4E4?logo=asdf&logoColor=white)](https://asdf-vm.com/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff)](https://discord.com/)
 [![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)](https://www.notion.so/)
 [![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)](https://obsidian.md/)
 [![Todoist](https://img.shields.io/badge/Todoist-E44232?logo=todoist&logoColor=fff)](https://todoist.com/)
+[![Chatwork](https://img.shields.io/badge/Chatwork-2EA6E5?logo=chatwork&logoColor=white)](https://www.chatwork.com/)
+[![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white)](https://slack.com/)
+[![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
+[![Statusbrew](https://img.shields.io/badge/Statusbrew-1A91DA?logo=statusbrew&logoColor=white)](https://statusbrew.com/)
+[![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white)](https://zoom.us/)
+
+### 🌱 Currently Learning
+
+[![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)](https://www.rust-lang.org/)
+[![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)](https://go.dev/)
+[![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)](https://dart.dev/)
+[![React Native](https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=black)](https://reactnative.dev/)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)](https://flutter.dev/)
 
 </div>
 
@@ -193,10 +232,10 @@
 
 ### 🍣 note
 
-<!--NOTE_START-->
-<!--NOTE_END-->
+<!--NOTE:START-->
+<!--NOTE:END-->
 
 ### 🍣 Qiita
 
-<!--QIITA_START-->
-<!--QIITA_END-->
+<!--QIITA:START-->
+<!--QIITA:END-->
