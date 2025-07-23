@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [「ターミナルって、こんなに進化するの？」 〜開発に没頭していた僕が、Warp で見つけた新しいコーディングの楽しさ〜](https://note.com/digiangler777/n/n52952057ad89)
 - [【SF小説】プロジェクト・ラプラスの亡霊 第三幕 （18）](https://note.com/digiangler777/n/nb7f8a063b8b1)
 - [燃え尽きる前に知りたかった、目標の 「ちょうどいい」 設定法 〜フリーランスが長く走り続けるための、僕の実践記〜](https://note.com/digiangler777/n/nf317e6a0e020)
 - [【SF小説】プロジェクト・ラプラスの亡霊 第三幕 （17）](https://note.com/digiangler777/n/n4efecefe79e8)
 - [「また、うまく話せないかも…」 会議前の不安が楽しみに変わった、吃音症と僕の小さな工夫](https://note.com/digiangler777/n/n66c159397bd5)
-- [【SF小説】プロジェクト・ラプラスの亡霊 第二幕 （16）](https://note.com/digiangler777/n/ne3bb8bfbaabb)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
