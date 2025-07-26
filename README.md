@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [今、あなたは “AI を笑う側” に立っていないか？──あの頃、“ネットなんてオタクのもの” と笑っていた人は、いまどこにいるのか？](https://note.com/digiangler777/n/n01eda7a551be)
+- [【SF小説】プロジェクト・ラプラスの亡霊 第三幕 （20）](https://note.com/digiangler777/n/n9ac1fb62e027)
 - [「ただの日記」 で終わらせない。思考のピラミッドを築く、僕のジャーナルシステム徹底解説](https://note.com/digiangler777/n/n267d832f2d28)
 - [【SF小説】プロジェクト・ラプラスの亡霊 第三幕 （19）](https://note.com/digiangler777/n/n4b577bb03b5a)
 - [「ターミナルって、こんなに進化するの？」 〜開発に没頭していた僕が、Warp で見つけた新しいコーディングの楽しさ〜](https://note.com/digiangler777/n/n52952057ad89)
-- [【SF小説】プロジェクト・ラプラスの亡霊 第三幕 （18）](https://note.com/digiangler777/n/nb7f8a063b8b1)
-- [燃え尽きる前に知りたかった、目標の 「ちょうどいい」 設定法 〜フリーランスが長く走り続けるための、僕の実践記〜](https://note.com/digiangler777/n/nf317e6a0e020)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
