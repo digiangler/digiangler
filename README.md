@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [【SF小説】プロジェクト・ラプラスの亡霊 第三幕 （21）最終章](https://note.com/digiangler777/n/n755ed8a56ba1)
 - [今、あなたは “AI を笑う側” に立っていないか？──あの頃、“ネットなんてオタクのもの” と笑っていた人は、いまどこにいるのか？](https://note.com/digiangler777/n/n01eda7a551be)
 - [【SF小説】プロジェクト・ラプラスの亡霊 第三幕 （20）](https://note.com/digiangler777/n/n9ac1fb62e027)
 - [「ただの日記」 で終わらせない。思考のピラミッドを築く、僕のジャーナルシステム徹底解説](https://note.com/digiangler777/n/n267d832f2d28)
 - [【SF小説】プロジェクト・ラプラスの亡霊 第三幕 （19）](https://note.com/digiangler777/n/n4b577bb03b5a)
-- [「ターミナルって、こんなに進化するの？」 〜開発に没頭していた僕が、Warp で見つけた新しいコーディングの楽しさ〜](https://note.com/digiangler777/n/n52952057ad89)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
