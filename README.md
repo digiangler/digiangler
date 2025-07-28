@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [AI は、僕たちの 「内面」 に足を踏み入れてきた。――インターネット黎明期を生きた僕たちへ](https://note.com/digiangler777/n/n855db3ca8b1d)
+- [歴史はまた繰り返されるのか──AI 黎明期の入り口で](https://note.com/digiangler777/n/n0945fa795dc3)
 - [【SF小説】プロジェクト・ラプラスの亡霊 第三幕 （21）最終章](https://note.com/digiangler777/n/n755ed8a56ba1)
 - [今、あなたは “AI を笑う側” に立っていないか？──あの頃、“ネットなんてオタクのもの” と笑っていた人は、いまどこにいるのか？](https://note.com/digiangler777/n/n01eda7a551be)
 - [【SF小説】プロジェクト・ラプラスの亡霊 第三幕 （20）](https://note.com/digiangler777/n/n9ac1fb62e027)
-- [「ただの日記」 で終わらせない。思考のピラミッドを築く、僕のジャーナルシステム徹底解説](https://note.com/digiangler777/n/n267d832f2d28)
-- [【SF小説】プロジェクト・ラプラスの亡霊 第三幕 （19）](https://note.com/digiangler777/n/n4b577bb03b5a)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
