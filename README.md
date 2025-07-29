@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [思考のピラミッドを築く Vol.2 〜 1 日を司令塔に変える 「最強デイリーノート」 徹底解説〜](https://note.com/digiangler777/n/nca49985dbb32)
 - [AI は、僕たちの 「内面」 に足を踏み入れてきた。――インターネット黎明期を生きた僕たちへ](https://note.com/digiangler777/n/n855db3ca8b1d)
 - [歴史はまた繰り返されるのか──AI 黎明期の入り口で](https://note.com/digiangler777/n/n0945fa795dc3)
 - [【SF小説】プロジェクト・ラプラスの亡霊 第三幕 （21）最終章](https://note.com/digiangler777/n/n755ed8a56ba1)
 - [今、あなたは “AI を笑う側” に立っていないか？──あの頃、“ネットなんてオタクのもの” と笑っていた人は、いまどこにいるのか？](https://note.com/digiangler777/n/n01eda7a551be)
-- [【SF小説】プロジェクト・ラプラスの亡霊 第三幕 （20）](https://note.com/digiangler777/n/n9ac1fb62e027)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
