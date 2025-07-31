@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [小説 「プロジェクト・ラプラスの亡霊」 の登場人物たち 〜吃音症エンジニアが描く、現実と虚構の間で生きる人々の物語〜](https://note.com/digiangler777/n/nf721d24eeeac)
+- [僕が地雷案件で心を壊しかけた話 〜フリーランスが見抜くべき 「ヤバい仕事」 の兆候と、自分を守るための実践術〜](https://note.com/digiangler777/n/n3028e37cad1c)
 - [思考のピラミッドを築く Vol.2 〜 1 日を司令塔に変える 「最強デイリーノート」 徹底解説〜](https://note.com/digiangler777/n/nca49985dbb32)
 - [AI は、僕たちの 「内面」 に足を踏み入れてきた。――インターネット黎明期を生きた僕たちへ](https://note.com/digiangler777/n/n855db3ca8b1d)
 - [歴史はまた繰り返されるのか──AI 黎明期の入り口で](https://note.com/digiangler777/n/n0945fa795dc3)
-- [【SF小説】プロジェクト・ラプラスの亡霊 第三幕 （21）最終章](https://note.com/digiangler777/n/n755ed8a56ba1)
-- [今、あなたは “AI を笑う側” に立っていないか？──あの頃、“ネットなんてオタクのもの” と笑っていた人は、いまどこにいるのか？](https://note.com/digiangler777/n/n01eda7a551be)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
