@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [思考のピラミッドを築く Vol.4 〜週次の努力を成果に変える 「月次レビュー」 戦略〜](https://note.com/digiangler777/n/n03b92091ab68)
 - [思考のピラミッドを築く Vol.3 〜日々の記録を成長に変える 「無敵の週次レビュー」〜](https://note.com/digiangler777/n/n675323d338c8)
 - [小説の舞台裏を全公開 〜『プロジェクト・ラプラスの亡霊』 の世界を構築した技術と組織の全貌〜](https://note.com/digiangler777/n/nb128ba872cba)
 - [「キャリアがぐちゃぐちゃ…」 と悩むあなたへ 〜僕の 20 年の紆余曲折が、すべて &quot;伏線&quot; だったと気づいた話〜](https://note.com/digiangler777/n/n93c6c4c69309)
 - [小説 「プロジェクト・ラプラスの亡霊」 の登場人物たち 〜吃音症エンジニアが描く、現実と虚構の間で生きる人々の物語〜](https://note.com/digiangler777/n/nf721d24eeeac)
-- [僕が地雷案件で心を壊しかけた話 〜フリーランスが見抜くべき 「ヤバい仕事」 の兆候と、自分を守るための実践術〜](https://note.com/digiangler777/n/n3028e37cad1c)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
