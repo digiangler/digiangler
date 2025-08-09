@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [あの日の環境構築地獄にサヨナラを 〜 Docker 初心者の僕が、たった 1 つのファイルで未来の自分を救った物語〜](https://note.com/digiangler777/n/n0f45abfee6e0)
 - [思考のピラミッドを築く Vol.5 〜未来を形作る 「四半期レビュー」 戦略〜](https://note.com/digiangler777/n/n7222c3d8f552)
 - [僕は、書くことで自分の輪郭を取り戻した](https://note.com/digiangler777/n/n79c35c19a1aa)
 - [思考のピラミッドを築く Vol.4 〜週次の努力を成果に変える 「月次レビュー」 戦略〜](https://note.com/digiangler777/n/n03b92091ab68)
 - [思考のピラミッドを築く Vol.3 〜日々の記録を成長に変える 「無敵の週次レビュー」〜](https://note.com/digiangler777/n/n675323d338c8)
-- [小説の舞台裏を全公開 〜『プロジェクト・ラプラスの亡霊』 の世界を構築した技術と組織の全貌〜](https://note.com/digiangler777/n/nb128ba872cba)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
