@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [宮沢賢治 — 詩と物語を紡ぐ断片ノート](https://note.com/digiangler777/n/necaf6b6054cd)
 - [「消えた一行の真実」──アガサ・クリスティから学ぶ、物語の余白術](https://note.com/digiangler777/n/nf1dc32f26283)
 - [思考のピラミッドを築く Vol.6 〜 1 年の歩みを未来の資産に変える 「年次レビュー」〜](https://note.com/digiangler777/n/ne065ed42f042)
 - [あの日の環境構築地獄にサヨナラを 〜 Docker 初心者の僕が、たった 1 つのファイルで未来の自分を救った物語〜](https://note.com/digiangler777/n/n0f45abfee6e0)
 - [思考のピラミッドを築く Vol.5 〜未来を形作る 「四半期レビュー」 戦略〜](https://note.com/digiangler777/n/n7222c3d8f552)
-- [僕は、書くことで自分の輪郭を取り戻した](https://note.com/digiangler777/n/n79c35c19a1aa)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
