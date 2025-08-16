@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [バックエンド開発に “羅針盤” を 〜僕が Prisma という地図を手に入れ、型のないデータベースの荒波を乗りこなした航海日誌〜](https://note.com/digiangler777/n/n6659fb606d03)
+- [上司は、昨日の自分 〜僕が実践する、フリーランスのための 「未来の自分を裏切らない」 タスク管理術〜](https://note.com/digiangler777/n/nb42ef1145c3f)
 - [アガサ・クリスティ — 推理の糸口はメモから](https://note.com/digiangler777/n/n31d6ff1857ee)
 - [コードが行き詰まった僕を救ったのは、一匹の魚だった。 〜趣味の釣りが教えてくれた、最強の思考リセット術〜](https://note.com/digiangler777/n/n2301a39b80bb)
 - [あなたの言葉が、僕の 「書く理由」 になった 〜一方通行だと思っていた発信が、読者との対話で &quot;奇跡&quot; に変わった物語〜](https://note.com/digiangler777/n/n8700fe3c139f)
-- [宮沢賢治 — 詩と物語を紡ぐ断片ノート](https://note.com/digiangler777/n/necaf6b6054cd)
-- [「消えた一行の真実」──アガサ・クリスティから学ぶ、物語の余白術](https://note.com/digiangler777/n/nf1dc32f26283)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
