@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [「いつかメッキが剥がれるのでは…」 という恐怖 〜僕がインポスター症候群と向き合い、ありのままの自分を受け入れられるようになった話〜](https://note.com/digiangler777/n/nc636898bb4f0)
+- [手塚治虫 — 無限のアイディアをノートに生かす](https://note.com/digiangler777/n/n65132b400612)
 - [バックエンド開発に “羅針盤” を 〜僕が Prisma という地図を手に入れ、型のないデータベースの荒波を乗りこなした航海日誌〜](https://note.com/digiangler777/n/n6659fb606d03)
 - [上司は、昨日の自分 〜僕が実践する、フリーランスのための 「未来の自分を裏切らない」 タスク管理術〜](https://note.com/digiangler777/n/nb42ef1145c3f)
 - [アガサ・クリスティ — 推理の糸口はメモから](https://note.com/digiangler777/n/n31d6ff1857ee)
-- [コードが行き詰まった僕を救ったのは、一匹の魚だった。 〜趣味の釣りが教えてくれた、最強の思考リセット術〜](https://note.com/digiangler777/n/n2301a39b80bb)
-- [あなたの言葉が、僕の 「書く理由」 になった 〜一方通行だと思っていた発信が、読者との対話で &quot;奇跡&quot; に変わった物語〜](https://note.com/digiangler777/n/n8700fe3c139f)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
