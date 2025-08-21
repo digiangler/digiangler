@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [「継続は力なり」 ——ありふれた言葉が、僕の人生の &quot;羅針盤&quot; になった日](https://note.com/digiangler777/n/nc51482aab866)
+- [デプロイは、もう怖くない！ 〜僕が Vercel を使って、フロントエンド開発の面倒なアレコレから解放された話〜](https://note.com/digiangler777/n/nbfa473ba1809)
 - [僕が月収 100 万円を目指す、本当の理由 〜それは、ただ稼ぎたいんじゃない。両親に 「故郷の家」 を贈るためだった〜](https://note.com/digiangler777/n/nd5c082b88e5a)
 - [「いつかメッキが剥がれるのでは…」 という恐怖 〜僕がインポスター症候群と向き合い、ありのままの自分を受け入れられるようになった話〜](https://note.com/digiangler777/n/nc636898bb4f0)
 - [手塚治虫 — 無限のアイディアをノートに生かす](https://note.com/digiangler777/n/n65132b400612)
-- [バックエンド開発に “羅針盤” を 〜僕が Prisma という地図を手に入れ、型のないデータベースの荒波を乗りこなした航海日誌〜](https://note.com/digiangler777/n/n6659fb606d03)
-- [上司は、昨日の自分 〜僕が実践する、フリーランスのための 「未来の自分を裏切らない」 タスク管理術〜](https://note.com/digiangler777/n/nb42ef1145c3f)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
