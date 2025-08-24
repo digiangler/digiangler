@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [ベンジャミン・フランクリン — 自己改善のメモ術](https://note.com/digiangler777/n/n92226e7f7f45)
 - [浮気しない。僕が React を選ぶ理由](https://note.com/digiangler777/n/n2d50df196f6a)
 - [「昨日の自分」 が最強の相談相手だった 〜僕がフリーランスとして実践する、KPT 法を用いた月次レビュー術〜](https://note.com/digiangler777/n/n34a3641a059d)
 - [「継続は力なり」 ——ありふれた言葉が、僕の人生の &quot;羅針盤&quot; になった日](https://note.com/digiangler777/n/nc51482aab866)
 - [デプロイは、もう怖くない！ 〜僕が Vercel を使って、フロントエンド開発の面倒なアレコレから解放された話〜](https://note.com/digiangler777/n/nbfa473ba1809)
-- [僕が月収 100 万円を目指す、本当の理由 〜それは、ただ稼ぎたいんじゃない。両親に 「故郷の家」 を贈るためだった〜](https://note.com/digiangler777/n/nd5c082b88e5a)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
