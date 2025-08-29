@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [苦悩の先に見えた 「ありがとう」 の通知](https://note.com/digiangler777/n/n5192c158259f)
+- [「選べる ＝ 自由」 ではなかった。僕が気づいたこと](https://note.com/digiangler777/n/n030261bcffcc)
 - [「吃音でよかった」 と思えるようになった日の話](https://note.com/digiangler777/n/n6822e948a772)
 - [良い断り方で、むしろ信頼される方法](https://note.com/digiangler777/n/n34794153c9a5)
 - [色々試して残った、VSCode スタメン拡張機能 5 選](https://note.com/digiangler777/n/nb33ca6cc0166)
-- [ベンジャミン・フランクリン — 自己改善のメモ術](https://note.com/digiangler777/n/n92226e7f7f45)
-- [浮気しない。僕が React を選ぶ理由](https://note.com/digiangler777/n/n2d50df196f6a)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
