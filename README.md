@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [走り続けた 8 月の僕と、これからの話](https://note.com/digiangler777/n/n6f317b7f2d8f)
+- [レオナルド・ダ・ヴィンチ — 頭の中の宇宙を紙に落とす男](https://note.com/digiangler777/n/n527241e334c0)
 - [ページの匂い、紙の質感、装丁の美学──僕の読書哲学](https://note.com/digiangler777/n/nf71bb067a31c)
 - [白衣を脱いだ SE の、Web モノづくり奮闘記](https://note.com/digiangler777/n/n76c289af71d3)
 - [苦悩の先に見えた 「ありがとう」 の通知](https://note.com/digiangler777/n/n5192c158259f)
-- [「選べる ＝ 自由」 ではなかった。僕が気づいたこと](https://note.com/digiangler777/n/n030261bcffcc)
-- [「吃音でよかった」 と思えるようになった日の話](https://note.com/digiangler777/n/n6822e948a772)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
