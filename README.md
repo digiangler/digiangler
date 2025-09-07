@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [10 年前に知りたかったフリーランス生存戦略 3 選](https://note.com/digiangler777/n/n7762ee8b2dd6)
 - [燃え尽きて気づいた、「継続」 を支える本当に大切なこと](https://note.com/digiangler777/n/nb351b5407080)
 - [「話す」 が怖い僕が、音声配信を始める話](https://note.com/digiangler777/n/n2ba48521dc83)
 - [フリーランスの保険と年金、僕のリアルな選択](https://note.com/digiangler777/n/ne0efadf05540)
 - [Obsidian が見違える CSS スニペット 5 選 〜コピペであなたのノートを 「最高の書斎」 にする方法〜](https://note.com/digiangler777/n/ne3a8a160371a)
-- [コードと音の同期。僕の集中音楽術](https://note.com/digiangler777/n/n76298c3ed96f)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
