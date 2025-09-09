@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [「それじゃない」 で心が折れた僕を変えた、魔法の言葉](https://note.com/digiangler777/n/n7f586d6fdc78)
+- [声につまずくあなたへ](https://note.com/digiangler777/n/nf4a71c62641c)
 - [PHP/Ruby の次に僕が 「Go 言語」 を選んだ理由](https://note.com/digiangler777/n/n922f99b9fde4)
 - [10 年前に知りたかったフリーランス生存戦略 3 選](https://note.com/digiangler777/n/n7762ee8b2dd6)
 - [燃え尽きて気づいた、「継続」 を支える本当に大切なこと](https://note.com/digiangler777/n/nb351b5407080)
-- [「話す」 が怖い僕が、音声配信を始める話](https://note.com/digiangler777/n/n2ba48521dc83)
-- [フリーランスの保険と年金、僕のリアルな選択](https://note.com/digiangler777/n/ne0efadf05540)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
