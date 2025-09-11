@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [気づきを拾って、ネタにして、物語にする](https://note.com/digiangler777/n/na50841f58aab)
+- [僕が Mac アプリ 『Magnet』 をアンインストールして 『Raycast』 でウィンドウ管理している理由](https://note.com/digiangler777/n/naeffaa159614)
 - [日常を物語にする ― 気づきを書き留める力](https://note.com/digiangler777/n/nc24950ffc64e)
 - [「それじゃない」 で心が折れた僕を変えた、魔法の言葉](https://note.com/digiangler777/n/n7f586d6fdc78)
 - [声につまずくあなたへ](https://note.com/digiangler777/n/nf4a71c62641c)
-- [PHP/Ruby の次に僕が 「Go 言語」 を選んだ理由](https://note.com/digiangler777/n/n922f99b9fde4)
-- [10 年前に知りたかったフリーランス生存戦略 3 選](https://note.com/digiangler777/n/n7762ee8b2dd6)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
