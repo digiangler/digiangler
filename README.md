@@ -233,20 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
-<<<<<<< HEAD
+- [AI 時代の新人教育に悩むシニアエンジニアのあなたへ](https://note.com/digiangler777/n/n31bc1e7def7f)
+- [観察力は、面白い文章の原材料](https://note.com/digiangler777/n/n33b3478c16a3)
 - [気づきを拾って、ネタにして、物語にする](https://note.com/digiangler777/n/na50841f58aab)
 - [僕が Mac アプリ 『Magnet』 をアンインストールして 『Raycast』 でウィンドウ管理している理由](https://note.com/digiangler777/n/naeffaa159614)
 - [日常を物語にする ― 気づきを書き留める力](https://note.com/digiangler777/n/nc24950ffc64e)
-- [「それじゃない」 で心が折れた僕を変えた、魔法の言葉](https://note.com/digiangler777/n/n7f586d6fdc78)
-- [声につまずくあなたへ](https://note.com/digiangler777/n/nf4a71c62641c)
-=======
-
-- [「また、うまく話せないかも…」 会議前の不安が楽しみに変わった、吃音症と僕の小さな工夫](https://note.com/digiangler777/n/n66c159397bd5)
-- [【SF 小説】プロジェクト・ラプラスの亡霊 第二幕 （16）](https://note.com/digiangler777/n/ne3bb8bfbaabb)
-- [AI 時代に、Git の “巻き戻し” がくれた自由](https://note.com/digiangler777/n/nddd79fc7e41a)
-- [【SF 小説】プロジェクト・ラプラスの亡霊 第二幕 （15）](https://note.com/digiangler777/n/n83ac278d35d4)
-- [そのコンポーネント、本当に使いこなせてる？ 〜 shadcn/ui の 「思想」 を理解して、保守性と開発速度を両立させた僕の物語〜](https://note.com/digiangler777/n/n2a58fc4b949b)
->>>>>>> bc5c71e (fix: 修正された得意領域の表記とノートのリンクのタイトルを統一)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
