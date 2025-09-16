@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [届かなかった言葉が、僕の武器になるまで](https://note.com/digiangler777/n/n62224f9ef01c)
 - [僕が 「100 点」 より 「8 割」 を愛せるまで](https://note.com/digiangler777/n/n530021674470)
 - [凡人だった僕が 『7 つの習慣』 で変われた理由](https://note.com/digiangler777/n/ne7850c3f4220)
 - [「いいカモ」 にならない、僕のエージェント術](https://note.com/digiangler777/n/neeaa2a7e9d32)
 - [知を倍速、感情を永遠に ― おおとろ式再読の極意](https://note.com/digiangler777/n/nd38c2217f862)
-- [AI 時代の新人教育に悩むシニアエンジニアのあなたへ](https://note.com/digiangler777/n/n31bc1e7def7f)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
