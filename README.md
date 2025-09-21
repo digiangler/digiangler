@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [「休むのが怖い」 を克服した、僕のフリーランス休日術](https://note.com/digiangler777/n/n081854c86bbb)
 - [僕の文章から “魂” が消えた日。AI を最強の相棒に変えた魔法の契約書](https://note.com/digiangler777/n/n8f1f1536149e)
 - [待つ時間も文化になる ― 地方書店と紙の本の未来](https://note.com/digiangler777/n/n29b388c6ec9a)
 - [僕が実践する 「コード化しやすい」 Figma データ術](https://note.com/digiangler777/n/naeb7695c3a18)
 - [「動けばいい」 の罠。僕を救ったテストコードの話](https://note.com/digiangler777/n/ndc981c6b3f61)
-- [届かなかった言葉が、僕の武器になるまで](https://note.com/digiangler777/n/n62224f9ef01c)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
