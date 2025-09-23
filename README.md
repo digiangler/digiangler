@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [「比較」 という呪いから、僕が自由になった話](https://note.com/digiangler777/n/n7f8fa4d6cfed)
 - [吃音の僕が、沈黙を 「武器」 に変えた話](https://note.com/digiangler777/n/nbbd4b5cf9e83)
 - [「休むのが怖い」 を克服した、僕のフリーランス休日術](https://note.com/digiangler777/n/n081854c86bbb)
 - [僕の文章から “魂” が消えた日。AI を最強の相棒に変えた魔法の契約書](https://note.com/digiangler777/n/n8f1f1536149e)
 - [待つ時間も文化になる ― 地方書店と紙の本の未来](https://note.com/digiangler777/n/n29b388c6ec9a)
-- [僕が実践する 「コード化しやすい」 Figma データ術](https://note.com/digiangler777/n/naeb7695c3a18)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
