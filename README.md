@@ -233,20 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
-<<<<<<< HEAD
+- [孤独な航海だと思っていた。僕が 「仲間」 と出会うまでの物語](https://note.com/digiangler777/n/n8e6757dcf507)
 - [僕が GitHub プロフィールを磨き続ける理由](https://note.com/digiangler777/n/n1b817a4fd5eb)
 - [「比較」 という呪いから、僕が自由になった話](https://note.com/digiangler777/n/n7f8fa4d6cfed)
 - [吃音の僕が、沈黙を 「武器」 に変えた話](https://note.com/digiangler777/n/nbbd4b5cf9e83)
 - [「休むのが怖い」 を克服した、僕のフリーランス休日術](https://note.com/digiangler777/n/n081854c86bbb)
-- [僕の文章から “魂” が消えた日。AI を最強の相棒に変えた魔法の契約書](https://note.com/digiangler777/n/n8f1f1536149e)
-=======
-
-- [気づきを拾って、ネタにして、物語にする](https://note.com/digiangler777/n/na50841f58aab)
-- [僕が Mac アプリ 『Magnet』 をアンインストールして 『Raycast』 でウィンドウ管理している理由](https://note.com/digiangler777/n/naeffaa159614)
-- [日常を物語にする ― 気づきを書き留める力](https://note.com/digiangler777/n/nc24950ffc64e)
-- [「それじゃない」 で心が折れた僕を変えた、魔法の言葉](https://note.com/digiangler777/n/n7f586d6fdc78)
-- [声につまずくあなたへ](https://note.com/digiangler777/n/nf4a71c62641c)
->>>>>>> a6fe465 (fix: actions/checkoutのバージョンをv4に更新し、ノートリンクのタイトルを整理)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
