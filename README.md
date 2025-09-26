@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [「ありがとう」 の一言が、僕のすべてを救った話](https://note.com/digiangler777/n/n7ab2f7becaf4)
 - [孤独な航海だと思っていた。僕が 「仲間」 と出会うまでの物語](https://note.com/digiangler777/n/n8e6757dcf507)
 - [僕が GitHub プロフィールを磨き続ける理由](https://note.com/digiangler777/n/n1b817a4fd5eb)
 - [「比較」 という呪いから、僕が自由になった話](https://note.com/digiangler777/n/n7f8fa4d6cfed)
 - [吃音の僕が、沈黙を 「武器」 に変えた話](https://note.com/digiangler777/n/nbbd4b5cf9e83)
-- [「休むのが怖い」 を克服した、僕のフリーランス休日術](https://note.com/digiangler777/n/n081854c86bbb)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
