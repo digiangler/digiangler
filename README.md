@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [Go とは違う。僕が Rust に感じた “育てる” 面白さ](https://note.com/digiangler777/n/n85a76efea904)
 - [数字を追うのをやめた日、僕の本当の 「成長」 が始まった](https://note.com/digiangler777/n/n63f0ba771c9d)
 - [「ありがとう」 の一言が、僕のすべてを救った話](https://note.com/digiangler777/n/n7ab2f7becaf4)
 - [孤独な航海だと思っていた。僕が 「仲間」 と出会うまでの物語](https://note.com/digiangler777/n/n8e6757dcf507)
 - [僕が GitHub プロフィールを磨き続ける理由](https://note.com/digiangler777/n/n1b817a4fd5eb)
-- [「比較」 という呪いから、僕が自由になった話](https://note.com/digiangler777/n/n7f8fa4d6cfed)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
