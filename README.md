@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [X の騒音を消し “最高の情報源” に変える術](https://note.com/digiangler777/n/nc3c0952eaedc)
 - [脱・コピペ地獄。僕の Raycast スニペット術](https://note.com/digiangler777/n/n9c31f1c0941a)
 - [秋の始まり、僕を変える 3 つの挑戦](https://note.com/digiangler777/n/nd493b9dad1cb)
 - [9 月の僕が捨てたもの、そして見つけたもの](https://note.com/digiangler777/n/n7b3d76abef58)
 - [タイムトラッキングは “残酷な鏡” だった](https://note.com/digiangler777/n/n361eb4aa88bb)
-- [Go とは違う。僕が Rust に感じた “育てる” 面白さ](https://note.com/digiangler777/n/n85a76efea904)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
