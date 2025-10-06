@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [挫折しない、僕の 「微習慣」 設計図（テンプレ付）](https://note.com/digiangler777/n/n0adc302abad8)
 - [僕のクリエイティブ時間を 20% 増やした全記録](https://note.com/digiangler777/n/n5e60904cf176)
 - [釣り糸に乗せた小さな物語](https://note.com/digiangler777/n/n10c4417a3b05)
 - [努力が “資産” に変わる 3 つの設計術](https://note.com/digiangler777/n/nbaa74d955f37)
 - [あえて 「沈黙」。 僕の吃音プレゼン逆転術](https://note.com/digiangler777/n/naf2fc91b9baa)
-- [X の騒音を消し “最高の情報源” に変える術](https://note.com/digiangler777/n/nc3c0952eaedc)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
