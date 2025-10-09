@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [読んだ本が武器になる、僕の Obsidian ノート術](https://note.com/digiangler777/n/n292e0e9405b3)
 - [【自動化】 ラベルから TODO を自動生成する方法](https://note.com/digiangler777/n/nfa73fa35f9ef)
 - [【Rust 入門】 15 分で作る CLI ユーティリティ完全ガイド](https://note.com/digiangler777/n/n48e5c44e8061)
 - [オーウェルの亡霊と、スマホの中のビッグ・ブラザー ―― 『一九八四年〔新訳版〕』 を読んで感じた “現代の痛み”](https://note.com/digiangler777/n/n856f5df923fc)
 - [挫折しない、僕の 「微習慣」 設計図（テンプレ付）](https://note.com/digiangler777/n/n0adc302abad8)
-- [僕のクリエイティブ時間を 20% 増やした全記録](https://note.com/digiangler777/n/n5e60904cf176)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
