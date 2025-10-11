@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [「比較」 という名の呪いと決別した日 〜僕が “自分だけの KPI” で小さな勝利を重ねられるようになるまで〜](https://note.com/digiangler777/n/n3c5b3c4137ed)
+- [フリーランスの 1 日を大公開！ 夜型？ 自由？](https://note.com/digiangler777/n/nc5fd0b0757d0)
 - [争わず “通す” ためのクライアントメール設計術](https://note.com/digiangler777/n/ndc312b3c7af0)
 - [読んだ本が武器になる、僕の Obsidian ノート術](https://note.com/digiangler777/n/n292e0e9405b3)
 - [【自動化】 ラベルから TODO を自動生成する方法](https://note.com/digiangler777/n/nfa73fa35f9ef)
-- [【Rust 入門】 15 分で作る CLI ユーティリティ完全ガイド](https://note.com/digiangler777/n/n48e5c44e8061)
-- [オーウェルの亡霊と、スマホの中のビッグ・ブラザー ―― 『一九八四年〔新訳版〕』 を読んで感じた “現代の痛み”](https://note.com/digiangler777/n/n856f5df923fc)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
