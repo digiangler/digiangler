@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [僕の VSCode を 「開発コックピット」 に変えた術](https://note.com/digiangler777/n/nfca3dddc7159)
 - [僕が TypeScript における Result 型で 「ぬるぽ」 の恐怖から解放された話](https://note.com/digiangler777/n/nd79b505c4fa5)
 - [「全部やろう」 をやめた。月半ばのタスク絞り込み術](https://note.com/digiangler777/n/nf7edc7ddad8b)
 - [開発効率が変わる 「音響ポモドーロ」 術](https://note.com/digiangler777/n/nf9284d3799c8)
 - [「比較」 という名の呪いと決別した日 〜僕が “自分だけの KPI” で小さな勝利を重ねられるようになるまで〜](https://note.com/digiangler777/n/n3c5b3c4137ed)
-- [フリーランスの 1 日を大公開！ 夜型？ 自由？](https://note.com/digiangler777/n/nc5fd0b0757d0)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
