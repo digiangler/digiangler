@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [吃音で話すのが怖かった僕が、文章を 「最強の武器」 に変えた話](https://note.com/digiangler777/n/n750211e94491)
 - [SNS の洪水から僕を救った 「引き出し式」 情報整理術 〜僕が Map of Content で情報と和解した話〜](https://note.com/digiangler777/n/nc6ba009afae6)
 - [僕の VSCode を 「開発コックピット」 に変えた術](https://note.com/digiangler777/n/nfca3dddc7159)
 - [僕が TypeScript における Result 型で 「ぬるぽ」 の恐怖から解放された話](https://note.com/digiangler777/n/nd79b505c4fa5)
 - [「全部やろう」 をやめた。月半ばのタスク絞り込み術](https://note.com/digiangler777/n/nf7edc7ddad8b)
-- [開発効率が変わる 「音響ポモドーロ」 術](https://note.com/digiangler777/n/nf9284d3799c8)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
