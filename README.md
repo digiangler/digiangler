@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [僕がカレンダーに 「予定」 を入れるのをやめた理由](https://note.com/digiangler777/n/nd35be37de4dc)
 - [「夜型が最強」 と信じてた僕の 1 ヶ月朝活スプリント](https://note.com/digiangler777/n/n72403b3a1789)
 - [完璧主義で燃え尽きた僕の 「8 割完了」 思考術](https://note.com/digiangler777/n/n1af7178b44fd)
 - [吃音で話すのが怖かった僕が、文章を 「最強の武器」 に変えた話](https://note.com/digiangler777/n/n750211e94491)
 - [SNS の洪水から僕を救った 「引き出し式」 情報整理術 〜僕が Map of Content で情報と和解した話〜](https://note.com/digiangler777/n/nc6ba009afae6)
-- [僕の VSCode を 「開発コックピット」 に変えた術](https://note.com/digiangler777/n/nfca3dddc7159)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
