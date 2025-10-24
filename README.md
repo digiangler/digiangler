@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [僕が “タダ働き” と決別した、仕様変更の伝え方](https://note.com/digiangler777/n/n8fe4acd36d11)
 - [英語記事を 「日本語の設計図」 に変えるノート術](https://note.com/digiangler777/n/n1a6e0809dc1e)
 - [僕の解説スクショを支える CleanShot X 設定](https://note.com/digiangler777/n/nff107a6b66c8)
 - [僕が Prisma で N+1 地獄にハマった話](https://note.com/digiangler777/n/na3fcf0e031ed)
 - [僕がカレンダーに 「予定」 を入れるのをやめた理由](https://note.com/digiangler777/n/nd35be37de4dc)
-- [「夜型が最強」 と信じてた僕の 1 ヶ月朝活スプリント](https://note.com/digiangler777/n/n72403b3a1789)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
