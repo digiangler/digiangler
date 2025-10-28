@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [API が重い…と悩む僕を救った Hono と Cloudflare](https://note.com/digiangler777/n/n2e7550883ef8)
 - [月末の焦りをなくす、僕の 『逆算』 配信カレンダー術](https://note.com/digiangler777/n/nb54a2746cf0b)
 - [写経の罠にハマった僕が気づいた本当の学習法](https://note.com/digiangler777/n/n5f200d4ed913)
 - [週 7 時間の 「聖域」 を求めて。凡人フリーランスの Deep Work 挑戦記](https://note.com/digiangler777/n/n39a5552ae26a)
 - [「選べる＝自由」 という幻想。僕が “捨てる” ことで得た、本当の豊かさ](https://note.com/digiangler777/n/n5779a7d5db2b)
-- [情報過多で溺れる僕が、毎朝 30 分でトレンドを掴む情報収集術](https://note.com/digiangler777/n/n71ac8b291c4f)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
