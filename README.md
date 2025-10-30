@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [「いいね」 の呪いから僕を解放した 「保存される」 X スレッドの型](https://note.com/digiangler777/n/nc743e61ab1a2)
+- [燃え尽き前に気づく 5 サインと対処](https://note.com/digiangler777/n/n5fc61631435a)
 - [「また雛形コピペ…」 から卒業。僕の Obsidian テンプレ術](https://note.com/digiangler777/n/n6408d6828d13)
 - [AI が僕の仕事を奪う？それとも助ける？](https://note.com/digiangler777/n/n5c05a6a2ee07)
 - [API が重い…と悩む僕を救った Hono と Cloudflare](https://note.com/digiangler777/n/n2e7550883ef8)
-- [月末の焦りをなくす、僕の 『逆算』 配信カレンダー術](https://note.com/digiangler777/n/nb54a2746cf0b)
-- [写経の罠にハマった僕が気づいた本当の学習法](https://note.com/digiangler777/n/n5f200d4ed913)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
