@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [落ち葉とコードと珈琲と。僕の 10 月思索ノート](https://note.com/digiangler777/n/nbff357b2b9ea)
+- [僕の月次レビューが、ただの数字報告から 「物語」 に変わった話](https://note.com/digiangler777/n/nfba6e734bb3e)
 - [「いいね」 の呪いから僕を解放した 「保存される」 X スレッドの型](https://note.com/digiangler777/n/nc743e61ab1a2)
 - [燃え尽き前に気づく 5 サインと対処](https://note.com/digiangler777/n/n5fc61631435a)
 - [「また雛形コピペ…」 から卒業。僕の Obsidian テンプレ術](https://note.com/digiangler777/n/n6408d6828d13)
-- [AI が僕の仕事を奪う？それとも助ける？](https://note.com/digiangler777/n/n5c05a6a2ee07)
-- [API が重い…と悩む僕を救った Hono と Cloudflare](https://note.com/digiangler777/n/n2e7550883ef8)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
