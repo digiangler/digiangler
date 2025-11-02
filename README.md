@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [【週初エッセイ】 「書くしかなかった」 吃音の僕が言葉を取り戻した物語](https://note.com/digiangler777/n/nd99b70e892c0)
+- [もう自分を責めない。 「感謝」 で自己肯定感を育てる方法](https://note.com/digiangler777/n/nec358db91741)
 - [もう会議で焦らない。僕の 「文章ファースト」 生存戦略](https://note.com/digiangler777/n/nbaf075a7608f)
 - [リセットじゃない、アップデートだ。僕が 11 月に始めた 3 つの 「自分更新術」](https://note.com/digiangler777/n/n26e6ecf93ee3)
 - [落ち葉とコードと珈琲と。僕の 10 月思索ノート](https://note.com/digiangler777/n/nbff357b2b9ea)
-- [僕の月次レビューが、ただの数字報告から 「物語」 に変わった話](https://note.com/digiangler777/n/nfba6e734bb3e)
-- [「いいね」 の呪いから僕を解放した 「保存される」 X スレッドの型](https://note.com/digiangler777/n/nc743e61ab1a2)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
