@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [「もう Pages には戻れない」 僕の App Router 移行戦略](https://note.com/digiangler777/n/ndf20d87ca30c)
 - [後悔ばかりの年末と決別した、僕の 「やり残しゼロ」 計画術](https://note.com/digiangler777/n/n74b9b795849d)
 - [【週初エッセイ】 「書くしかなかった」 吃音の僕が言葉を取り戻した物語](https://note.com/digiangler777/n/nd99b70e892c0)
 - [もう自分を責めない。 「感謝」 で自己肯定感を育てる方法](https://note.com/digiangler777/n/nec358db91741)
 - [もう会議で焦らない。僕の 「文章ファースト」 生存戦略](https://note.com/digiangler777/n/nbaf075a7608f)
-- [リセットじゃない、アップデートだ。僕が 11 月に始めた 3 つの 「自分更新術」](https://note.com/digiangler777/n/n26e6ecf93ee3)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
