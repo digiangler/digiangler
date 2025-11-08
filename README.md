@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [その 「ぎっしりカレンダー」、あなたの才能を殺してませんか？ 〜僕が生産性の呪いを解き、創造性を取り戻した 「余白」 の作り方〜](https://note.com/digiangler777/n/n5f8866c79ff9)
+- [【コード哲学エッセイ】 リファクタリングの哲学 ── 「動くからいいじゃん」 を超えて](https://note.com/digiangler777/n/ne8a6cebc6e83)
 - [話すのが苦手な僕の、非同期コミュニケーション生存戦略](https://note.com/digiangler777/n/nc0478ba62582)
 - [Zenn と Qiita はこう使え！ 僕のインプット効率を爆上げした情報収集術](https://note.com/digiangler777/n/n43976ad41fc0)
 - [Obsidian で作る、僕だけの進捗管理コックピット](https://note.com/digiangler777/n/nd81ec8fbfd53)
-- [「もう Pages には戻れない」 僕の App Router 移行戦略](https://note.com/digiangler777/n/ndf20d87ca30c)
-- [後悔ばかりの年末と決別した、僕の 「やり残しゼロ」 計画術](https://note.com/digiangler777/n/n74b9b795849d)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
