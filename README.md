@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [「もう戻れない」 ——僕が npm たちと決別し、 Bun を選んだ 3 つの理由と移行の全記録](https://note.com/digiangler777/n/n1dd90c5b7b6e)
 - [もう意志力はいらない。僕が先延ばしを &quot;物理的に&quot; 封じ込めた、カレンダーブロッキング術](https://note.com/digiangler777/n/n6f36884587a1)
 - [たった週 3、 30 分の散歩でいい。運動ゼロだった僕の心と身体に起きた 「すごい変化」 の全記録](https://note.com/digiangler777/n/n31b2ea86724b)
 - [【週初エッセイ】 満員電車を降りた日、僕の本当の人生が始まった](https://note.com/digiangler777/n/n9d18442fed0e)
 - [その 「ぎっしりカレンダー」、あなたの才能を殺してませんか？ 〜僕が生産性の呪いを解き、創造性を取り戻した 「余白」 の作り方〜](https://note.com/digiangler777/n/n5f8866c79ff9)
-- [【コード哲学エッセイ】 リファクタリングの哲学 ── 「動くからいいじゃん」 を超えて](https://note.com/digiangler777/n/ne8a6cebc6e83)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
