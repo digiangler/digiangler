@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [「事務作業」 を 「信頼貯金」 に変える感謝の伝え方](https://note.com/digiangler777/n/n957189e67976)
 - [「第二の脳」 は、こう育てる。 〜僕が Readwise と Obsidian で築いた、情報が勝手に集まる仕組み〜](https://note.com/digiangler777/n/n384564d309c5)
 - [もう Monorepo の環境構築で消耗しない。僕がたどり着いた Turborepo 最小構成テンプレート](https://note.com/digiangler777/n/nce71594c6c23)
 - [「もう戻れない」 ——僕が npm たちと決別し、 Bun を選んだ 3 つの理由と移行の全記録](https://note.com/digiangler777/n/n1dd90c5b7b6e)
 - [もう意志力はいらない。僕が先延ばしを &quot;物理的に&quot; 封じ込めた、カレンダーブロッキング術](https://note.com/digiangler777/n/n6f36884587a1)
-- [たった週 3、 30 分の散歩でいい。運動ゼロだった僕の心と身体に起きた 「すごい変化」 の全記録](https://note.com/digiangler777/n/n31b2ea86724b)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
