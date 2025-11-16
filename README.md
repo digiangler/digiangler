@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [僕の 「脳のスイッチ」 を入れる最強の儀式 〜珈琲・ストレッチ・瞑想の効果を A/B テストしてみた〜](https://note.com/digiangler777/n/n231193cc3076)
+- [【週初エッセイ】 うまく話せない僕が、コードで 「世界」 と話すまで](https://note.com/digiangler777/n/n58feb2ef47ad)
 - [完璧主義だった僕が、「失敗」 という最高の仲間を手に入れるまでの話](https://note.com/digiangler777/n/n977eb6f94a31)
 - [【週末エッセイ】 会社をサボった僕が気づいたこと](https://note.com/digiangler777/n/n02b357bfe415)
 - [「事務作業」 を 「信頼貯金」 に変える感謝の伝え方](https://note.com/digiangler777/n/n957189e67976)
-- [「第二の脳」 は、こう育てる。 〜僕が Readwise と Obsidian で築いた、情報が勝手に集まる仕組み〜](https://note.com/digiangler777/n/n384564d309c5)
-- [もう Monorepo の環境構築で消耗しない。僕がたどり着いた Turborepo 最小構成テンプレート](https://note.com/digiangler777/n/nce71594c6c23)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
