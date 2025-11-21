@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [「いい提案なのに…」 と嘆く僕を救った、 4 つの構成術](https://note.com/digiangler777/n/nca4b9a0c921c)
 - [「あとで見る」 が消えた。 YouTube × Obsidian 最強消化術](https://note.com/digiangler777/n/n3c32780b2f4e)
 - [「このコマンドなんだっけ？」 がなくなる。 VSCode と Makefile で作る、僕の最強の開発手順書](https://note.com/digiangler777/n/n613be1871185)
 - [僕のブログが爆速になった理由 〜 Astro の思想と Markdown 中心の世界〜](https://note.com/digiangler777/n/ndcc92fff88fe)
 - [1 年の &quot;心の澱（おり）&quot; を洗い流す。僕が実践するタスクと人間関係の年末棚卸し術](https://note.com/digiangler777/n/n83f78036c8c4)
-- [僕の 「脳のスイッチ」 を入れる最強の儀式 〜珈琲・ストレッチ・瞑想の効果を A/B テストしてみた〜](https://note.com/digiangler777/n/n231193cc3076)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
