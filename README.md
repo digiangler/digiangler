@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [集中力ゼロの僕を救った 「5分チャンク法」 の実験記録](https://note.com/digiangler777/n/n4b818a324727)
 - [「やらないこと」 を決めたら、人生が動き出した話](https://note.com/digiangler777/n/n11aad4c1085e)
 - [【週末エッセイ】 「作る」 ことだけが、僕の居場所だった](https://note.com/digiangler777/n/nd019be7ab157)
 - [「いい提案なのに…」 と嘆く僕を救った、 4 つの構成術](https://note.com/digiangler777/n/nca4b9a0c921c)
 - [「あとで見る」 が消えた。 YouTube × Obsidian 最強消化術](https://note.com/digiangler777/n/n3c32780b2f4e)
-- [「このコマンドなんだっけ？」 がなくなる。 VSCode と Makefile で作る、僕の最強の開発手順書](https://note.com/digiangler777/n/n613be1871185)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
