@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [焦りを捨て、余白を掴んだ日。僕の 11 月を変えた 「引き算」](https://note.com/digiangler777/n/n120a96fb9184)
+- [【週末エッセイ】 「努力は報われる」 を信じ続けた僕が手に入れたもの](https://note.com/digiangler777/n/n8e62559ad379)
 - [炎上案件を 「文章」 で鎮火した話 〜口下手な僕が信頼を取り戻すまでの全記録〜](https://note.com/digiangler777/n/n1320fb4e2918)
 - [準備 0 秒で Obsidian が 「勝手に」 始める週次レビュー術](https://note.com/digiangler777/n/n4cc30899b882)
 - [【実践編】 GitHub Projects を 「参謀」 に変える自動化設定](https://note.com/digiangler777/n/n007e4eb838bb)
-- [ESLint 設定地獄にサヨナラ。 Biome 移行の全記録](https://note.com/digiangler777/n/ndfdd498b1ba9)
-- [【コード哲学エッセイ】 コードは人格じゃない。僕がレビューで守る一線](https://note.com/digiangler777/n/n5041a0148f71)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
