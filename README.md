@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [【実験】 残り 30 日で 「やり残しゼロ」 は可能か？ 焦る心を整える最終スプリントの全記録](https://note.com/digiangler777/n/n4d9870e36a79)
+- [【週初エッセイ】 11 月の終わりに。変化の波は 「乗る」 のではなく 「潜る」 もの](https://note.com/digiangler777/n/nf66b072d42f2)
 - [焦りを捨て、余白を掴んだ日。僕の 11 月を変えた 「引き算」](https://note.com/digiangler777/n/n120a96fb9184)
 - [【週末エッセイ】 「努力は報われる」 を信じ続けた僕が手に入れたもの](https://note.com/digiangler777/n/n8e62559ad379)
 - [炎上案件を 「文章」 で鎮火した話 〜口下手な僕が信頼を取り戻すまでの全記録〜](https://note.com/digiangler777/n/n1320fb4e2918)
-- [準備 0 秒で Obsidian が 「勝手に」 始める週次レビュー術](https://note.com/digiangler777/n/n4cc30899b882)
-- [【実践編】 GitHub Projects を 「参謀」 に変える自動化設定](https://note.com/digiangler777/n/n007e4eb838bb)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
