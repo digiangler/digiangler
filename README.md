@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [汚いコードと決別。僕が 12 月に挑む 「技術の大掃除」](https://note.com/digiangler777/n/n99d02a134c97)
 - [忙しい 12 月こそ余白を。僕が実践する 「カレンダーの砦」](https://note.com/digiangler777/n/n7895e82aa40e)
 - [師走にこそ種をまく。僕が 12 月に始める 3 つの新習慣](https://note.com/digiangler777/n/n4c2348893d3a)
 - [【実験】 残り 30 日で 「やり残しゼロ」 は可能か？ 焦る心を整える最終スプリントの全記録](https://note.com/digiangler777/n/n4d9870e36a79)
 - [【週初エッセイ】 11 月の終わりに。変化の波は 「乗る」 のではなく 「潜る」 もの](https://note.com/digiangler777/n/nf66b072d42f2)
-- [焦りを捨て、余白を掴んだ日。僕の 11 月を変えた 「引き算」](https://note.com/digiangler777/n/n120a96fb9184)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
