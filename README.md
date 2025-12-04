@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [「後で読む」 を資産に変える。 Readwise Reader で作る知識集](https://note.com/digiangler777/n/nfa94f864eec5)
+- [Mac を新品同様に。 CleanMyMac 設定とコマンド術](https://note.com/digiangler777/n/nc8f4cf5754ce)
 - [【コード哲学エッセイ】 汚いコードは恥じゃない。過去の自分と和解する技術](https://note.com/digiangler777/n/n58292ba74b43)
 - [汚いコードと決別。僕が 12 月に挑む 「技術の大掃除」](https://note.com/digiangler777/n/n99d02a134c97)
 - [忙しい 12 月こそ余白を。僕が実践する 「カレンダーの砦」](https://note.com/digiangler777/n/n7895e82aa40e)
-- [師走にこそ種をまく。僕が 12 月に始める 3 つの新習慣](https://note.com/digiangler777/n/n4c2348893d3a)
-- [【実験】 残り 30 日で 「やり残しゼロ」 は可能か？ 焦る心を整える最終スプリントの全記録](https://note.com/digiangler777/n/n4d9870e36a79)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
