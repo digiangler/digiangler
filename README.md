@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [「また会いたい」 と思わせる。年末挨拶を変える 「1 行」 の魔法](https://note.com/digiangler777/n/n9eb375e50b40)
 - [「後で読む」 を資産に変える。 Readwise Reader で作る知識集](https://note.com/digiangler777/n/nfa94f864eec5)
 - [Mac を新品同様に。 CleanMyMac 設定とコマンド術](https://note.com/digiangler777/n/nc8f4cf5754ce)
 - [【コード哲学エッセイ】 汚いコードは恥じゃない。過去の自分と和解する技術](https://note.com/digiangler777/n/n58292ba74b43)
 - [汚いコードと決別。僕が 12 月に挑む 「技術の大掃除」](https://note.com/digiangler777/n/n99d02a134c97)
-- [忙しい 12 月こそ余白を。僕が実践する 「カレンダーの砦」](https://note.com/digiangler777/n/n7895e82aa40e)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
