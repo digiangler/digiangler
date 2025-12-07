@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [スマホを置いた 48 時間。脳の空白という 「本当の贅沢」](https://note.com/digiangler777/n/n98370683928f)
+- [【週末エッセイ】 音のない世界で。冬の朝、思考が澄み渡る](https://note.com/digiangler777/n/n69dca0bd71da)
 - [「来年は？」 の圧に潰れた僕が、未来を取り戻した話](https://note.com/digiangler777/n/n7c4719c4b4ee)
 - [【週末エッセイ】 完璧を手放す。未完成な 12 月を愛おしむ](https://note.com/digiangler777/n/nc314781d2460)
 - [「また会いたい」 と思わせる。年末挨拶を変える 「1 行」 の魔法](https://note.com/digiangler777/n/n9eb375e50b40)
-- [「後で読む」 を資産に変える。 Readwise Reader で作る知識集](https://note.com/digiangler777/n/nfa94f864eec5)
-- [Mac を新品同様に。 CleanMyMac 設定とコマンド術](https://note.com/digiangler777/n/nc8f4cf5754ce)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
