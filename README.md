@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [脳は Obsidian、心は手帳。 2026 年の 「書く」 設計図](https://note.com/digiangler777/n/n7671a41d7a95)
 - [スマホを置いた 48 時間。脳の空白という 「本当の贅沢」](https://note.com/digiangler777/n/n98370683928f)
 - [【週末エッセイ】 音のない世界で。冬の朝、思考が澄み渡る](https://note.com/digiangler777/n/n69dca0bd71da)
 - [「来年は？」 の圧に潰れた僕が、未来を取り戻した話](https://note.com/digiangler777/n/n7c4719c4b4ee)
 - [【週末エッセイ】 完璧を手放す。未完成な 12 月を愛おしむ](https://note.com/digiangler777/n/nc314781d2460)
-- [「また会いたい」 と思わせる。年末挨拶を変える 「1 行」 の魔法](https://note.com/digiangler777/n/n9eb375e50b40)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
