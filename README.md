@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [年末こそ 「デジタル断捨離」。 GAS で Gmail の &quot;騒音&quot; を 9 割消す自動化術](https://note.com/digiangler777/n/n2b087b552742)
+- [【コード哲学エッセイ】 バグは 「失敗」 じゃない。システムからの 「手紙」 を読む技術](https://note.com/digiangler777/n/n43d20a8123c8)
 - [個人開発の技術選定、 2025 年の 「最終結論」](https://note.com/digiangler777/n/nb39721cb1400)
 - [脳は Obsidian、心は手帳。 2026 年の 「書く」 設計図](https://note.com/digiangler777/n/n7671a41d7a95)
 - [スマホを置いた 48 時間。脳の空白という 「本当の贅沢」](https://note.com/digiangler777/n/n98370683928f)
-- [【週末エッセイ】 音のない世界で。冬の朝、思考が澄み渡る](https://note.com/digiangler777/n/n69dca0bd71da)
-- [「来年は？」 の圧に潰れた僕が、未来を取り戻した話](https://note.com/digiangler777/n/n7c4719c4b4ee)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
