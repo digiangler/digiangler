@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [吃音の僕が、あえて 「長文」 で感謝を刻む理由](https://note.com/digiangler777/n/nf737118ca1bf)
 - [罪悪感と決別。 積読の山を Flier で知識に変えた記録](https://note.com/digiangler777/n/nd7e530165588)
 - [年末こそ 「デジタル断捨離」。 GAS で Gmail の &quot;騒音&quot; を 9 割消す自動化術](https://note.com/digiangler777/n/n2b087b552742)
 - [【コード哲学エッセイ】 バグは 「失敗」 じゃない。システムからの 「手紙」 を読む技術](https://note.com/digiangler777/n/n43d20a8123c8)
 - [個人開発の技術選定、 2025 年の 「最終結論」](https://note.com/digiangler777/n/nb39721cb1400)
-- [脳は Obsidian、心は手帳。 2026 年の 「書く」 設計図](https://note.com/digiangler777/n/n7671a41d7a95)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
