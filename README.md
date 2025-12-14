@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [繁忙期は 「25 分」 で刻まない。年末専用ポモドーロの結論](https://note.com/digiangler777/n/nee1eedc9b0ee)
+- [【週初エッセイ】 「削除」 ボタンで、心に余白を作る](https://note.com/digiangler777/n/nd54836f58891)
 - [127 日毎日投稿してわかった、努力も意志力もいらない「継続」の正体](https://note.com/digiangler777/n/nfd8c71063d45)
 - [【週末エッセイ】 プレゼント選びの 「迷い」 も、贈り物の一部だ](https://note.com/digiangler777/n/nbe498fb41faf)
 - [吃音の僕が、あえて 「長文」 で感謝を刻む理由](https://note.com/digiangler777/n/nf737118ca1bf)
-- [罪悪感と決別。 積読の山を Flier で知識に変えた記録](https://note.com/digiangler777/n/nd7e530165588)
-- [年末こそ 「デジタル断捨離」。 GAS で Gmail の &quot;騒音&quot; を 9 割消す自動化術](https://note.com/digiangler777/n/n2b087b552742)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
