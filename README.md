@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [Next.js 16 予習記。来年の僕を救う 「技術の先読み」](https://note.com/digiangler777/n/nf1e0de5aa0ca)
 - [【2026 年版】 僕が 「捨てて」 救われた 3 つの足枷リスト](https://note.com/digiangler777/n/n4abe264ab97c)
 - [繁忙期は 「25 分」 で刻まない。年末専用ポモドーロの結論](https://note.com/digiangler777/n/nee1eedc9b0ee)
 - [【週初エッセイ】 「削除」 ボタンで、心に余白を作る](https://note.com/digiangler777/n/nd54836f58891)
 - [127 日毎日投稿してわかった、努力も意志力もいらない「継続」の正体](https://note.com/digiangler777/n/nfd8c71063d45)
-- [【週末エッセイ】 プレゼント選びの 「迷い」 も、贈り物の一部だ](https://note.com/digiangler777/n/nbe498fb41faf)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
