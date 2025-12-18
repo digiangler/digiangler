@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [「情報は減らすほど豊かになる」。 僕が今年、たった一人に絞った理由](https://note.com/digiangler777/n/n830a4af2932d)
 - [Obsidian 大掃除。 「ゴミ屋敷」 を Dataview で救う](https://note.com/digiangler777/n/n6e7976a77273)
 - [【コード哲学エッセイ】 コミットログは 「日記」 だ。未来の僕を救う言葉](https://note.com/digiangler777/n/n6131b5a7d9fe)
 - [Next.js 16 予習記。来年の僕を救う 「技術の先読み」](https://note.com/digiangler777/n/nf1e0de5aa0ca)
 - [【2026 年版】 僕が 「捨てて」 救われた 3 つの足枷リスト](https://note.com/digiangler777/n/n4abe264ab97c)
-- [繁忙期は 「25 分」 で刻まない。年末専用ポモドーロの結論](https://note.com/digiangler777/n/nee1eedc9b0ee)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
