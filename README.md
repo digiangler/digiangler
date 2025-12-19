@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [【年末のミス】 「やってしまった…」 を信頼に変える。焦る師走に効く 「3 段構え」 の謝罪チャット術](https://note.com/digiangler777/n/na223cbae4f6f)
+- [その文章、誰かの思考をなぞっていませんか](https://note.com/digiangler777/n/n09b4f1c57414)
 - [「情報は減らすほど豊かになる」。 僕が今年、たった一人に絞った理由](https://note.com/digiangler777/n/n830a4af2932d)
 - [Obsidian 大掃除。 「ゴミ屋敷」 を Dataview で救う](https://note.com/digiangler777/n/n6e7976a77273)
 - [【コード哲学エッセイ】 コミットログは 「日記」 だ。未来の僕を救う言葉](https://note.com/digiangler777/n/n6131b5a7d9fe)
-- [Next.js 16 予習記。来年の僕を救う 「技術の先読み」](https://note.com/digiangler777/n/nf1e0de5aa0ca)
-- [【2026 年版】 僕が 「捨てて」 救われた 3 つの足枷リスト](https://note.com/digiangler777/n/n4abe264ab97c)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
