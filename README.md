@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [会社員より幸せ。僕が年末に自分へ贈る 「ボーナス」 の正体](https://note.com/digiangler777/n/n51739b729aeb)
+- [【週末エッセイ】 一年で一番長い夜。孤独を 「自由」 に変える灯り](https://note.com/digiangler777/n/n73e6c8714e98)
 - [【年末のミス】 「やってしまった…」 を信頼に変える。焦る師走に効く 「3 段構え」 の謝罪チャット術](https://note.com/digiangler777/n/na223cbae4f6f)
 - [その文章、誰かの思考をなぞっていませんか](https://note.com/digiangler777/n/n09b4f1c57414)
 - [「情報は減らすほど豊かになる」。 僕が今年、たった一人に絞った理由](https://note.com/digiangler777/n/n830a4af2932d)
-- [Obsidian 大掃除。 「ゴミ屋敷」 を Dataview で救う](https://note.com/digiangler777/n/n6e7976a77273)
-- [【コード哲学エッセイ】 コミットログは 「日記」 だ。未来の僕を救う言葉](https://note.com/digiangler777/n/n6131b5a7d9fe)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
