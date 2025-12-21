@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [散財の果てに。生産性オタクが辿り着いた 「2025 年デスク」 の結論 〜投資対効果が高かったベスト 5 〜](https://note.com/digiangler777/n/naea377b97576)
+- [【週初エッセイ】 喧騒を背に。僕が選んだ 「静かなクリスマス」 の贅沢](https://note.com/digiangler777/n/n40e2182335bb)
 - [会社員より幸せ。僕が年末に自分へ贈る 「ボーナス」 の正体](https://note.com/digiangler777/n/n51739b729aeb)
 - [【週末エッセイ】 一年で一番長い夜。孤独を 「自由」 に変える灯り](https://note.com/digiangler777/n/n73e6c8714e98)
 - [【年末のミス】 「やってしまった…」 を信頼に変える。焦る師走に効く 「3 段構え」 の謝罪チャット術](https://note.com/digiangler777/n/na223cbae4f6f)
-- [その文章、誰かの思考をなぞっていませんか](https://note.com/digiangler777/n/n09b4f1c57414)
-- [「情報は減らすほど豊かになる」。 僕が今年、たった一人に絞った理由](https://note.com/digiangler777/n/n830a4af2932d)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
