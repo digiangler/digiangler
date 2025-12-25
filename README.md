@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [X × note で収益化するなら 「設計」 が 9 割 〜僕が学んだマネタイズ戦略〜](https://note.com/digiangler777/n/n66270ed8df09)
 - [聖夜の隙間 15 分。 自分へ贈る 「自動化」 ギフト](https://note.com/digiangler777/n/nbec42d912710)
 - [【コード哲学エッセイ】 テストは 「保険」 じゃない。未来の僕へ捧げる 「祈り」 だ](https://note.com/digiangler777/n/n1cee107fe59b)
 - [恐怖のログを資産に変える。 Sentry 活用・エラー供養術](https://note.com/digiangler777/n/n61a6ab2e472f)
 - [2026 年は迷わない。 「漢字一文字」 で目標を脳に刻む](https://note.com/digiangler777/n/n1c87e96dae4e)
-- [散財の果てに。生産性オタクが辿り着いた 「2025 年デスク」 の結論 〜投資対効果が高かったベスト 5 〜](https://note.com/digiangler777/n/naea377b97576)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
