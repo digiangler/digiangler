@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [「来年も」 と言わせる。 年末挨拶に添える、信頼の 1 行](https://note.com/digiangler777/n/n9e689ef36119)
+- [「来年も仕事ある？」 の不安を消す。トレンド予測から読み解くフリーランスの勝ち筋](https://note.com/digiangler777/n/n1d7d12f14df7)
 - [X × note で収益化するなら 「設計」 が 9 割 〜僕が学んだマネタイズ戦略〜](https://note.com/digiangler777/n/n66270ed8df09)
 - [聖夜の隙間 15 分。 自分へ贈る 「自動化」 ギフト](https://note.com/digiangler777/n/nbec42d912710)
 - [【コード哲学エッセイ】 テストは 「保険」 じゃない。未来の僕へ捧げる 「祈り」 だ](https://note.com/digiangler777/n/n1cee107fe59b)
-- [恐怖のログを資産に変える。 Sentry 活用・エラー供養術](https://note.com/digiangler777/n/n61a6ab2e472f)
-- [2026 年は迷わない。 「漢字一文字」 で目標を脳に刻む](https://note.com/digiangler777/n/n1c87e96dae4e)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
