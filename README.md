@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [「何もしなかった」 と嘆く夜に。 減点法を捨て、自分を許した話](https://note.com/digiangler777/n/ncb9a9302b40a)
+- [【週末エッセイ】 冬の夜、オリオン座。孤独は 「自由」 の証だった](https://note.com/digiangler777/n/nfa152aef32fc)
+- [「すごい記事」 より 「不安なく買える記事」 〜僕の失敗から学んだ信頼構築術〜](https://note.com/digiangler777/n/n6dbea1788038)
 - [「来年も」 と言わせる。 年末挨拶に添える、信頼の 1 行](https://note.com/digiangler777/n/n9e689ef36119)
 - [「来年も仕事ある？」 の不安を消す。トレンド予測から読み解くフリーランスの勝ち筋](https://note.com/digiangler777/n/n1d7d12f14df7)
-- [X × note で収益化するなら 「設計」 が 9 割 〜僕が学んだマネタイズ戦略〜](https://note.com/digiangler777/n/n66270ed8df09)
-- [聖夜の隙間 15 分。 自分へ贈る 「自動化」 ギフト](https://note.com/digiangler777/n/nbec42d912710)
-- [【コード哲学エッセイ】 テストは 「保険」 じゃない。未来の僕へ捧げる 「祈り」 だ](https://note.com/digiangler777/n/n1cee107fe59b)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
