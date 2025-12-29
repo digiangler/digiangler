@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [仕事納めの儀式。デスクトップを 「ゼロ」 にして、脳を完全オフにする](https://note.com/digiangler777/n/naf420eaf8f7f)
 - [全力でダラダラするために。 「起床時間」 だけ死守する防衛策](https://note.com/digiangler777/n/n9f30fdce9ca3)
 - [【週初エッセイ】 2025 年の結び目。物語は 「次」 のページへ](https://note.com/digiangler777/n/n672d2d109311)
 - [X で興味を喚起、note で深掘り 〜僕が学んだ最強相棒戦略〜](https://note.com/digiangler777/n/n9c197ac05b6e)
 - [「何もしなかった」 と嘆く夜に。 減点法を捨て、自分を許した話](https://note.com/digiangler777/n/ncb9a9302b40a)
-- [【週末エッセイ】 冬の夜、オリオン座。孤独は 「自由」 の証だった](https://note.com/digiangler777/n/nfa152aef32fc)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
