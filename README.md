@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [2025 年を 「保存」 する。 除夜の鐘と走るバックアップの儀式](https://note.com/digiangler777/n/n399ec7cf6f0a)
+- [【2025 年総決算】 騒がしい一年が残した 「静かな果実」。 僕が 2026 年に連れて行くもの](https://note.com/digiangler777/n/n464be555e64a)
 - [【コード哲学エッセイ】 AI は魔法使いじゃない。僕らの 「相棒」 だ](https://note.com/digiangler777/n/ne4ba0b56c06c)
 - [技術は 「熱狂」 で伸びる。 今年一番楽しかったコード 3 選](https://note.com/digiangler777/n/nd5ac34df50d3)
 - [仕事納めの儀式。デスクトップを 「ゼロ」 にして、脳を完全オフにする](https://note.com/digiangler777/n/naf420eaf8f7f)
-- [全力でダラダラするために。 「起床時間」 だけ死守する防衛策](https://note.com/digiangler777/n/n9f30fdce9ca3)
-- [【週初エッセイ】 2025 年の結び目。物語は 「次」 のページへ](https://note.com/digiangler777/n/n672d2d109311)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
