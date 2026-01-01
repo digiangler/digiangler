@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [SNS に時間を溶かすのはもう終わり。 脳のメモリを守る 「情報の防波堤」 の作り方](https://note.com/digiangler777/n/nc1cba4283397)
+- [【おおとろのつぶやき】 コードを書く手が、物語を紡ぐ手になるまで](https://note.com/digiangler777/n/n0d3e584bbec7)
+- [【2026 年 目標設定】 景色を変える 1 月。 僕が選んだ 「3 つの小さな革命」](https://note.com/digiangler777/n/nfb62d148c8df)
 - [2025 年を 「保存」 する。 除夜の鐘と走るバックアップの儀式](https://note.com/digiangler777/n/n399ec7cf6f0a)
 - [【2025 年総決算】 騒がしい一年が残した 「静かな果実」。 僕が 2026 年に連れて行くもの](https://note.com/digiangler777/n/n464be555e64a)
-- [【コード哲学エッセイ】 AI は魔法使いじゃない。僕らの 「相棒」 だ](https://note.com/digiangler777/n/ne4ba0b56c06c)
-- [技術は 「熱狂」 で伸びる。 今年一番楽しかったコード 3 選](https://note.com/digiangler777/n/nd5ac34df50d3)
-- [仕事納めの儀式。デスクトップを 「ゼロ」 にして、脳を完全オフにする](https://note.com/digiangler777/n/naf420eaf8f7f)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
