@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [週末の憂鬱を消す。 「15 分週次レビュー」 のテンプレート](https://note.com/digiangler777/n/n98483e2d61c2)
+- [【週初エッセイ】 元旦の誓いより、日曜の約束。 「できること」 だけで始める](https://note.com/digiangler777/n/n7b8a21853048)
 - [朝 30 分を 「創作」 に捧げた。 7 日間の実験で起きた劇的変化](https://note.com/digiangler777/n/n808ae8209cb4)
 - [【週末エッセイ】 「今年こそ」 を捨てて。 静かに始める夜の儀式](https://note.com/digiangler777/n/na911690b1487)
 - [スタートダッシュをやめたら、続いた。 年始の焦りを手放す技術](https://note.com/digiangler777/n/n994b7b3a8eb6)
-- [「今年も」 と言わせる。 新年の挨拶に添える、信頼の 1 行](https://note.com/digiangler777/n/nd63834af3721)
-- [SNS に時間を溶かすのはもう終わり。 脳のメモリを守る 「情報の防波堤」 の作り方](https://note.com/digiangler777/n/nc1cba4283397)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
