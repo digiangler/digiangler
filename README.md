@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [【週末の思索】 「効率」 だけを追い求めていた頃の僕へ 〜心が軽くなる新しい頑張り方〜](https://note.com/digiangler777/n/nea8c2553423a)
+- [目標を 「数字」 から 「行動」 へ。 心が軽くなる新しい頑張り方](https://note.com/digiangler777/n/n2ee4ca228905)
+- [【週末エッセイ】 予定のない土曜日。 空白は 「寂しさ」 ではなく 「贅沢」 だ](https://note.com/digiangler777/n/n68c7407e448b)
+- [即レスでも雑にならない。 信頼を積む 「一行返信」 の極意](https://note.com/digiangler777/n/n246c6796cf97)
 - [技術トレンドは 「追わない」。 RSS を半減させる 「捨てる基準」](https://note.com/digiangler777/n/n77ca690991d2)
-- [声に出せない分、文章に込める想い 〜吃音症の僕が言葉で見つけた 「もう一つの声」〜](https://note.com/digiangler777/n/nc03ca3928ad8)
-- [【コード哲学エッセイ】 速さは正義じゃない。 未来の自分を守る 「設計」 の話](https://note.com/digiangler777/n/n080b529f12fd)
-- [振り返りが勝手に終わる。 Obsidian で目標と日次を 「自動接続」 する魔法](https://note.com/digiangler777/n/n7c90fd1b03b0)
-- [Next.js のフォーム実装、もう 「事故」 らせない。 Server Actions × Zod で築く鉄壁の設計](https://note.com/digiangler777/n/nc47b469c625a)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
