@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [「片付け」 は 15 分でいい。 週末の憂鬱を消す 「プチ整頓」 術](https://note.com/digiangler777/n/n9a8264c923f4)
+- [【週初エッセイ】 二十歳の僕へ。 その 「迷い」 は、未来を作るコードになる](https://note.com/digiangler777/n/nbe95ed7188e8)
 - [【週末の思索】 「効率」 だけを追い求めていた頃の僕へ 〜心が軽くなる新しい頑張り方〜](https://note.com/digiangler777/n/nea8c2553423a)
 - [目標を 「数字」 から 「行動」 へ。 心が軽くなる新しい頑張り方](https://note.com/digiangler777/n/n2ee4ca228905)
 - [【週末エッセイ】 予定のない土曜日。 空白は 「寂しさ」 ではなく 「贅沢」 だ](https://note.com/digiangler777/n/n68c7407e448b)
-- [即レスでも雑にならない。 信頼を積む 「一行返信」 の極意](https://note.com/digiangler777/n/n246c6796cf97)
-- [技術トレンドは 「追わない」。 RSS を半減させる 「捨てる基準」](https://note.com/digiangler777/n/n77ca690991d2)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
