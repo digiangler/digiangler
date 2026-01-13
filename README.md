@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [Hono のエラー設計。 ログと例外を 「最初に」 決める理由](https://note.com/digiangler777/n/nbda7f622a30b)
+- [AI で個人開発は加速した。 なのに稼げない人が増えた理由](https://note.com/digiangler777/n/n52b152f38b2f)
 - [安心して買える note 記事の作り方](https://note.com/digiangler777/n/n908556ad4685)
 - [1 月の記事計画を全公開。 「無料」 と 「有料」 の書き分け戦略](https://note.com/digiangler777/n/n7085eb58281b)
 - [「片付け」 は 15 分でいい。 週末の憂鬱を消す 「プチ整頓」 術](https://note.com/digiangler777/n/n9a8264c923f4)
-- [【週初エッセイ】 二十歳の僕へ。 その 「迷い」 は、未来を作るコードになる](https://note.com/digiangler777/n/nbe95ed7188e8)
-- [【週末の思索】 「効率」 だけを追い求めていた頃の僕へ 〜心が軽くなる新しい頑張り方〜](https://note.com/digiangler777/n/nea8c2553423a)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
