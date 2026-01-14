@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [毎朝の準備を 0 秒に。 Raycast で作る 「始業ボタン」](https://note.com/digiangler777/n/n581d3b168ded)
+- [【コード哲学エッセイ】 命名は 「説明」 じゃない。 未来の僕と交わす 「約束」 の話](https://note.com/digiangler777/n/ne255cb2d64d9)
 - [Hono のエラー設計。 ログと例外を 「最初に」 決める理由](https://note.com/digiangler777/n/nbda7f622a30b)
 - [AI で個人開発は加速した。 なのに稼げない人が増えた理由](https://note.com/digiangler777/n/n52b152f38b2f)
 - [安心して買える note 記事の作り方](https://note.com/digiangler777/n/n908556ad4685)
-- [1 月の記事計画を全公開。 「無料」 と 「有料」 の書き分け戦略](https://note.com/digiangler777/n/n7085eb58281b)
-- [「片付け」 は 15 分でいい。 週末の憂鬱を消す 「プチ整頓」 術](https://note.com/digiangler777/n/n9a8264c923f4)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
