@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [「やりたいこと」 が消える理由。 迷子を終わらせる 「自分軸」 設計](https://note.com/digiangler777/n/n9ac03b64d386)
+- [【週末エッセイ】 部屋を整えることは、自分を許すこと。 週末の静かな再起動](https://note.com/digiangler777/n/nd60e190d7e51)
 - [キックオフで失敗しない。 「期待値」 を握る事前のテキスト術](https://note.com/digiangler777/n/nac62389be891)
 - [「ググって解決」 の限界。 公式ドキュメントを読み解く 「一次情報」 の技術](https://note.com/digiangler777/n/na9ed1aae12f9)
 - [毎朝の準備を 0 秒に。 Raycast で作る 「始業ボタン」](https://note.com/digiangler777/n/n581d3b168ded)
-- [【コード哲学エッセイ】 命名は 「説明」 じゃない。 未来の僕と交わす 「約束」 の話](https://note.com/digiangler777/n/ne255cb2d64d9)
-- [Hono のエラー設計。 ログと例外を 「最初に」 決める理由](https://note.com/digiangler777/n/nbda7f622a30b)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
