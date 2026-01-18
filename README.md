@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [集中できない日の処方箋。 「5 分」 で休日を救う実験記録](https://note.com/digiangler777/n/n75b396dc6770)
+- [【週初エッセイ】 「毎日」 をやめたら続いた。 三日坊主を救う 「休む設計」](https://note.com/digiangler777/n/n6df0e071eb9d)
 - [「やりたいこと」 が消える理由。 迷子を終わらせる 「自分軸」 設計](https://note.com/digiangler777/n/n9ac03b64d386)
 - [【週末エッセイ】 部屋を整えることは、自分を許すこと。 週末の静かな再起動](https://note.com/digiangler777/n/nd60e190d7e51)
 - [キックオフで失敗しない。 「期待値」 を握る事前のテキスト術](https://note.com/digiangler777/n/nac62389be891)
-- [「ググって解決」 の限界。 公式ドキュメントを読み解く 「一次情報」 の技術](https://note.com/digiangler777/n/na9ed1aae12f9)
-- [毎朝の準備を 0 秒に。 Raycast で作る 「始業ボタン」](https://note.com/digiangler777/n/n581d3b168ded)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
