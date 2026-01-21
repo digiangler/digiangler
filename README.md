@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [Inbox は育てない。 Obsidian へ 「脳直送」 する 1 秒メモ術](https://note.com/digiangler777/n/n55dfb656d10e)
+- [【コード哲学エッセイ】 指摘が痛い夜に。 レビューは 「戦い」 ではなく 「共創」 だ](https://note.com/digiangler777/n/n7ba1c7cba6ea)
+- [環境変数を 「事故」 らせない。 Zod で作る鉄壁の設定管理](https://note.com/digiangler777/n/n1dbf8179acc7)
 - [月曜日は 「3 つ」 決めるだけ。 確実に前に進む週次設計](https://note.com/digiangler777/n/na45031a4fef4)
 - [集中できない日の処方箋。 「5 分」 で休日を救う実験記録](https://note.com/digiangler777/n/n75b396dc6770)
-- [【週初エッセイ】 「毎日」 をやめたら続いた。 三日坊主を救う 「休む設計」](https://note.com/digiangler777/n/n6df0e071eb9d)
-- [「やりたいこと」 が消える理由。 迷子を終わらせる 「自分軸」 設計](https://note.com/digiangler777/n/n9ac03b64d386)
-- [【週末エッセイ】 部屋を整えることは、自分を許すこと。 週末の静かな再起動](https://note.com/digiangler777/n/nd60e190d7e51)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
