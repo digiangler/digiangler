@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [技術書は 「買う前」 が 9 割。 積読をゼロにする 5 つの質問](https://note.com/digiangler777/n/n27c77ef43a8c)
+- [レビューは 「断罪」 じゃない。 未来の品質を育てる 「ギフト」 だ](https://note.com/digiangler777/n/n100628aa9b88)
 - [Inbox は育てない。 Obsidian へ 「脳直送」 する 1 秒メモ術](https://note.com/digiangler777/n/n55dfb656d10e)
 - [【コード哲学エッセイ】 指摘が痛い夜に。 レビューは 「戦い」 ではなく 「共創」 だ](https://note.com/digiangler777/n/n7ba1c7cba6ea)
 - [環境変数を 「事故」 らせない。 Zod で作る鉄壁の設定管理](https://note.com/digiangler777/n/n1dbf8179acc7)
-- [月曜日は 「3 つ」 決めるだけ。 確実に前に進む週次設計](https://note.com/digiangler777/n/na45031a4fef4)
-- [集中できない日の処方箋。 「5 分」 で休日を救う実験記録](https://note.com/digiangler777/n/n75b396dc6770)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
