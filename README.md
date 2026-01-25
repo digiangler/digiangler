@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [書くことがない？ それは 「問い」 がないだけ。 週末 90 分の 「ネタ出し実験」](https://note.com/digiangler777/n/n44e5f189c7c6)
 - [「成長してない気がする」 夜に。 去年の自分だけを見ればいい、 という話](https://note.com/digiangler777/n/n159ff6843d65)
 - [【週末エッセイ】 今日は一日パジャマでいい。 「頑張らない」 を許す勇気の話](https://note.com/digiangler777/n/n72b0444dcf61)
 - [会議は 「当日勝負」 にしない。 吃音の僕が編み出した、 9 割決まる事前設計](https://note.com/digiangler777/n/nd3d6c2266f9e)
 - [技術書は 「買う前」 が 9 割。 積読をゼロにする 5 つの質問](https://note.com/digiangler777/n/n27c77ef43a8c)
-- [レビューは 「断罪」 じゃない。 未来の品質を育てる 「ギフト」 だ](https://note.com/digiangler777/n/n100628aa9b88)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
