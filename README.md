@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [【リバースエンジニアリングの鍵穴】 好奇心の暴走をプロセスで守る冒険](https://note.com/digiangler777/n/n22c4b1ea2ff7)
 - [「何書こう？」 で止まらない。 月次レビューを 「書き始め 0 秒」 にする Obsidian 自動化術](https://note.com/digiangler777/n/n73ce0655fea6)
 - [【コード哲学エッセイ】 デプロイが怖い夜に。 小さく壊して、 小さく直す勇気の話](https://note.com/digiangler777/n/n3c9c486c3a2a)
 - [「use client」 をなんとなく使わない。 RSC と SSR の “使い分け” 最終結論](https://note.com/digiangler777/n/n57a85906937f)
 - [2 月は 「足さない」。 予定を減らして進捗を出す、 逆転のスケジュール術](https://note.com/digiangler777/n/n6d59e4522ec5)
-- [【週初エッセイ】 計画は崩れていい。 真っ白なページに戻る夜の 「再出発」](https://note.com/digiangler777/n/nd4aaedd45a9b)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
