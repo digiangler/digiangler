@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [2 月、 「習慣」 を 「行動」 に変える。 僕が始める 3 つの約束](https://note.com/digiangler777/n/n8efee2304f16)
+- [1 月が終わる夜、 「小さな確信」 だけ持って眠る](https://note.com/digiangler777/n/n63639935b4e8)
+- [【週末エッセイ】 1 月が終わる夜、 「できたこと」 だけ数えて眠る —— 減点法をやめる練習](https://note.com/digiangler777/n/n130394a4e31e)
 - [答えて終わりにしない。 Q&amp;A を 「資産」 に変える運用テンプレ](https://note.com/digiangler777/n/ne73efb653b12)
 - [売れる note は 「観察」 で作れる。 ランキングを因数分解する技術](https://note.com/digiangler777/n/n528e16b3424b)
-- [【リバースエンジニアリングの鍵穴】 好奇心の暴走をプロセスで守る冒険](https://note.com/digiangler777/n/n22c4b1ea2ff7)
-- [「何書こう？」 で止まらない。 月次レビューを 「書き始め 0 秒」 にする Obsidian 自動化術](https://note.com/digiangler777/n/n73ce0655fea6)
-- [【コード哲学エッセイ】 デプロイが怖い夜に。 小さく壊して、 小さく直す勇気の話](https://note.com/digiangler777/n/n3c9c486c3a2a)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
