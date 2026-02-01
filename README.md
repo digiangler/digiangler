@@ -243,10 +243,10 @@
 ### 🍣 Qiita
 
 <!-- QIITA:START -->
+- [“動くから OK” が一番危ない: AI 個人開発で 「AI 借金」 を作らない PR 採用ゲート（Stripe / Webhook 例つき）](https://qiita.com/digiangler/items/2b94647f12d042a3bf09)
 - [GitHubFlow 実践ガイド - フルサイクル開発者のための現場手順書](https://qiita.com/digiangler/items/19887ba649354676ad24)
 - [Gitflow 実践ガイド - フルサイクル開発者のための現場手順書](https://qiita.com/digiangler/items/88a5ae98784c3d29035f)
 - [駆け出しエンジニア向け GitHub Flow 入門](https://qiita.com/digiangler/items/e114b3beae7948677332)
-- [GitHub Flow 現場実践ガイド（フルサイクル開発者視点）](https://qiita.com/digiangler/items/a5e86f23325655dec534)
 <!-- QIITA:END -->
 
 ### 🍣 Zenn
