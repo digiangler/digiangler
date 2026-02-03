@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [Server Actions の 「境界」 を先に決める。 バリデーション・認可・エラーの最小設計](https://note.com/digiangler777/n/n466a5161a6a0)
+- [週次レビューを 「軽く」 する。 3 つの問いで、前に進むだけの振り返り](https://note.com/digiangler777/n/n94115587fb3d)
 - [終業 10 分で 「脳のタブ」 を閉じる。 明日を軽くするシャットダウン儀式](https://note.com/digiangler777/n/nad42aca31d73)
 - [【週初エッセイ】 2 月の朝、窓の外はまだ暗い —— 小さな光から始める一週間](https://note.com/digiangler777/n/n3a726040dcfb)
 - [2 月、 「習慣」 を 「行動」 に変える。 僕が始める 3 つの約束](https://note.com/digiangler777/n/n8efee2304f16)
-- [1 月が終わる夜、 「小さな確信」 だけ持って眠る](https://note.com/digiangler777/n/n63639935b4e8)
-- [【週末エッセイ】 1 月が終わる夜、 「できたこと」 だけ数えて眠る —— 減点法をやめる練習](https://note.com/digiangler777/n/n130394a4e31e)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
