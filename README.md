@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [「あの気づき、 どこに書いたっけ？」 を終わらせる。 一次情報ログの育て方](https://note.com/digiangler777/n/n68ffe6aa2348)
+- [【コード哲学エッセイ】 コメントは 「説明」 じゃなく 「意図」 だ —— 未来の読者への手紙](https://note.com/digiangler777/n/nc595830972db)
 - [Server Actions の 「境界」 を先に決める。 バリデーション・認可・エラーの最小設計](https://note.com/digiangler777/n/n466a5161a6a0)
 - [週次レビューを 「軽く」 する。 3 つの問いで、前に進むだけの振り返り](https://note.com/digiangler777/n/n94115587fb3d)
 - [終業 10 分で 「脳のタブ」 を閉じる。 明日を軽くするシャットダウン儀式](https://note.com/digiangler777/n/nad42aca31d73)
-- [【週初エッセイ】 2 月の朝、窓の外はまだ暗い —— 小さな光から始める一週間](https://note.com/digiangler777/n/n3a726040dcfb)
-- [2 月、 「習慣」 を 「行動」 に変える。 僕が始める 3 つの約束](https://note.com/digiangler777/n/n8efee2304f16)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
