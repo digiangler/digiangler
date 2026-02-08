@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [週末 2 時間で、 毎週 「ひとつ」 作る実験](https://note.com/digiangler777/n/n863f1693d4f0)
+- [【週初エッセイ】 節分の夜、 僕が 「鬼」 にしたもの —— 豆をまくように、 古い習慣を手放す](https://note.com/digiangler777/n/nd4fa3227e83f)
 - [【週末エッセイ】 節分を過ぎても、 寒い土曜日 —— 暦の春と、 体が感じる春のズレ](https://note.com/digiangler777/n/n0bd5a26d9233)
 - [PV が伸びない夜に読む、 「読者ひとり」 の思い出し方](https://note.com/digiangler777/n/n01dd64151821)
 - [「質問が来ない…」 を終わらせる。 僕の Q&amp;A 募集文テンプレ](https://note.com/digiangler777/n/n781574a34ddc)
-- [「なぜ推されない？」 を終わらせる。 note 推し基準の 3 点チェックリスト](https://note.com/digiangler777/n/n4017bf0c4860)
-- [「動くけど、 中身はわからない」 が怖いあなたへ。 14 年生き残ったエンジニアが語る、 AI 時代の生存戦略](https://note.com/digiangler777/n/n3f335ba3551f)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
