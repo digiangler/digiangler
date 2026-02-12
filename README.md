@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [数字に病んだ僕を救った、 たった 2 つの指標 〜 PV を捨てて 「読了」 と 「信頼」 だけ追う発信術 〜](https://note.com/digiangler777/n/nb810ac501f0d)
 - [「書く以外」 を全部やめた。 僕の発信自動化テンプレ 〜note ・ X ・ Obsidian を 1 クリックで循環させる仕組みの全記録〜](https://note.com/digiangler777/n/naaaa33587164)
 - [【コード哲学エッセイ】 依存は 「少ない」 が正義じゃない —— 必要なつながりを恐れない設計](https://note.com/digiangler777/n/n8244bcc073e1)
 - [「コードは書けるのに、 日記が書けない」 僕が、 note で思考のログを晒す理由](https://note.com/digiangler777/n/n2165f6fa70b1)
 - [個人開発の 「認可」 は最初が 9 割。 手戻りゼロの最小設計 〜 認証と認可、 後回しにして積まないための実装ガイド 〜](https://note.com/digiangler777/n/nec96db55ff86)
-- [「どこまで無料？」 に、 答えを出した](https://note.com/digiangler777/n/na8fc988f974d)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
