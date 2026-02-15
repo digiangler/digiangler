@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [【週初エッセイ】 誰かに渡さないチョコを、 自分用に買う —— 自分を労う技術](https://note.com/digiangler777/n/nd639e8ef7ccc)
 - [チョコより重い 「ありがとう」 の話](https://note.com/digiangler777/n/n05419a335e6b)
 - [【週末エッセイ】 バレンタインの夜、 自分へ贈る 「ありがとう」 —— 誰にも渡さない、 自分を労う手紙](https://note.com/digiangler777/n/n82bfd301c781)
 - [進捗報告を 「3 行」 に削る。 相手の脳が軽くなる書き方](https://note.com/digiangler777/n/n818175692efa)
 - [数字に病んだ僕を救った、 たった 2 つの指標 〜 PV を捨てて 「読了」 と 「信頼」 だけ追う発信術 〜](https://note.com/digiangler777/n/nb810ac501f0d)
-- [「書く以外」 を全部やめた。 僕の発信自動化テンプレ 〜note ・ X ・ Obsidian を 1 クリックで循環させる仕組みの全記録〜](https://note.com/digiangler777/n/naaaa33587164)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
