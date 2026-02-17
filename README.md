@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [「なんとなくミドルウェア」 を卒業する。 Hono で学んだ &quot;層&quot; の考え方](https://note.com/digiangler777/n/na9e71d954933)
 - [3 月の僕は、 2 月の僕が作る](https://note.com/digiangler777/n/n8faf7ab480b9)
 - [「書けない」 は、 情報の食べすぎだった](https://note.com/digiangler777/n/nf974a84ff1d6)
 - [【週初エッセイ】 誰かに渡さないチョコを、 自分用に買う —— 自分を労う技術](https://note.com/digiangler777/n/nd639e8ef7ccc)
 - [チョコより重い 「ありがとう」 の話](https://note.com/digiangler777/n/n05419a335e6b)
-- [【週末エッセイ】 バレンタインの夜、 自分へ贈る 「ありがとう」 —— 誰にも渡さない、 自分を労う手紙](https://note.com/digiangler777/n/n82bfd301c781)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
