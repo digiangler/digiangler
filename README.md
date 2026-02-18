@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [「読みやすい」 は感覚じゃない。 テンプレに仕込む構造チェックの話](https://note.com/digiangler777/n/n91da283804a1)
+- [【コード哲学エッセイ】 エラーは 「敵」 じゃない、 境界の 「案内役」 だ —— 失敗を設計に組み込む](https://note.com/digiangler777/n/nb2b5656e6aa2)
 - [「なんとなくミドルウェア」 を卒業する。 Hono で学んだ &quot;層&quot; の考え方](https://note.com/digiangler777/n/na9e71d954933)
 - [3 月の僕は、 2 月の僕が作る](https://note.com/digiangler777/n/n8faf7ab480b9)
 - [「書けない」 は、 情報の食べすぎだった](https://note.com/digiangler777/n/nf974a84ff1d6)
-- [【週初エッセイ】 誰かに渡さないチョコを、 自分用に買う —— 自分を労う技術](https://note.com/digiangler777/n/nd639e8ef7ccc)
-- [チョコより重い 「ありがとう」 の話](https://note.com/digiangler777/n/n05419a335e6b)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
