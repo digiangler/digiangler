@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [「言った言わない」 を終わらせた](https://note.com/digiangler777/n/nd399e4faf762)
 - [引用して終わりの落とし穴](https://note.com/digiangler777/n/nea075e737569)
 - [「読みやすい」 は感覚じゃない。 テンプレに仕込む構造チェックの話](https://note.com/digiangler777/n/n91da283804a1)
 - [【コード哲学エッセイ】 エラーは 「敵」 じゃない、 境界の 「案内役」 だ —— 失敗を設計に組み込む](https://note.com/digiangler777/n/nb2b5656e6aa2)
 - [「なんとなくミドルウェア」 を卒業する。 Hono で学んだ &quot;層&quot; の考え方](https://note.com/digiangler777/n/na9e71d954933)
-- [3 月の僕は、 2 月の僕が作る](https://note.com/digiangler777/n/n8faf7ab480b9)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
