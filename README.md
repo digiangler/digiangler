@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [「自由すぎて、 動けなかった」](https://note.com/digiangler777/n/n0ab4106e1222)
+- [【週末エッセイ】 週末の朝、 起きる時間を一度だけゆるめた —— 休む設計で、 月曜が変わる](https://note.com/digiangler777/n/n2251f59b2005)
 - [「言った言わない」 を終わらせた](https://note.com/digiangler777/n/nd399e4faf762)
 - [引用して終わりの落とし穴](https://note.com/digiangler777/n/nea075e737569)
 - [「読みやすい」 は感覚じゃない。 テンプレに仕込む構造チェックの話](https://note.com/digiangler777/n/n91da283804a1)
-- [【コード哲学エッセイ】 エラーは 「敵」 じゃない、 境界の 「案内役」 だ —— 失敗を設計に組み込む](https://note.com/digiangler777/n/nb2b5656e6aa2)
-- [「なんとなくミドルウェア」 を卒業する。 Hono で学んだ &quot;層&quot; の考え方](https://note.com/digiangler777/n/na9e71d954933)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
