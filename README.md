@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [「読んで忘れる」 を終わらせた 30 日間](https://note.com/digiangler777/n/n1a2746afc194)
+- [【週初エッセイ】 夕方の光が、 少しだけ長くなった —— 冬の出口で感じる希望](https://note.com/digiangler777/n/n2ebf9a22a67f)
 - [「自由すぎて、 動けなかった」](https://note.com/digiangler777/n/n0ab4106e1222)
 - [【週末エッセイ】 週末の朝、 起きる時間を一度だけゆるめた —— 休む設計で、 月曜が変わる](https://note.com/digiangler777/n/n2251f59b2005)
 - [「言った言わない」 を終わらせた](https://note.com/digiangler777/n/nd399e4faf762)
-- [引用して終わりの落とし穴](https://note.com/digiangler777/n/nea075e737569)
-- [「読みやすい」 は感覚じゃない。 テンプレに仕込む構造チェックの話](https://note.com/digiangler777/n/n91da283804a1)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
