@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [30 分でアプリ完成の裏側で、 僕たちが忘れかけている本当の価値](https://note.com/digiangler777/n/n4dac45326c44)
+- [【コード哲学エッセイ】 抽象化は汎用化じゃない —— 変更しやすさの設計](https://note.com/digiangler777/n/nb282b67ffa8f)
 - [後で直すが一番高くつく、 Prisma の話](https://note.com/digiangler777/n/nb2f41e748f9e)
 - [週を 3 つの顔に分けたら、 全部回った](https://note.com/digiangler777/n/nac046c7ca4e2)
 - [「読んで忘れる」 を終わらせた 30 日間](https://note.com/digiangler777/n/n1a2746afc194)
-- [【週初エッセイ】 夕方の光が、 少しだけ長くなった —— 冬の出口で感じる希望](https://note.com/digiangler777/n/n2ebf9a22a67f)
-- [「自由すぎて、 動けなかった」](https://note.com/digiangler777/n/n0ab4106e1222)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
