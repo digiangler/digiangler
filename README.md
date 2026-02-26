@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [問いと引用でコラボを誘う書き方](https://note.com/digiangler777/n/n28e81ef54c77)
+- [30 分でアプリはできた。 でも、 なぜか何も残らなかった理由](https://note.com/digiangler777/n/n6be2fba5ad5c)
+- [もう迷わない、 note メタデータ雛形](https://note.com/digiangler777/n/n50d2516d2f57)
 - [30 分でアプリ完成の裏側で、 僕たちが忘れかけている本当の価値](https://note.com/digiangler777/n/n4dac45326c44)
 - [【コード哲学エッセイ】 抽象化は汎用化じゃない —— 変更しやすさの設計](https://note.com/digiangler777/n/nb282b67ffa8f)
-- [後で直すが一番高くつく、 Prisma の話](https://note.com/digiangler777/n/nb2f41e748f9e)
-- [週を 3 つの顔に分けたら、 全部回った](https://note.com/digiangler777/n/nac046c7ca4e2)
-- [「読んで忘れる」 を終わらせた 30 日間](https://note.com/digiangler777/n/n1a2746afc194)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
