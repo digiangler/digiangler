@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [【週末エッセイ】 2 月が終わる夜、 続いたことだけ数えて眠る](https://note.com/digiangler777/n/n165e61bd443a)
+- [【思索】 結果が出ない 2 月に、 僕が見つけた小さな救い](https://note.com/digiangler777/n/n86c6ecca192e)
 - [Q&amp;A を答えて終わりにしない技術](https://note.com/digiangler777/n/nd4c8d153c048)
 - [問いと引用でコラボを誘う書き方](https://note.com/digiangler777/n/n28e81ef54c77)
 - [30 分でアプリはできた。 でも、 なぜか何も残らなかった理由](https://note.com/digiangler777/n/n6be2fba5ad5c)
-- [もう迷わない、 note メタデータ雛形](https://note.com/digiangler777/n/n50d2516d2f57)
-- [30 分でアプリ完成の裏側で、 僕たちが忘れかけている本当の価値](https://note.com/digiangler777/n/n4dac45326c44)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
