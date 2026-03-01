@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [朝 30 分を 3 ヶ月続けて見えたこと](https://note.com/digiangler777/n/nf807da958622)
+- [【週初エッセイ】 カレンダーだけが先に春になる朝に —— 焦らず切り替える、 一週間の始め方](https://note.com/digiangler777/n/n2f0145732a8e)
+- [3 月、 僕が始める 3 つの次の約束](https://note.com/digiangler777/n/n9cdf0b4b23ab)
 - [【週末エッセイ】 2 月が終わる夜、 続いたことだけ数えて眠る](https://note.com/digiangler777/n/n165e61bd443a)
 - [【思索】 結果が出ない 2 月に、 僕が見つけた小さな救い](https://note.com/digiangler777/n/n86c6ecca192e)
-- [Q&amp;A を答えて終わりにしない技術](https://note.com/digiangler777/n/nd4c8d153c048)
-- [問いと引用でコラボを誘う書き方](https://note.com/digiangler777/n/n28e81ef54c77)
-- [30 分でアプリはできた。 でも、 なぜか何も残らなかった理由](https://note.com/digiangler777/n/n6be2fba5ad5c)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
