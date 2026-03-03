@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [言った言わないを防ぐ。 フロントと API の型契約](https://note.com/digiangler777/n/n45feae43339d)
 - [連載を軸に、 3 月のテーマを育てるにした話](https://note.com/digiangler777/n/n685856fe36c7)
 - [朝 30 分を 3 ヶ月続けて見えたこと](https://note.com/digiangler777/n/nf807da958622)
 - [【週初エッセイ】 カレンダーだけが先に春になる朝に —— 焦らず切り替える、 一週間の始め方](https://note.com/digiangler777/n/n2f0145732a8e)
 - [3 月、 僕が始める 3 つの次の約束](https://note.com/digiangler777/n/n9cdf0b4b23ab)
-- [【週末エッセイ】 2 月が終わる夜、 続いたことだけ数えて眠る](https://note.com/digiangler777/n/n165e61bd443a)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
