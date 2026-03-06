@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [「すごい」 より 「買ってよかった」 をつくる 〜安心して買える note 記事の構成術〜](https://note.com/digiangler777/n/n895b0a6a8a2c)
+- [技術記事を物語に変える 〜 忙しいエンジニアが note でファンをつくる 3 つの秘訣 〜](https://note.com/digiangler777/n/ne4bad25e5b95)
 - [note 特集を観察するようになった](https://note.com/digiangler777/n/na07f90c4a68d)
 - [【コード哲学エッセイ】 削除したコードにも物語がある](https://note.com/digiangler777/n/nca65eedb561a)
 - [週末 90 分の問いストックで迷わず書ける note 執筆フロー](https://note.com/digiangler777/n/n4fc29aa7f138)
-- [言った言わないを防ぐ。 フロントと API の型契約](https://note.com/digiangler777/n/n45feae43339d)
-- [連載を軸に、 3 月のテーマを育てるにした話](https://note.com/digiangler777/n/n685856fe36c7)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
