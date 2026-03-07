@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [【週末エッセイ】 衣替えで見つけた、 今の自分とのささやかなズレ](https://note.com/digiangler777/n/n5dfa658fd700)
 - [「すごい」 より 「買ってよかった」 をつくる 〜安心して買える note 記事の構成術〜](https://note.com/digiangler777/n/n895b0a6a8a2c)
 - [技術記事を物語に変える 〜 忙しいエンジニアが note でファンをつくる 3 つの秘訣 〜](https://note.com/digiangler777/n/ne4bad25e5b95)
 - [note 特集を観察するようになった](https://note.com/digiangler777/n/na07f90c4a68d)
 - [【コード哲学エッセイ】 削除したコードにも物語がある](https://note.com/digiangler777/n/nca65eedb561a)
-- [週末 90 分の問いストックで迷わず書ける note 執筆フロー](https://note.com/digiangler777/n/n4fc29aa7f138)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
