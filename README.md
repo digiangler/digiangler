@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [「売り込みっぽい」 を消す 〜 無料から会員へ、 読者が嫌がらない導線の作り方 〜](https://note.com/digiangler777/n/nc013cd4a8678)
+- [【週初エッセイ】 「年度末だから忙しい」 を合言葉にしない](https://note.com/digiangler777/n/n49ef47b05e6e)
 - [来週の迷いを 1 ページで消す 〜 日曜だけ 「作戦会議ノート」 を開く僕の実験 〜](https://note.com/digiangler777/n/n81c96fb6f175)
 - [数字じゃなく手応えで測る 〜 3 ヶ月続けてようやく気づいた、 僕の成長の物差し 〜](https://note.com/digiangler777/n/nf7739d7b3ebc)
 - [【週末エッセイ】 衣替えで見つけた、 今の自分とのささやかなズレ](https://note.com/digiangler777/n/n5dfa658fd700)
-- [「すごい」 より 「買ってよかった」 をつくる 〜安心して買える note 記事の構成術〜](https://note.com/digiangler777/n/n895b0a6a8a2c)
-- [技術記事を物語に変える 〜 忙しいエンジニアが note でファンをつくる 3 つの秘訣 〜](https://note.com/digiangler777/n/ne4bad25e5b95)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
