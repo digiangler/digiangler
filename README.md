@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [【コード哲学エッセイ】 TODO コメントを借金のまま放置しない](https://note.com/digiangler777/n/nac5f4cdcda4b)
 - [下書き 100 本問題を防ぐ 〜 note 下書きを Obsidian で一覧管理する仕組み 〜](https://note.com/digiangler777/n/neb1f56b5e8fd)
 - [Qiita には書けない僕の失敗 〜 技術記事に自分の体温を乗せる理由 〜](https://note.com/digiangler777/n/n6aeddb6eef43)
 - [どこまでフロント？ どこから API？ 〜 Next.js × Hono の責務分担を整理した記録 〜](https://note.com/digiangler777/n/nec41c378bad7)
 - [「売り込みっぽい」 を消す 〜 無料から会員へ、 読者が嫌がらない導線の作り方 〜](https://note.com/digiangler777/n/nc013cd4a8678)
-- [【週初エッセイ】 「年度末だから忙しい」 を合言葉にしない](https://note.com/digiangler777/n/n49ef47b05e6e)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
