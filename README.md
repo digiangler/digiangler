@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [タスク管理ツールが増えすぎた僕が、 1 枚のボードに集約した記録](https://note.com/digiangler777/n/nf3be9324d76d)
+- [【週初エッセイ】 卒業シーズンに、 手放したいものを書き出す](https://note.com/digiangler777/n/nc1ee7eed5eb2)
 - [「褒められ方」 が苦手な僕が、 少しずつ受け取れるようになるまで](https://note.com/digiangler777/n/nb1e9bed8162d)
 - [【週末エッセイ】 ホワイトデーのお返しに、 モノではなく言葉を選ぶ](https://note.com/digiangler777/n/nf11cd28d07bb)
 - [吃音の僕が 「話さなくても営業できる」 ようになるまで 〜 ポートフォリオと note の連携 〜](https://note.com/digiangler777/n/n59983e802bd7)
-- [時間がないエンジニアへ 〜 あなたの泥臭いバグ修正が、 誰かの希望になる理由 〜](https://note.com/digiangler777/n/n231ee207221c)
-- [保存される X スレッドの秘密](https://note.com/digiangler777/n/n683ce928d066)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
