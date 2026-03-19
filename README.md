@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [「推したい人」 を推す note の作り方](https://note.com/digiangler777/n/nb8dd277f69a2)
 - [【コード哲学エッセイ】 設計書は正解を押しつけるものじゃない](https://note.com/digiangler777/n/n3d0bd10df1a8)
 - [「どこに連絡すればいい？」 を消した](https://note.com/digiangler777/n/n91770627e2fb)
 - [Result 型で ぬるぽ を封じる](https://note.com/digiangler777/n/nb4e8419d81ba)
 - [月間テーマを 1 ワードに絞ったら、 迷いが消えた](https://note.com/digiangler777/n/n4cbcf5f7ad47)
-- [タスク管理ツールが増えすぎた僕が、 1 枚のボードに集約した記録](https://note.com/digiangler777/n/nf3be9324d76d)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
