@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [好きと稼ぐの間で迷った僕が境界線を決め直した話](https://note.com/digiangler777/n/n17c66bf91c03)
+- [【週末エッセイ】 昼と夜が同じ長さの日に考える、 僕のバランス](https://note.com/digiangler777/n/n0a214b01694d)
 - [「今どこまで？」 に答えられる僕が使う進捗共有テンプレ](https://note.com/digiangler777/n/nf666be93c8b2)
 - [「推したい人」 を推す note の作り方](https://note.com/digiangler777/n/nb8dd277f69a2)
 - [【コード哲学エッセイ】 設計書は正解を押しつけるものじゃない](https://note.com/digiangler777/n/n3d0bd10df1a8)
-- [「どこに連絡すればいい？」 を消した](https://note.com/digiangler777/n/n91770627e2fb)
-- [Result 型で ぬるぽ を封じる](https://note.com/digiangler777/n/nb4e8419d81ba)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
