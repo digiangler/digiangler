@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [「あのとき何が起きた？」 を残す僕のログ術](https://note.com/digiangler777/n/n8907ff1c18de)
 - [四半期レビューが怖かった僕が 4 つの問いで軽くした話](https://note.com/digiangler777/n/n0a040551f81b)
 - [1 日 1 アウトプット 3 ヶ月目、 僕が見た現実と微調整](https://note.com/digiangler777/n/n01f12e9ab132)
 - [【週初エッセイ】 引っ越しはしない僕にも訪れる環境の変化](https://note.com/digiangler777/n/nb58d16349d33)
 - [好きと稼ぐの間で迷った僕が境界線を決め直した話](https://note.com/digiangler777/n/n17c66bf91c03)
-- [【週末エッセイ】 昼と夜が同じ長さの日に考える、 僕のバランス](https://note.com/digiangler777/n/n0a214b01694d)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
