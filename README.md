@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [「またゼロから書く」 をやめた。 請求 ・ 見積テンプレの育て方](https://note.com/digiangler777/n/necfcc67a2cf9)
+- [【コード哲学エッセイ】 長く続くプロジェクトで、 やらないことを決める](https://note.com/digiangler777/n/n1f563fe56e4a)
 - [「あのとき何が起きた？」 を残す僕のログ術](https://note.com/digiangler777/n/n8907ff1c18de)
 - [四半期レビューが怖かった僕が 4 つの問いで軽くした話](https://note.com/digiangler777/n/n0a040551f81b)
 - [1 日 1 アウトプット 3 ヶ月目、 僕が見た現実と微調整](https://note.com/digiangler777/n/n01f12e9ab132)
-- [【週初エッセイ】 引っ越しはしない僕にも訪れる環境の変化](https://note.com/digiangler777/n/nb58d16349d33)
-- [好きと稼ぐの間で迷った僕が境界線を決め直した話](https://note.com/digiangler777/n/n17c66bf91c03)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
