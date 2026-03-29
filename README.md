@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [作業ログが実況だった僕を設計図が救った](https://note.com/digiangler777/n/n233bafd819ec)
+- [【週初エッセイ】 3 月の終わり、 冬の自分に 「おつかれさま」 を言う](https://note.com/digiangler777/n/n1e80d7650514)
 - [任せることが最後の技術だった](https://note.com/digiangler777/n/nf335195370d9)
 - [【週末エッセイ】 年度末の喧騒から一歩だけ離れてみる](https://note.com/digiangler777/n/n71488a34fa82)
 - [読者の問いが、 連載の種になる 〜 3 月 Q&amp;A ダイジェスト 〜](https://note.com/digiangler777/n/n032a54a28d1f)
-- [PV よりストック価値で記事を選ぶ僕の視点](https://note.com/digiangler777/n/n8cc2d7b1b103)
-- [「またゼロから書く」 をやめた。 請求 ・ 見積テンプレの育て方](https://note.com/digiangler777/n/necfcc67a2cf9)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
