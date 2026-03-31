@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [3 月を振り返る。 続ける先にあった育てるという答え](https://note.com/digiangler777/n/n81a9eeea2c5a)
 - [連載マップを描いたら発信の迷いが消えた](https://note.com/digiangler777/n/ne73b80c8b387)
 - [作業ログが実況だった僕を設計図が救った](https://note.com/digiangler777/n/n233bafd819ec)
 - [【週初エッセイ】 3 月の終わり、 冬の自分に 「おつかれさま」 を言う](https://note.com/digiangler777/n/n1e80d7650514)
 - [任せることが最後の技術だった](https://note.com/digiangler777/n/nf335195370d9)
-- [【週末エッセイ】 年度末の喧騒から一歩だけ離れてみる](https://note.com/digiangler777/n/n71488a34fa82)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
