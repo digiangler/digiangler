@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [新しい季節に新しい自分を求めなくていい 〜 変わらない芯が僕を強くする 〜](https://note.com/digiangler777/n/nfe1d2c821302)
+- [【週末エッセイ】 窓を開けて、 春の風を通す 〜 部屋の空気を変えるだけで始まる週末 〜](https://note.com/digiangler777/n/n5b1d77dc2618)
+- [プログラミングの写経を本当のスキルに変えるたったひとつの問いかけ](https://note.com/digiangler777/n/n91e64c85e7b6)
 - [肩書きのあとに何を書くかで信頼が決まる 〜 吃音の僕が実践する 60 秒プロフィール の型 &lpar;Q&amp;A 募集&rpar; 〜](https://note.com/digiangler777/n/nd4ecbda2e938)
 - [【コード哲学エッセイ】 他人のコードを初めて開いたとき、 僕は何を読んでいるのか 〜 レガシーコードとの正しい出会い方 〜](https://note.com/digiangler777/n/n3dca029d6387)
-- [新年度に読まれる記事と、 読まれない記事の差 〜 4 月の note で伸びやすいテーマを僕が傾向分析した 〜](https://note.com/digiangler777/n/n835a6a8a8a82)
-- [「あとで直す」 が雪だるまになる前に 〜 新年度に僕が開発環境を一斉アップデートする春掃除チェックリスト（依存／ツール／設定） 〜](https://note.com/digiangler777/n/na95c0bc83b7d)
-- [【目標設定】 4 月、 僕が新しく始めたい 3 つのこと](https://note.com/digiangler777/n/n728962a81a4e)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
