@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [週 1 公開が続かない僕が、 仕組みで出し続けるまで 〜 小さなアウトプット実験の記録 〜](https://note.com/digiangler777/n/n6207ee0d0b09)
+- [【週初エッセイ】 新年度の朝、 僕は何も変わっていない 〜 変化を焦らず、 昨日の続きから始める 〜](https://note.com/digiangler777/n/n12aec20866ab)
 - [新しい季節に新しい自分を求めなくていい 〜 変わらない芯が僕を強くする 〜](https://note.com/digiangler777/n/nfe1d2c821302)
 - [【週末エッセイ】 窓を開けて、 春の風を通す 〜 部屋の空気を変えるだけで始まる週末 〜](https://note.com/digiangler777/n/n5b1d77dc2618)
 - [プログラミングの写経を本当のスキルに変えるたったひとつの問いかけ](https://note.com/digiangler777/n/n91e64c85e7b6)
-- [肩書きのあとに何を書くかで信頼が決まる 〜 吃音の僕が実践する 60 秒プロフィール の型 &lpar;Q&amp;A 募集&rpar; 〜](https://note.com/digiangler777/n/nd4ecbda2e938)
-- [【コード哲学エッセイ】 他人のコードを初めて開いたとき、 僕は何を読んでいるのか 〜 レガシーコードとの正しい出会い方 〜](https://note.com/digiangler777/n/n3dca029d6387)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
