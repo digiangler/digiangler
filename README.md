@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [「またゼロから書く」 を減らす。 僕が過去記事を Obsidian の部品に分解した話](https://note.com/digiangler777/n/n91ccbfff2a2a)
+- [【コード哲学エッセイ】 README は玄関だ。 〜 プロジェクトの第一印象を設計する 〜](https://note.com/digiangler777/n/n46ab43c3d4c5)
 - [デプロイ先を迷うたびに遅れる僕が、 Vercel と Cloudflare で役割分担した話](https://note.com/digiangler777/n/n52eb5c1a8ce8)
 - [「次の 3 ヶ月、 何をする？」 が曖昧だった僕が Q2 の 90 日で軸を決め直した話](https://note.com/digiangler777/n/ncbb09b40adaa)
 - [週 1 公開が続かない僕が、 仕組みで出し続けるまで 〜 小さなアウトプット実験の記録 〜](https://note.com/digiangler777/n/n6207ee0d0b09)
-- [【週初エッセイ】 新年度の朝、 僕は何も変わっていない 〜 変化を焦らず、 昨日の続きから始める 〜](https://note.com/digiangler777/n/n12aec20866ab)
-- [新しい季節に新しい自分を求めなくていい 〜 変わらない芯が僕を強くする 〜](https://note.com/digiangler777/n/nfe1d2c821302)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
