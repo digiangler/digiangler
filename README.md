@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [吃音の僕が、 角を立てずに No と書くために整えた文章の型](https://note.com/digiangler777/n/nb362ba575f61)
 - [伸びてるジャンルはどこ？ 僕が note メンバーシップを観察してメモした価格 ・ 構成 ・ 導線](https://note.com/digiangler777/n/nceff929794ce)
 - [「またゼロから書く」 を減らす。 僕が過去記事を Obsidian の部品に分解した話](https://note.com/digiangler777/n/n91ccbfff2a2a)
 - [【コード哲学エッセイ】 README は玄関だ。 〜 プロジェクトの第一印象を設計する 〜](https://note.com/digiangler777/n/n46ab43c3d4c5)
 - [デプロイ先を迷うたびに遅れる僕が、 Vercel と Cloudflare で役割分担した話](https://note.com/digiangler777/n/n52eb5c1a8ce8)
-- [「次の 3 ヶ月、 何をする？」 が曖昧だった僕が Q2 の 90 日で軸を決め直した話](https://note.com/digiangler777/n/ncbb09b40adaa)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
