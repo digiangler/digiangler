@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [「毎日やらなきゃ」 に疲れた僕がルーティンを組み直した話 〜 義務感をほどく 5 つの調整術 〜](https://note.com/digiangler777/n/n2d1822f82fb6)
+- [集中がブレる僕が作業 BGM を AB テストした話 〜 音楽 ・ 自然音 ・ 無音、 どれが一番効いたか 〜](https://note.com/digiangler777/n/nadb968fba70e)
 - [【週初エッセイ】 花見より、 ひとりの散歩を選んだ土曜日 〜 みんなと一緒を手放す春 〜](https://note.com/digiangler777/n/n64c5875748a8)
 - [桜が散るたびに思い出す。 僕が 「終わり」 を受け入れる練習を続ける理由 〜 手放すほど、 次の芽が見える 〜](https://note.com/digiangler777/n/n52f74d9fe71a)
 - [【週末エッセイ】 いつもの道を、 少しだけゆっくり歩いた 〜 歩く速度を変えると、 景色が変わる 〜](https://note.com/digiangler777/n/ndcb7b7ad2ef1)
-- [吃音の僕が、 角を立てずに No と書くために整えた文章の型](https://note.com/digiangler777/n/nb362ba575f61)
-- [伸びてるジャンルはどこ？ 僕が note メンバーシップを観察してメモした価格 ・ 構成 ・ 導線](https://note.com/digiangler777/n/nceff929794ce)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
