@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [GitHub Issues を個人開発のタスクボードにした僕の設計図](https://note.com/digiangler777/n/n107cc8de8119)
+- [【コード哲学エッセイ】 技術的負債は悪じゃない 〜 借りた理由を説明できるなら、 それは戦略だ 〜](https://note.com/digiangler777/n/n83d2850a0096)
 - [迷ったときに戻れる。 僕が shadcn/ui の設計判断をメモに残す理由](https://note.com/digiangler777/n/nc75542e0b4b4)
 - [「毎日やらなきゃ」 に疲れた僕がルーティンを組み直した話 〜 義務感をほどく 5 つの調整術 〜](https://note.com/digiangler777/n/n2d1822f82fb6)
 - [集中がブレる僕が作業 BGM を AB テストした話 〜 音楽 ・ 自然音 ・ 無音、 どれが一番効いたか 〜](https://note.com/digiangler777/n/nadb968fba70e)
-- [【週初エッセイ】 花見より、 ひとりの散歩を選んだ土曜日 〜 みんなと一緒を手放す春 〜](https://note.com/digiangler777/n/n64c5875748a8)
-- [桜が散るたびに思い出す。 僕が 「終わり」 を受け入れる練習を続ける理由 〜 手放すほど、 次の芽が見える 〜](https://note.com/digiangler777/n/n52f74d9fe71a)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
