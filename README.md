@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [好きを仕事にした僕が、 毎月払っている見えない代償](https://note.com/digiangler777/n/n0bae3b95c0fd)
+- [【週末エッセイ】 カフェの隅っこが僕の居場所だった](https://note.com/digiangler777/n/n70da49c152b4)
 - [吃音の僕が声より文章で初案件につなげた言い換え](https://note.com/digiangler777/n/n26c8bec67fa5)
 - [AI Overview に載せたい僕が、 記事条件を実験で探した話](https://note.com/digiangler777/n/ncd285a597dfc)
 - [GitHub Issues を個人開発のタスクボードにした僕の設計図](https://note.com/digiangler777/n/n107cc8de8119)
-- [【コード哲学エッセイ】 技術的負債は悪じゃない 〜 借りた理由を説明できるなら、 それは戦略だ 〜](https://note.com/digiangler777/n/n83d2850a0096)
-- [迷ったときに戻れる。 僕が shadcn/ui の設計判断をメモに残す理由](https://note.com/digiangler777/n/nc75542e0b4b4)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
