@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [連休が怖くなくなった僕の GW 前ルーティン](https://note.com/digiangler777/n/n694429f4c805)
+- [【週初エッセイ】 新しい人間関係で最初に伝えたい僕のこと — 吃音という自己紹介のかたち](https://note.com/digiangler777/n/n853924b52f27)
+- [「全部できる」 に疲れた僕が、 フルスタックよりもフルサイクルという働き方に救われた話](https://note.com/digiangler777/n/n1cec71b129b0)
 - [好きを仕事にした僕が、 毎月払っている見えない代償](https://note.com/digiangler777/n/n0bae3b95c0fd)
 - [【週末エッセイ】 カフェの隅っこが僕の居場所だった](https://note.com/digiangler777/n/n70da49c152b4)
-- [吃音の僕が声より文章で初案件につなげた言い換え](https://note.com/digiangler777/n/n26c8bec67fa5)
-- [AI Overview に載せたい僕が、 記事条件を実験で探した話](https://note.com/digiangler777/n/ncd285a597dfc)
-- [GitHub Issues を個人開発のタスクボードにした僕の設計図](https://note.com/digiangler777/n/n107cc8de8119)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
