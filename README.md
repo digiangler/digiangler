@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [環境構築で一日が溶けるのが怖かった僕が Docker Compose で 5 分起動の土台を固めた話](https://note.com/digiangler777/n/n1db3c29d495c)
 - [一人で書かない連載に変えた僕の運用](https://note.com/digiangler777/n/n01cebf638da1)
 - [連休が怖くなくなった僕の GW 前ルーティン](https://note.com/digiangler777/n/n694429f4c805)
 - [【週初エッセイ】 新しい人間関係で最初に伝えたい僕のこと — 吃音という自己紹介のかたち](https://note.com/digiangler777/n/n853924b52f27)
 - [「全部できる」 に疲れた僕が、 フルスタックよりもフルサイクルという働き方に救われた話](https://note.com/digiangler777/n/n1cec71b129b0)
-- [好きを仕事にした僕が、 毎月払っている見えない代償](https://note.com/digiangler777/n/n0bae3b95c0fd)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
