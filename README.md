@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [月末の数字まとめが怖くなくなった僕の仕組み 〜 GAS で note ・ X ・ Obsidian を一枚に 〜](https://note.com/digiangler777/n/n65a8ad49afe7)
+- [【コード哲学エッセイ】 一人で書いたコードを誰かに渡す日 〜 引き継ぎで試される設計の誠実さ 〜](https://note.com/digiangler777/n/nc4c2b09a0129)
 - [環境構築で一日が溶けるのが怖かった僕が Docker Compose で 5 分起動の土台を固めた話](https://note.com/digiangler777/n/n1db3c29d495c)
 - [一人で書かない連載に変えた僕の運用](https://note.com/digiangler777/n/n01cebf638da1)
 - [連休が怖くなくなった僕の GW 前ルーティン](https://note.com/digiangler777/n/n694429f4c805)
-- [【週初エッセイ】 新しい人間関係で最初に伝えたい僕のこと — 吃音という自己紹介のかたち](https://note.com/digiangler777/n/n853924b52f27)
-- [「全部できる」 に疲れた僕が、 フルスタックよりもフルサイクルという働き方に救われた話](https://note.com/digiangler777/n/n1cec71b129b0)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
