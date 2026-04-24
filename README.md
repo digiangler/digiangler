@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [4 月の Q&amp;A ダイジェスト 〜 新年度、 読者との対話の入口を作る話 〜](https://note.com/digiangler777/n/n862d78f50d7a)
 - [フリーランスの相場感をどうアップデートするか 〜 単価交渉の前に集める 3 つの情報源 〜](https://note.com/digiangler777/n/n338a2c1ab8bc)
 - [月末の数字まとめが怖くなくなった僕の仕組み 〜 GAS で note ・ X ・ Obsidian を一枚に 〜](https://note.com/digiangler777/n/n65a8ad49afe7)
 - [【コード哲学エッセイ】 一人で書いたコードを誰かに渡す日 〜 引き継ぎで試される設計の誠実さ 〜](https://note.com/digiangler777/n/nc4c2b09a0129)
 - [環境構築で一日が溶けるのが怖かった僕が Docker Compose で 5 分起動の土台を固めた話](https://note.com/digiangler777/n/n1db3c29d495c)
-- [一人で書かない連載に変えた僕の運用](https://note.com/digiangler777/n/n01cebf638da1)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
