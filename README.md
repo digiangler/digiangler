@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [個人開発のテスト戦略を &quot;最小で最大効果&quot; にする 〜 E2E より先に書くべきテスト 〜](https://note.com/digiangler777/n/nd12941f0e3fb)
 - [5 月に向けた &quot;仕込み&quot; リスト 〜 GW の余韻で始動する、 次の習慣 〜](https://note.com/digiangler777/n/na4b605f47f9d)
 - [GW 初日に &quot;やりたいことリスト&quot; を 1 枚に描く 〜 予定を詰め込まない休日設計 〜](https://note.com/digiangler777/n/nf492c79a4609)
 - [【週初エッセイ】 4 月の終わり、 桜が散ったあとの景色が好きだ —— 華やかさが去った後に見える、 自分だけの春](https://note.com/digiangler777/n/n80cd0075ab50)
 - [15 年前、 僕がフリーランスの世界に飛び込んだ日のこと 〜 春の夜、 原点に立ち返る 〜](https://note.com/digiangler777/n/ne51ffd6d3ce0)
-- [【週末エッセイ】 春の夜はなぜか少しだけ寂しい —— 新しい季節の高揚が落ち着いたあとの静けさ](https://note.com/digiangler777/n/ne708732fb7d3)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
