@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [加速した春の手応えのあとで、 僕が 4 月に見えた景色](https://note.com/digiangler777/n/n6a82c8b1d7d4)
 - [GW 用の &quot;自動応答&quot; を設定する](https://note.com/digiangler777/n/n42966c0fb619)
 - [【コード哲学エッセイ】 バージョンを上げる勇気 —— 「動いているものに触るな」 を乗り越える判断基準](https://note.com/digiangler777/n/n53b85a994f09)
 - [個人開発のテスト戦略を &quot;最小で最大効果&quot; にする 〜 E2E より先に書くべきテスト 〜](https://note.com/digiangler777/n/nd12941f0e3fb)
 - [5 月に向けた &quot;仕込み&quot; リスト 〜 GW の余韻で始動する、 次の習慣 〜](https://note.com/digiangler777/n/na4b605f47f9d)
-- [GW 初日に &quot;やりたいことリスト&quot; を 1 枚に描く 〜 予定を詰め込まない休日設計 〜](https://note.com/digiangler777/n/nf492c79a4609)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
