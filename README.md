@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [GW の 3 日間を創作合宿にした僕が個人開発を一歩進めた記録](https://note.com/digiangler777/n/n4bbce632a7d2)
+- [【週初エッセイ】 GW に何もしない日をひとつ入れる僕の連休術](https://note.com/digiangler777/n/n1da913c880b5)
 - [予定がないと落ち着かない僕が GW 初日だけ空白をカレンダーに入れた話](https://note.com/digiangler777/n/n6d54b7dfe04a)
 - [【週末エッセイ】 GW に旅をしない僕が街のすみっこで見つけた景色](https://note.com/digiangler777/n/ndcf12c370d0b)
 - [GW 中の既読スルーに潰されかけた僕が変えた伝える技術](https://note.com/digiangler777/n/nd3b50450e0ab)
-- [GW 明けに失速しないために、 僕が 5 月に始める 3 つのこと](https://note.com/digiangler777/n/n96683d0425b8)
-- [加速した春の手応えのあとで、 僕が 4 月に見えた景色](https://note.com/digiangler777/n/n6a82c8b1d7d4)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
