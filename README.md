@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [GW に Bun ・ Hono ・ Astro を並べた僕の素振り記録](https://note.com/digiangler777/n/nac548fc32c8e)
 - [GW 中盤に中間レビューを挟んだ僕が休暇を再設計した話](https://note.com/digiangler777/n/nf6bc7c7ec584)
 - [GW の 3 日間を創作合宿にした僕が個人開発を一歩進めた記録](https://note.com/digiangler777/n/n4bbce632a7d2)
 - [【週初エッセイ】 GW に何もしない日をひとつ入れる僕の連休術](https://note.com/digiangler777/n/n1da913c880b5)
 - [予定がないと落ち着かない僕が GW 初日だけ空白をカレンダーに入れた話](https://note.com/digiangler777/n/n6d54b7dfe04a)
-- [【週末エッセイ】 GW に旅をしない僕が街のすみっこで見つけた景色](https://note.com/digiangler777/n/ndcf12c370d0b)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
