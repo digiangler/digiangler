@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [GW 明けの距離感で固まった僕が、 久しぶりの相手へ送った安心の一文](https://note.com/digiangler777/n/n5970431856d9)
 - [連休に溜めない僕が Readwise で流し読みを資産に変えた設計](https://note.com/digiangler777/n/nb78c866b0c23)
 - [連休明けが怖かった僕が、 最終日に置いた月曜の始業ボタン](https://note.com/digiangler777/n/n632fde2c8dc5)
 - [【コード哲学エッセイ】 ログは証拠じゃなく、 未来の自分との対話だ](https://note.com/digiangler777/n/n65c7e39fdd6d)
 - [GW に Bun ・ Hono ・ Astro を並べた僕の素振り記録](https://note.com/digiangler777/n/nac548fc32c8e)
-- [GW 中盤に中間レビューを挟んだ僕が休暇を再設計した話](https://note.com/digiangler777/n/nf6bc7c7ec584)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
