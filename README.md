@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [母の日に僕が手紙を書き続けてみた理由](https://note.com/digiangler777/n/ne8a8f89a8970)
 - [五月病に沈んだ僕が名前を変えてみた話](https://note.com/digiangler777/n/nb4d89adc5941)
 - [【週末エッセイ】 連休明けの土曜日はだらけていい](https://note.com/digiangler777/n/n152d0899945a)
 - [GW 明けの距離感で固まった僕が、 久しぶりの相手へ送った安心の一文](https://note.com/digiangler777/n/n5970431856d9)
 - [連休に溜めない僕が Readwise で流し読みを資産に変えた設計](https://note.com/digiangler777/n/nb78c866b0c23)
-- [連休明けが怖かった僕が、 最終日に置いた月曜の始業ボタン](https://note.com/digiangler777/n/n632fde2c8dc5)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
