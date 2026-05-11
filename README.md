@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [Q2 の真ん中で筆を止めた僕がやり直した中間振り返り](https://note.com/digiangler777/n/n1d026af7eed5)
+- [【週初エッセイ】 母の日に電話がかけられなかった僕が考えた、 ありがとうの渡し方](https://note.com/digiangler777/n/n152b8872f60b)
 - [母の日に僕が手紙を書き続けてみた理由](https://note.com/digiangler777/n/ne8a8f89a8970)
 - [五月病に沈んだ僕が名前を変えてみた話](https://note.com/digiangler777/n/nb4d89adc5941)
 - [【週末エッセイ】 連休明けの土曜日はだらけていい](https://note.com/digiangler777/n/n152d0899945a)
-- [GW 明けの距離感で固まった僕が、 久しぶりの相手へ送った安心の一文](https://note.com/digiangler777/n/n5970431856d9)
-- [連休に溜めない僕が Readwise で流し読みを資産に変えた設計](https://note.com/digiangler777/n/nb78c866b0c23)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
