@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [溜め続けた Inbox が重かった僕が保存より削除に切り替えた話](https://note.com/digiangler777/n/n3e89048de922)
 - [通知に削られた集中を取り戻した僕が Obsidian を静かにした話](https://note.com/digiangler777/n/nc4b2c373e60d)
 - [【コード哲学エッセイ】 動かすより止められる設計が僕を救った](https://note.com/digiangler777/n/n98b5acc2b3a8)
 - [any が増えた僕が Generics で意図を書き直した話](https://note.com/digiangler777/n/nb69ff52aff26)
 - [Q2 の真ん中で筆を止めた僕がやり直した中間振り返り](https://note.com/digiangler777/n/n1d026af7eed5)
-- [【週初エッセイ】 母の日に電話がかけられなかった僕が考えた、 ありがとうの渡し方](https://note.com/digiangler777/n/n152b8872f60b)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
