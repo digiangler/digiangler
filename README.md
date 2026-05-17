@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [1 日スマホ箱に閉じ込めた僕が戻ってきた集中力を記録した話](https://note.com/digiangler777/n/n4e5874d0de8a)
+- [【週初エッセイ】 連休明け一週間、 エンジンがかからなくていい](https://note.com/digiangler777/n/n9b2bf08b0989)
 - [頑張りすぎた僕が、 「がんばらない」 を選び直した話](https://note.com/digiangler777/n/n2d585d528bb4)
 - [【週末エッセイ】 緑が濃くなる季節、 外でコーヒーを飲む僕の週末](https://note.com/digiangler777/n/nc82b30812289)
 - [申し訳なさが先に出る僕が、 値上げ交渉を文章で乗り越えた話](https://note.com/digiangler777/n/nd152805ef29e)
-- [溜め続けた Inbox が重かった僕が保存より削除に切り替えた話](https://note.com/digiangler777/n/n3e89048de922)
-- [通知に削られた集中を取り戻した僕が Obsidian を静かにした話](https://note.com/digiangler777/n/nc4b2c373e60d)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
