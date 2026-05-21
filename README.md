@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [積読を増やさない僕が読み返す本だけを選ぶようになった話 〜 深く読む 3 つの基準 〜](https://note.com/digiangler777/n/n25ce858d0721)
 - [【コード哲学エッセイ】 関数は仕事じゃなく責任を持つ](https://note.com/digiangler777/n/nf54bf596d6a1)
 - [月末の数字集めに疲れた僕が GAS で月次レビューを自動下書きした話 〜 note ・ X の数値を雛形に流し込む 〜](https://note.com/digiangler777/n/n997d0b702ccf)
 - [レビュアーがいない僕が AI と自分レビューの型を作った話](https://note.com/digiangler777/n/n7cc9dd712782)
 - [ToDo が増えすぎた僕が、 月曜にやめることリストを置いた話](https://note.com/digiangler777/n/n46177e0551fd)
-- [1 日スマホ箱に閉じ込めた僕が戻ってきた集中力を記録した話](https://note.com/digiangler777/n/n4e5874d0de8a)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
