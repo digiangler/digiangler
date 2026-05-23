@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [【週末エッセイ】 雨が来る前に頭の中を晴らしておく](https://note.com/digiangler777/n/n2e292efcd23e)
+- [捨てた服の数だけ余裕が生まれた僕の話 〜 手放しは自己否定ではない 〜](https://note.com/digiangler777/n/nad7a6a8b50b7)
 - [答えようと焦った僕が質問返しで信頼を得た話 〜 深掘り応答の型 （Q&amp;A 募集） 〜](https://note.com/digiangler777/n/n6dcae2aea64e)
 - [積読を増やさない僕が読み返す本だけを選ぶようになった話 〜 深く読む 3 つの基準 〜](https://note.com/digiangler777/n/n25ce858d0721)
 - [【コード哲学エッセイ】 関数は仕事じゃなく責任を持つ](https://note.com/digiangler777/n/nf54bf596d6a1)
-- [月末の数字集めに疲れた僕が GAS で月次レビューを自動下書きした話 〜 note ・ X の数値を雛形に流し込む 〜](https://note.com/digiangler777/n/n997d0b702ccf)
-- [レビュアーがいない僕が AI と自分レビューの型を作った話](https://note.com/digiangler777/n/n7cc9dd712782)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
