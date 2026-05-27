@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [【コード哲学エッセイ】 パフォーマンスは速さじゃなく体験だ —— 計測より先に問う、 誰のための最適化か](https://note.com/digiangler777/n/nef5ce05b6a79)
+- [CHANGELOG を書き忘れる僕が README と CHANGELOG を自動で育てる仕組みを作った話](https://note.com/digiangler777/n/nfc4dcce6ae58)
+- [package.json が膨らんだ僕が使わないライブラリを見極めた話](https://note.com/digiangler777/n/nbf19ad8ace01)
 - [雨で計画が止まる僕が 6 月のテーマだけ先に決めた理由](https://note.com/digiangler777/n/nc141df2c242f)
 - [【週初エッセイ】 汗ばむ季節の手前に頭の中を整理する](https://note.com/digiangler777/n/n0e082dbafd76)
-- [ベランダを整えたら頭が晴れた僕の話 〜 梅雨入り前の環境整備と集中力の実験記録 〜](https://note.com/digiangler777/n/n5f34c16f733e)
-- [【週末エッセイ】 雨が来る前に頭の中を晴らしておく](https://note.com/digiangler777/n/n2e292efcd23e)
-- [捨てた服の数だけ余裕が生まれた僕の話 〜 手放しは自己否定ではない 〜](https://note.com/digiangler777/n/nad7a6a8b50b7)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
