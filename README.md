@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [5 月に届いた問いを並べた僕が Q2 前半のテーマを見つけた話](https://note.com/digiangler777/n/ne910ef6a215d)
 - [【コード哲学エッセイ】 パフォーマンスは速さじゃなく体験だ —— 計測より先に問う、 誰のための最適化か](https://note.com/digiangler777/n/nef5ce05b6a79)
 - [CHANGELOG を書き忘れる僕が README と CHANGELOG を自動で育てる仕組みを作った話](https://note.com/digiangler777/n/nfc4dcce6ae58)
 - [package.json が膨らんだ僕が使わないライブラリを見極めた話](https://note.com/digiangler777/n/nbf19ad8ace01)
 - [雨で計画が止まる僕が 6 月のテーマだけ先に決めた理由](https://note.com/digiangler777/n/nc141df2c242f)
-- [【週初エッセイ】 汗ばむ季節の手前に頭の中を整理する](https://note.com/digiangler777/n/n0e082dbafd76)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
