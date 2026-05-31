@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [深めて、 磨いて、 手放した 5 月](https://note.com/digiangler777/n/nf5ce91d3c432)
+- [【週初エッセイ】 5 月が終わる朝、 上半期の自分採点をする —— 減点じゃなく、 続いたことだけ数える](https://note.com/digiangler777/n/ne2da97e52859)
 - [飾っているのに伸びなかった僕が磨くことに戻した話](https://note.com/digiangler777/n/n71c8c8e28425)
 - [【週末エッセイ】 6 月が憂鬱と気づいた土曜の夜に —— 梅雨を恐れない、 自分だけの雨の楽しみ方](https://note.com/digiangler777/n/n8f071986245d)
 - [「お断りします」 で終わらせない僕の文章術](https://note.com/digiangler777/n/n122bce3dd342)
-- [5 月に届いた問いを並べた僕が Q2 前半のテーマを見つけた話](https://note.com/digiangler777/n/ne910ef6a215d)
-- [【コード哲学エッセイ】 パフォーマンスは速さじゃなく体験だ —— 計測より先に問う、 誰のための最適化か](https://note.com/digiangler777/n/nef5ce05b6a79)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
