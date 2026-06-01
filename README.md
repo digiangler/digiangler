@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [【AI クレジット制時代の到来】 エージェントモードの暴走とエンジニアに求められるトークン管理という新スキル](https://note.com/digiangler777/n/n012e1cab4156)
+- [僕が 6 月に設計する雨季モード](https://note.com/digiangler777/n/nf212a9f8915b)
+- [6 月、 僕が新しく始めたい 3 つのこと](https://note.com/digiangler777/n/n2bd9dd650f5c)
 - [深めて、 磨いて、 手放した 5 月](https://note.com/digiangler777/n/nf5ce91d3c432)
 - [【週初エッセイ】 5 月が終わる朝、 上半期の自分採点をする —— 減点じゃなく、 続いたことだけ数える](https://note.com/digiangler777/n/ne2da97e52859)
-- [飾っているのに伸びなかった僕が磨くことに戻した話](https://note.com/digiangler777/n/n71c8c8e28425)
-- [【週末エッセイ】 6 月が憂鬱と気づいた土曜の夜に —— 梅雨を恐れない、 自分だけの雨の楽しみ方](https://note.com/digiangler777/n/n8f071986245d)
-- [「お断りします」 で終わらせない僕の文章術](https://note.com/digiangler777/n/n122bce3dd342)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
