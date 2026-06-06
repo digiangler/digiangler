@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [雨音を BGM に変える](https://note.com/digiangler777/n/n224ddb90badc)
+- [【週末エッセイ】 雨音だけの土曜日、 画面の明るさを一段下げた —— 光を減らすと思考が深くなる](https://note.com/digiangler777/n/na393c597e696)
 - [環境の日のお礼の一文](https://note.com/digiangler777/n/n31105d807666)
 - [僕が 6 月に作る上半期の読了リスト](https://note.com/digiangler777/n/n7765d5ca43ee)
 - [雨が降ったらこれだけ開く](https://note.com/digiangler777/n/ncfeb98e774da)
-- [【コード哲学エッセイ】 設定値は隠す場所じゃなく境界だ](https://note.com/digiangler777/n/nf0adc6566d6a)
-- [公開したあとが怖かった僕が先に書いた保守フェーズ](https://note.com/digiangler777/n/ndbbbece809a8)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
