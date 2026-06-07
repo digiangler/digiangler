@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [室内 10 分で体を動かす](https://note.com/digiangler777/n/na16534c68ee4)
+- [【週初エッセイ】 雨の日曜の朝、 傘より先に決めた今週ひとつだけ —— 梅雨の週を小さく切る始め方](https://note.com/digiangler777/n/n73553347e0f2)
 - [雨音を BGM に変える](https://note.com/digiangler777/n/n224ddb90badc)
 - [【週末エッセイ】 雨音だけの土曜日、 画面の明るさを一段下げた —— 光を減らすと思考が深くなる](https://note.com/digiangler777/n/na393c597e696)
 - [環境の日のお礼の一文](https://note.com/digiangler777/n/n31105d807666)
-- [僕が 6 月に作る上半期の読了リスト](https://note.com/digiangler777/n/n7765d5ca43ee)
-- [雨が降ったらこれだけ開く](https://note.com/digiangler777/n/ncfeb98e774da)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
