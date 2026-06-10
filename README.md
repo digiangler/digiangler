@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [$20 / 月の Cursor Pro、 クレジットを余らせている理由を話す](https://note.com/digiangler777/n/n3e2884442581)
+- [振り返りが白紙だった僕が、上半期レビューの下書きを自動生成した](https://note.com/digiangler777/n/nde0d74815003)
+- [【コード哲学エッセイ】 同じコードが 2 つあるとき、 僕はまず統合しない](https://note.com/digiangler777/n/n3214b6b50c82)
 - [効かなくなった Cursor ルールを、 僕が次の半年仕様に更新した](https://note.com/digiangler777/n/na71d73b27903)
 - [6 月は走らず、 方向を直す](https://note.com/digiangler777/n/n773d81b91254)
-- [室内 10 分で体を動かす](https://note.com/digiangler777/n/na16534c68ee4)
-- [【週初エッセイ】 雨の日曜の朝、 傘より先に決めた今週ひとつだけ —— 梅雨の週を小さく切る始め方](https://note.com/digiangler777/n/n73553347e0f2)
-- [雨音を BGM に変える](https://note.com/digiangler777/n/n224ddb90badc)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
