@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [知っても届かなかった僕が X 新アルゴリズム 2026 をチェックリストにした](https://note.com/digiangler777/n/n89a7f3b2439f)
 - [$20 / 月の Cursor Pro、 クレジットを余らせている理由を話す](https://note.com/digiangler777/n/n3e2884442581)
 - [振り返りが白紙だった僕が、上半期レビューの下書きを自動生成した](https://note.com/digiangler777/n/nde0d74815003)
 - [【コード哲学エッセイ】 同じコードが 2 つあるとき、 僕はまず統合しない](https://note.com/digiangler777/n/n3214b6b50c82)
 - [効かなくなった Cursor ルールを、 僕が次の半年仕様に更新した](https://note.com/digiangler777/n/na71d73b27903)
-- [6 月は走らず、 方向を直す](https://note.com/digiangler777/n/n773d81b91254)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
