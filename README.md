@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [口では言えなかった 「ありがとう」](https://note.com/digiangler777/n/n0d5d087a6d76)
+- [【週末エッセイ】 洗濯が干せない週末に部屋干しを愛おしく思う —— 不便のなかにある小さな豊かさ](https://note.com/digiangler777/n/n365ce12b7727)
 - [口で言えなかった境界線を文章にした](https://note.com/digiangler777/n/n6459777f3636)
 - [知っても届かなかった僕が X 新アルゴリズム 2026 をチェックリストにした](https://note.com/digiangler777/n/n89a7f3b2439f)
 - [$20 / 月の Cursor Pro、 クレジットを余らせている理由を話す](https://note.com/digiangler777/n/n3e2884442581)
-- [振り返りが白紙だった僕が、上半期レビューの下書きを自動生成した](https://note.com/digiangler777/n/nde0d74815003)
-- [【コード哲学エッセイ】 同じコードが 2 つあるとき、 僕はまず統合しない](https://note.com/digiangler777/n/n3214b6b50c82)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
