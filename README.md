@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [7 月から走る前に 3 テーマだけ決めた 〜 梅雨の静かな種まき 〜](https://note.com/digiangler777/n/nafb0cc0cd5bc)
 - [頭が重いのは雨のせいじゃなかった 〜 除湿機 × デスクの湿度 A/B テスト 〜](https://note.com/digiangler777/n/nf799e8e32471)
 - [【週初エッセイ】 湿った空気のなかで思考が重くなる日 —— 気合いよりペースで乗り切る 1 週間](https://note.com/digiangler777/n/na638db945f4d)
 - [口では言えなかった 「ありがとう」](https://note.com/digiangler777/n/n0d5d087a6d76)
 - [【週末エッセイ】 洗濯が干せない週末に部屋干しを愛おしく思う —— 不便のなかにある小さな豊かさ](https://note.com/digiangler777/n/n365ce12b7727)
-- [口で言えなかった境界線を文章にした](https://note.com/digiangler777/n/n6459777f3636)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
