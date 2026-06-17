@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [続いたことだけ数える上半期採点シート 〜 減点法をやめるレビューテンプレ配布 〜](https://note.com/digiangler777/n/n2ffd64e465a8)
+- [【コード哲学エッセイ】 型は制約じゃなく約束の可視化だ](https://note.com/digiangler777/n/n22b66b0795d7)
+- [Cursor × LLM で変わった僕の作り方 〜 AI 駆動開発の上半期振り返り 〜](https://note.com/digiangler777/n/n241fd2f2d742)
 - [7 月から走る前に 3 テーマだけ決めた 〜 梅雨の静かな種まき 〜](https://note.com/digiangler777/n/nafb0cc0cd5bc)
 - [頭が重いのは雨のせいじゃなかった 〜 除湿機 × デスクの湿度 A/B テスト 〜](https://note.com/digiangler777/n/nf799e8e32471)
-- [【週初エッセイ】 湿った空気のなかで思考が重くなる日 —— 気合いよりペースで乗り切る 1 週間](https://note.com/digiangler777/n/na638db945f4d)
-- [口では言えなかった 「ありがとう」](https://note.com/digiangler777/n/n0d5d087a6d76)
-- [【週末エッセイ】 洗濯が干せない週末に部屋干しを愛おしく思う —— 不便のなかにある小さな豊かさ](https://note.com/digiangler777/n/n365ce12b7727)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
