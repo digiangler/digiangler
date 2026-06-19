@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [【6 月 Q&amp;A ダイジェスト】 走らない月に届いた問い 〜 雨季の読者との内向き対話 〜](https://note.com/digiangler777/n/ndbe30105e566)
 - [PV より続いた記事で見る 〜 note 上半期の自分棚卸し 〜](https://note.com/digiangler777/n/n910669ee5f37)
 - [9.6 兆円買収の裏側で。 Cursor を使い続けてきた理由を、 今こそ言語化する](https://note.com/digiangler777/n/nc26374f3ccd4)
 - [続いたことだけ数える上半期採点シート 〜 減点法をやめるレビューテンプレ配布 〜](https://note.com/digiangler777/n/n2ffd64e465a8)
 - [【コード哲学エッセイ】 型は制約じゃなく約束の可視化だ](https://note.com/digiangler777/n/n22b66b0795d7)
-- [Cursor × LLM で変わった僕の作り方 〜 AI 駆動開発の上半期振り返り 〜](https://note.com/digiangler777/n/n241fd2f2d742)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
