@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [父の日に送った短い手紙の記録](https://note.com/digiangler777/n/n3589981c6f43)
+- [【週初エッセイ】 父の日に口では言えなかった 「ありがとう」 を書き留める —— 母の日とは違う届け方の練習](https://note.com/digiangler777/n/n165e7d46fbd5)
 - [夏至の夜、 1 年で一番長い余白](https://note.com/digiangler777/n/nea000e94ce8a)
 - [【週末エッセイ】 紫陽花の道を傘をさしてひとり歩く —— 雨の街だけの色を見つける](https://note.com/digiangler777/n/n4b2789f29530)
 - [【6 月 Q&amp;A ダイジェスト】 走らない月に届いた問い 〜 雨季の読者との内向き対話 〜](https://note.com/digiangler777/n/ndbe30105e566)
-- [PV より続いた記事で見る 〜 note 上半期の自分棚卸し 〜](https://note.com/digiangler777/n/n910669ee5f37)
-- [9.6 兆円買収の裏側で。 Cursor を使い続けてきた理由を、 今こそ言語化する](https://note.com/digiangler777/n/nc26374f3ccd4)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
