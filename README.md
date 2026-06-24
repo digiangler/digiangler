@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [あわせて読みたいが増えすぎた](https://note.com/digiangler777/n/n52a5dbce7157)
 - [Lighthouse は緑なのに重い](https://note.com/digiangler777/n/n913ad2710958)
 - [梅雨明けの晴れの日リストを先に書く](https://note.com/digiangler777/n/n45a9d52eacbc)
 - [父の日に送った短い手紙の記録](https://note.com/digiangler777/n/n3589981c6f43)
 - [【週初エッセイ】 父の日に口では言えなかった 「ありがとう」 を書き留める —— 母の日とは違う届け方の練習](https://note.com/digiangler777/n/n165e7d46fbd5)
-- [夏至の夜、 1 年で一番長い余白](https://note.com/digiangler777/n/nea000e94ce8a)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
