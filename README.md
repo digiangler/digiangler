@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [【X × note × メンバーシップ】 三層がずれていた](https://note.com/digiangler777/n/n06e524cc4943)
+- [【コード哲学エッセイ】 上半期の終わりに触らないコードを見つける —— 守るべき核心と手を入れていい縁の見極め](https://note.com/digiangler777/n/n4feafbf23d45)
 - [あわせて読みたいが増えすぎた](https://note.com/digiangler777/n/n52a5dbce7157)
 - [Lighthouse は緑なのに重い](https://note.com/digiangler777/n/n913ad2710958)
 - [梅雨明けの晴れの日リストを先に書く](https://note.com/digiangler777/n/n45a9d52eacbc)
-- [父の日に送った短い手紙の記録](https://note.com/digiangler777/n/n3589981c6f43)
-- [【週初エッセイ】 父の日に口では言えなかった 「ありがとう」 を書き留める —— 母の日とは違う届け方の練習](https://note.com/digiangler777/n/n165e7d46fbd5)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
