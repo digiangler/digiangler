@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [上半期を閉じる前に自分に許した](https://note.com/digiangler777/n/n8b898beb272c)
+- [【週末エッセイ】 半年が終わる土曜、 カレンダーをめくる指先 —— 後半に空白を意図的に残す](https://note.com/digiangler777/n/n239f43ce7915)
 - [口では言えなかった納期を先に文章で合意した](https://note.com/digiangler777/n/n98db1c7d19ed)
 - [【X × note × メンバーシップ】 三層がずれていた](https://note.com/digiangler777/n/n06e524cc4943)
 - [【コード哲学エッセイ】 上半期の終わりに触らないコードを見つける —— 守るべき核心と手を入れていい縁の見極め](https://note.com/digiangler777/n/n4feafbf23d45)
-- [あわせて読みたいが増えすぎた](https://note.com/digiangler777/n/n52a5dbce7157)
-- [Lighthouse は緑なのに重い](https://note.com/digiangler777/n/n913ad2710958)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
