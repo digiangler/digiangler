@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [走る前に、地図を更新した](https://note.com/digiangler777/n/nd869063f249a)
 - [Obsidian 依存の僕が半日だけ手帳に戻った](https://note.com/digiangler777/n/nb60b162c8385)
 - [【週初エッセイ】 六月が終わる日曜、 後半の自分と交わす小さな約束 —— 真夏を急がず、七月へ荷物を軽く渡す](https://note.com/digiangler777/n/n85809e2d1752)
 - [上半期を閉じる前に自分に許した](https://note.com/digiangler777/n/n8b898beb272c)
 - [【週末エッセイ】 半年が終わる土曜、 カレンダーをめくる指先 —— 後半に空白を意図的に残す](https://note.com/digiangler777/n/n239f43ce7915)
-- [口では言えなかった納期を先に文章で合意した](https://note.com/digiangler777/n/n98db1c7d19ed)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
