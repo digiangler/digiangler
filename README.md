@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [下半期の約束三つを週次で追う](https://note.com/digiangler777/n/n20240c501f2a)
+- [【コード哲学エッセイ】 公開 API は機能じゃなく約束の窓だ](https://note.com/digiangler777/n/nbab24759e0be)
+- [走らない月のあと 7 月に走り出す](https://note.com/digiangler777/n/nf16b9f57c2c9)
 - [走らない 6 月が手応えをくれた](https://note.com/digiangler777/n/n4c17fd2e0ebb)
 - [走る前に、地図を更新した](https://note.com/digiangler777/n/nd869063f249a)
-- [Obsidian 依存の僕が半日だけ手帳に戻った](https://note.com/digiangler777/n/nb60b162c8385)
-- [【週初エッセイ】 六月が終わる日曜、 後半の自分と交わす小さな約束 —— 真夏を急がず、七月へ荷物を軽く渡す](https://note.com/digiangler777/n/n85809e2d1752)
-- [上半期を閉じる前に自分に許した](https://note.com/digiangler777/n/n8b898beb272c)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
