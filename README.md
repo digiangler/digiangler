@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [「返信、いつまでに？」 が来る前に](https://note.com/digiangler777/n/n4ac6b9f8d73e)
 - [記事を追うのをやめた僕が真夏に深読み週を始めた](https://note.com/digiangler777/n/n3116678cddb6)
 - [下半期の約束三つを週次で追う](https://note.com/digiangler777/n/n20240c501f2a)
 - [【コード哲学エッセイ】 公開 API は機能じゃなく約束の窓だ](https://note.com/digiangler777/n/nbab24759e0be)
 - [走らない月のあと 7 月に走り出す](https://note.com/digiangler777/n/nf16b9f57c2c9)
-- [走らない 6 月が手応えをくれた](https://note.com/digiangler777/n/n4c17fd2e0ebb)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
