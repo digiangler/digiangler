@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [6 時起床を真夏仕様に変えた](https://note.com/digiangler777/n/n4e3651fbf9b5)
+- [【週初エッセイ】 七月最初の日曜、 増やさない二週間が始まる —— 約束を守る週の静かなスタート](https://note.com/digiangler777/n/n12d77769f11b)
 - [梅雨明けの朝、 何も始めなくていい](https://note.com/digiangler777/n/n4b91754b005a)
 - [【週末エッセイ】 梅雨明けの土曜、 エアコンをつける前に窓を開ける —— 夏の始まりを急がない一歩](https://note.com/digiangler777/n/nf17c8c0e1665)
 - [「返信、いつまでに？」 が来る前に](https://note.com/digiangler777/n/n4ac6b9f8d73e)
-- [記事を追うのをやめた僕が真夏に深読み週を始めた](https://note.com/digiangler777/n/n3116678cddb6)
-- [下半期の約束三つを週次で追う](https://note.com/digiangler777/n/n20240c501f2a)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
