@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [7 月の週次実行ログを Obsidian で自動集約](https://note.com/digiangler777/n/n63b50b483392)
+- [【コード哲学エッセイ】 機能フラグは逃げ道じゃない —— 小さく出すための怖さを減らす仕組み](https://note.com/digiangler777/n/n5f941d07093d)
 - [七夕に書く、 技術の願い事リスト](https://note.com/digiangler777/n/n249ebb2c74ab)
 - [7 月の実行モードを設計する](https://note.com/digiangler777/n/n39d9e7c29719)
 - [6 時起床を真夏仕様に変えた](https://note.com/digiangler777/n/n4e3651fbf9b5)
-- [【週初エッセイ】 七月最初の日曜、 増やさない二週間が始まる —— 約束を守る週の静かなスタート](https://note.com/digiangler777/n/n12d77769f11b)
-- [梅雨明けの朝、 何も始めなくていい](https://note.com/digiangler777/n/n4b91754b005a)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
