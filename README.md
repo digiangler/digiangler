@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [真昼を避けて、 僕のリズムが戻った話](https://note.com/digiangler777/n/n97d9b03c312f)
+- [【週末エッセイ】 真昼は逃げて、 夕方だけ外に出る —— 夏の光と自分だけのリズム](https://note.com/digiangler777/n/n22c4d4a3234f)
 - [短い文章で信頼の温度を保つ](https://note.com/digiangler777/n/n3c7a612dcb4a)
 - [note 下半期の伸びる切り口を観察する](https://note.com/digiangler777/n/n0274282aa81a)
 - [7 月の週次実行ログを Obsidian で自動集約](https://note.com/digiangler777/n/n63b50b483392)
-- [【コード哲学エッセイ】 機能フラグは逃げ道じゃない —— 小さく出すための怖さを減らす仕組み](https://note.com/digiangler777/n/n5f941d07093d)
-- [七夕に書く、 技術の願い事リスト](https://note.com/digiangler777/n/n249ebb2c74ab)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
