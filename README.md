@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [今週触らないもの、 守れたのは何日？](https://note.com/digiangler777/n/nc1e1954724e3)
+- [【週初エッセイ】 真夏の前の日曜、 今週触らないものを一つ決める —— 暑さのなかで守るべき線を引く](https://note.com/digiangler777/n/nea6fc10f7008)
 - [真昼を避けて、 僕のリズムが戻った話](https://note.com/digiangler777/n/n97d9b03c312f)
 - [【週末エッセイ】 真昼は逃げて、 夕方だけ外に出る —— 夏の光と自分だけのリズム](https://note.com/digiangler777/n/n22c4d4a3234f)
 - [短い文章で信頼の温度を保つ](https://note.com/digiangler777/n/n3c7a612dcb4a)
-- [note 下半期の伸びる切り口を観察する](https://note.com/digiangler777/n/n0274282aa81a)
-- [7 月の週次実行ログを Obsidian で自動集約](https://note.com/digiangler777/n/n63b50b483392)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
