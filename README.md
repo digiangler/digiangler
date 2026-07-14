@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [真昼の集中を守るために夜間へ逃がした](https://note.com/digiangler777/n/n03c4b5b72f1a)
 - [走っている今こそ、 8 月の空白週を先に入れる](https://note.com/digiangler777/n/nd1951334f03c)
 - [今週触らないもの、 守れたのは何日？](https://note.com/digiangler777/n/nc1e1954724e3)
 - [【週初エッセイ】 真夏の前の日曜、 今週触らないものを一つ決める —— 暑さのなかで守るべき線を引く](https://note.com/digiangler777/n/nea6fc10f7008)
 - [真昼を避けて、 僕のリズムが戻った話](https://note.com/digiangler777/n/n97d9b03c312f)
-- [【週末エッセイ】 真昼は逃げて、 夕方だけ外に出る —— 夏の光と自分だけのリズム](https://note.com/digiangler777/n/n22c4d4a3234f)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
