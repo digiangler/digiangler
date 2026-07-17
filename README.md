@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [走り出した月に届いた問い](https://note.com/digiangler777/n/ne92babc7444e)
 - [「次に何を投稿する？」 を仮説で決める](https://note.com/digiangler777/n/n5ccb87737c42)
 - [週末は減点しない](https://note.com/digiangler777/n/n4a5fa95f7042)
 - [【コード哲学エッセイ】 キャッシュは速くする魔法じゃなく鮮度の妥協だ —— いつ古くてもいいかを決める](https://note.com/digiangler777/n/n42baf88779bc)
 - [真昼の集中を守るために夜間へ逃がした](https://note.com/digiangler777/n/n03c4b5b72f1a)
-- [走っている今こそ、 8 月の空白週を先に入れる](https://note.com/digiangler777/n/nd1951334f03c)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
