@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [連休前、 たった 3 日だけ深く進めた](https://note.com/digiangler777/n/n9899bd4b89b4)
+- [【週初エッセイ】 海の日の前夜、 遠くの潮風を想像する —— 旅に行かなくても夏の入口はある](https://note.com/digiangler777/n/n3bc6b72fec84)
 - [空白の土曜を減点しない](https://note.com/digiangler777/n/nad02993a3aa3)
 - [【週末エッセイ】 夏休みの予定が埋まっていなくても週末は十分 —— 人と比べない休日の設計](https://note.com/digiangler777/n/ndceb138d9b8b)
 - [走り出した月に届いた問い](https://note.com/digiangler777/n/ne92babc7444e)
-- [「次に何を投稿する？」 を仮説で決める](https://note.com/digiangler777/n/n5ccb87737c42)
-- [週末は減点しない](https://note.com/digiangler777/n/n4a5fa95f7042)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
