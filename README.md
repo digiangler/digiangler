@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [障害のあと、 白紙にしない](https://note.com/digiangler777/n/n174cbb01733d)
+- [【コード哲学エッセイ】 障害のあとに書く振り返りは責めるためじゃない —— ポストモーテムの哲学](https://note.com/digiangler777/n/n6e1bce602c13)
 - [「完成してから出す」 をやめた夏](https://note.com/digiangler777/n/n1d731f127331)
 - [家が職場でも夏の輪郭は必要だ](https://note.com/digiangler777/n/n52f56fc62dd5)
 - [連休前、 たった 3 日だけ深く進めた](https://note.com/digiangler777/n/n9899bd4b89b4)
-- [【週初エッセイ】 海の日の前夜、 遠くの潮風を想像する —— 旅に行かなくても夏の入口はある](https://note.com/digiangler777/n/n3bc6b72fec84)
-- [空白の土曜を減点しない](https://note.com/digiangler777/n/nad02993a3aa3)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
