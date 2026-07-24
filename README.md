@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [「変わりました」 を先に書く](https://note.com/digiangler777/n/n4329d44eafa2)
 - [途中からでも追いつける夏にしたい](https://note.com/digiangler777/n/n5303efea8978)
 - [障害のあと、 白紙にしない](https://note.com/digiangler777/n/n174cbb01733d)
 - [【コード哲学エッセイ】 障害のあとに書く振り返りは責めるためじゃない —— ポストモーテムの哲学](https://note.com/digiangler777/n/n6e1bce602c13)
 - [「完成してから出す」 をやめた夏](https://note.com/digiangler777/n/n1d731f127331)
-- [家が職場でも夏の輪郭は必要だ](https://note.com/digiangler777/n/n52f56fc62dd5)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
