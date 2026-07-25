@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [花火に行かない夜を欠落にしない](https://note.com/digiangler777/n/n756199394882)
+- [【週末エッセイ】 花火の音が遠くに聞こえる夜 —— 参加しなくても夏はちゃんと届いている](https://note.com/digiangler777/n/n66dfee48cc22)
 - [「変わりました」 を先に書く](https://note.com/digiangler777/n/n4329d44eafa2)
 - [途中からでも追いつける夏にしたい](https://note.com/digiangler777/n/n5303efea8978)
 - [障害のあと、 白紙にしない](https://note.com/digiangler777/n/n174cbb01733d)
-- [【コード哲学エッセイ】 障害のあとに書く振り返りは責めるためじゃない —— ポストモーテムの哲学](https://note.com/digiangler777/n/n6e1bce602c13)
-- [「完成してから出す」 をやめた夏](https://note.com/digiangler777/n/n1d731f127331)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
