@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [走り続ける前に減速区間を決める](https://note.com/digiangler777/n/nc79d5732179f)
 - [達成率は出さない。 続いた線だけ数える](https://note.com/digiangler777/n/n1fd8fcec53e8)
 - [【週初エッセイ】 7 月が終わる日曜、 約束は全部守れなくていい —— 続いた線だけを 8 月へ渡す](https://note.com/digiangler777/n/n1c3d57f371ec)
 - [花火に行かない夜を欠落にしない](https://note.com/digiangler777/n/n756199394882)
 - [【週末エッセイ】 花火の音が遠くに聞こえる夜 —— 参加しなくても夏はちゃんと届いている](https://note.com/digiangler777/n/n66dfee48cc22)
-- [「変わりました」 を先に書く](https://note.com/digiangler777/n/n4329d44eafa2)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
