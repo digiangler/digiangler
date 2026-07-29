@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [「次に何を読めばいい？」 を一枚のバナーにする](https://note.com/digiangler777/n/n9a3e49d789ce)
+- [【コード哲学エッセイ】 夏の前にスコープを半分にする —— YAGNI を我慢じゃなく選択と呼ぶ](https://note.com/digiangler777/n/n81570e60f291)
 - [「いつか使うかも」 を切って出した](https://note.com/digiangler777/n/n2e2fc6769fe9)
 - [走り続ける前に減速区間を決める](https://note.com/digiangler777/n/nc79d5732179f)
 - [達成率は出さない。 続いた線だけ数える](https://note.com/digiangler777/n/n1fd8fcec53e8)
-- [【週初エッセイ】 7 月が終わる日曜、 約束は全部守れなくていい —— 続いた線だけを 8 月へ渡す](https://note.com/digiangler777/n/n1c3d57f371ec)
-- [花火に行かない夜を欠落にしない](https://note.com/digiangler777/n/n756199394882)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
