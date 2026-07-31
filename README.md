@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [8 月は増やさず、 種を三つ蒔く](https://note.com/digiangler777/n/nd44281f5f973)
 - [走り出した 7 月を達成率で閉じない](https://note.com/digiangler777/n/ncf5b55bc0bbd)
 - [「次に何を読めばいい？」 を一枚のバナーにする](https://note.com/digiangler777/n/n9a3e49d789ce)
 - [【コード哲学エッセイ】 夏の前にスコープを半分にする —— YAGNI を我慢じゃなく選択と呼ぶ](https://note.com/digiangler777/n/n81570e60f291)
 - [「いつか使うかも」 を切って出した](https://note.com/digiangler777/n/n2e2fc6769fe9)
-- [走り続ける前に減速区間を決める](https://note.com/digiangler777/n/nc79d5732179f)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
