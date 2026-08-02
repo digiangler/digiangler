@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [【実験記録】 猛暑の一日を三分割した](https://note.com/digiangler777/n/n837e6f250a9a)
+- [【週初エッセイ】 8 月最初の日曜、 また設定ファイルを触っている —— 環境を整える時間は、 仕事なのか逃避なのか](https://note.com/digiangler777/n/n4339c5dcf103)
 - [【思索】 フリーランスの矜持](https://note.com/digiangler777/n/ndffdaa478f3b)
 - [【週末エッセイ】 猛暑の土曜、 椅子を買い替えた —— 環境への投資は贅沢じゃなく、 続けるための必要経費](https://note.com/digiangler777/n/nf73e9ce5aca6)
 - [8 月は増やさず、 種を三つ蒔く](https://note.com/digiangler777/n/nd44281f5f973)
-- [走り出した 7 月を達成率で閉じない](https://note.com/digiangler777/n/ncf5b55bc0bbd)
-- [「次に何を読めばいい？」 を一枚のバナーにする](https://note.com/digiangler777/n/n9a3e49d789ce)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
