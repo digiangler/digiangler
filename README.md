@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [【コード哲学エッセイ】 技術的負債の返済は気合いじゃなく予定だ —— 先延ばしと同じ構造から抜けるための返済計画](https://note.com/digiangler777/n/n31c03464290a)
+- [【小ネタ ・ 自動化】 フリーランスの値付けを逆算する](https://note.com/digiangler777/n/n92ecd4d28537)
 - [【技術学習】 フリーランスの技術選定](https://note.com/digiangler777/n/nfd20e0e04caa)
 - [【計画 ・ 習慣】 フリーランスの時間割](https://note.com/digiangler777/n/nffea53deb993)
 - [【実験記録】 猛暑の一日を三分割した](https://note.com/digiangler777/n/n837e6f250a9a)
-- [【週初エッセイ】 8 月最初の日曜、 また設定ファイルを触っている —— 環境を整える時間は、 仕事なのか逃避なのか](https://note.com/digiangler777/n/n4339c5dcf103)
-- [【思索】 フリーランスの矜持](https://note.com/digiangler777/n/ndffdaa478f3b)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
