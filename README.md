@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [【伝える技術】 フリーランスの信頼](https://note.com/digiangler777/n/nc636da853c02)
 - [【情報収集】 フリーランスの飯の種を数える](https://note.com/digiangler777/n/n7a76f08531e6)
 - [【コード哲学エッセイ】 技術的負債の返済は気合いじゃなく予定だ —— 先延ばしと同じ構造から抜けるための返済計画](https://note.com/digiangler777/n/n31c03464290a)
 - [【小ネタ ・ 自動化】 フリーランスの値付けを逆算する](https://note.com/digiangler777/n/n92ecd4d28537)
 - [【技術学習】 フリーランスの技術選定](https://note.com/digiangler777/n/nfd20e0e04caa)
-- [【計画 ・ 習慣】 フリーランスの時間割](https://note.com/digiangler777/n/nffea53deb993)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
