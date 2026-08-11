@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [【技術学習】 山の日に個人開発の &quot;標高&quot; を測る](https://note.com/digiangler777/n/nc8ebfb27c512)
 - [【計画 ・ 習慣】 休む週のために書き置きを作る](https://note.com/digiangler777/n/n71799d25ab93)
 - [【実験記録】 お盆前の 3 日を &quot;種まき&quot; だけに使った](https://note.com/digiangler777/n/nf6a3f254b494)
 - [【週初エッセイ】 お盆前の日曜、 売れなかったものを眺めている —— 需要の本質は値段じゃないところにある](https://note.com/digiangler777/n/n881e4a3ffff4)
 - [【思索】 フリーランスの不安](https://note.com/digiangler777/n/n62249d1d7270)
-- [【週末エッセイ】 ちょうどいい距離のまま長く続けたい —— 夏の誘いを見送った土曜に考えたこと](https://note.com/digiangler777/n/ne8d3e8d7f7dd)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
