@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [【情報収集】 お盆は人の物語を読む](https://note.com/digiangler777/n/n4e8554e59cff)
 - [【コード哲学エッセイ】 速くしたいなら、 速い場所を触るな —— TOC （制約理論） で見つける、 コードの本当のボトルネック](https://note.com/digiangler777/n/n336940f09e8f)
 - [【小ネタ ・ 自動化】 お盆の 「止めるもの ・ 動かすもの」 を仕分ける](https://note.com/digiangler777/n/n1222fed1ac9e)
 - [【技術学習】 山の日に個人開発の &quot;標高&quot; を測る](https://note.com/digiangler777/n/nc8ebfb27c512)
 - [【計画 ・ 習慣】 休む週のために書き置きを作る](https://note.com/digiangler777/n/n71799d25ab93)
-- [【実験記録】 お盆前の 3 日を &quot;種まき&quot; だけに使った](https://note.com/digiangler777/n/nf6a3f254b494)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
