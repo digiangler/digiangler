@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [【計画 ・ 習慣】 お盆明けの月曜は、 エンジンを半分でかける](https://note.com/digiangler777/n/n1767a65bbb2a)
 - [【実験記録】 5日間、 仕事の通知を完全に切ってみた](https://note.com/digiangler777/n/n080efeeddf2b)
 - [【週初エッセイ】 何も起きなかったお盆、 覚えているのは夕立の匂いだけ —— 空白の一週間から細部を拾う](https://note.com/digiangler777/n/n8daac3bd4c16)
 - [【思索】 フリーランスの引き際](https://note.com/digiangler777/n/ncfca086c660a)
 - [【週末エッセイ】 お盆に 「何の仕事してるの？」 と聞かれて —— 肩書きを持たないことの不安と自由](https://note.com/digiangler777/n/n9b3e8f6623bf)
-- [【伝える技術】 フリーランスの断る力](https://note.com/digiangler777/n/nf25beee52634)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
