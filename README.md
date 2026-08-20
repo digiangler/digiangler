@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [【情報収集】 フリーランスの発信](https://note.com/digiangler777/n/nd495b156fa74)
 - [【小ネタ ・ 自動化】 &quot;復帰の30分&quot; を仕組みでつくる](https://note.com/digiangler777/n/n91d930da2312)
 - [【コード哲学エッセイ】 「動く」 と 「美しい」 の分かれ道にその人が出る —— 締切の前で何を諦めるかという選択](https://note.com/digiangler777/n/ncf3887773a17)
 - [【技術学習】 5日空けて読み返した自分のコード](https://note.com/digiangler777/n/n6ddec323a851)
 - [【計画 ・ 習慣】 お盆明けの月曜は、 エンジンを半分でかける](https://note.com/digiangler777/n/n1767a65bbb2a)
-- [【実験記録】 5日間、 仕事の通知を完全に切ってみた](https://note.com/digiangler777/n/n080efeeddf2b)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
