@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [【思索】 フリーランスの老後](https://note.com/digiangler777/n/n5bf5d974cc3c)
+- [【週末エッセイ】 セミの声が変わった土曜 —— 終わりの気配は、 いつも音から届く](https://note.com/digiangler777/n/n2c069fd61c05)
 - [【伝える技術】 自分の値段を &quot;説明できる&quot; ようにする](https://note.com/digiangler777/n/n4659f7cc46b3)
 - [【情報収集】 フリーランスの発信](https://note.com/digiangler777/n/nd495b156fa74)
 - [【小ネタ ・ 自動化】 &quot;復帰の30分&quot; を仕組みでつくる](https://note.com/digiangler777/n/n91d930da2312)
-- [【コード哲学エッセイ】 「動く」 と 「美しい」 の分かれ道にその人が出る —— 締切の前で何を諦めるかという選択](https://note.com/digiangler777/n/ncf3887773a17)
-- [【技術学習】 5日空けて読み返した自分のコード](https://note.com/digiangler777/n/n6ddec323a851)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
