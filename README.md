@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [【計画 ・ 習慣】 9月の再加速を8月のうちに設計する](https://note.com/digiangler777/n/n15256d28b75d)
 - [【実験記録】 8月の &quot;集中が切れる時刻&quot; を毎日メモした](https://note.com/digiangler777/n/n33a9eef9686b)
 - [【週初エッセイ】 「AIで仕事が変わる」 に、 毎回少しだけ引っかかる —— 答えを出さないまま、 月曜を始める](https://note.com/digiangler777/n/n40a63c60e82c)
 - [【思索】 フリーランスの老後](https://note.com/digiangler777/n/n5bf5d974cc3c)
 - [【週末エッセイ】 セミの声が変わった土曜 —— 終わりの気配は、 いつも音から届く](https://note.com/digiangler777/n/n2c069fd61c05)
-- [【伝える技術】 自分の値段を &quot;説明できる&quot; ようにする](https://note.com/digiangler777/n/n4659f7cc46b3)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
