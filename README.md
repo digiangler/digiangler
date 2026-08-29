@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [【週末エッセイ】 攻めない夏があってもいい —— リスクを取らないことを選んだ、 8月最後の土曜](https://note.com/digiangler777/n/n448b69c350ce)
+- [【思索】 フリーランスの孤独](https://note.com/digiangler777/n/nbfc40f7c6cc8)
 - [【伝える技術】 減速の月に届いた問い](https://note.com/digiangler777/n/n9fee4d5a0681)
 - [【情報収集】 メンバーシップの &quot;夏の離脱&quot; を観察する](https://note.com/digiangler777/n/neef527954b91)
 - [【小ネタ ・ 自動化】 三つ蒔いた種の育ち具合を自動で追う](https://note.com/digiangler777/n/n9ce1f0ec88de)
-- [【コード哲学エッセイ】 一人で書くコードと渡すコードは倫理が違う —— 「僕だけがわかる」 が許される範囲](https://note.com/digiangler777/n/n4963f0524da8)
-- [【技術学習】 使われなかった機能を秋の前に削る](https://note.com/digiangler777/n/n9e481881854c)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
