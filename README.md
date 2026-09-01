@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [【技術判断】 フリーランスの技術選定II](https://note.com/digiangler777/n/n52370ed2dbdd)
 - [【目標設定】 9月、 僕が新しく始めたい三つのこと](https://note.com/digiangler777/n/nc7d103ebb6fe)
 - [【思索】 減速した8月を達成率で閉じない](https://note.com/digiangler777/n/n6226596efe96)
 - [【週初エッセイ】 8月最後の日曜、 残ったのは一行だけだった —— 読んだ本から9月へ持っていく言葉](https://note.com/digiangler777/n/n9ef6240bc35e)
 - [【週末エッセイ】 攻めない夏があってもいい —— リスクを取らないことを選んだ、 8月最後の土曜](https://note.com/digiangler777/n/n448b69c350ce)
-- [【思索】 フリーランスの孤独](https://note.com/digiangler777/n/nbfc40f7c6cc8)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
