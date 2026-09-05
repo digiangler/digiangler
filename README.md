@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [【フリーランスの◯◯◯】フリーランスの向き不向き](https://note.com/digiangler777/n/n3a682ebdb639)
+- [【週末エッセイ】 新学期の気配がする9月の土曜 —— 節目が外から来なくなって15年が経った](https://note.com/digiangler777/n/nb001b1382a47)
 - [【伝える技術】フリーランスの信頼II](https://note.com/digiangler777/n/n14a4de4c2a36)
 - [【お金と数字】フリーランスの値付けII](https://note.com/digiangler777/n/n1e17a38b025b)
 - [【配布】初回打ち合わせのヒアリングシート](https://note.com/digiangler777/n/ne648eca5e1ff)
-- [【コード哲学エッセイ】 移行は作り直しじゃなく、引っ越しだ —— 何を持っていかないかで、次のコードが決まる](https://note.com/digiangler777/n/n66235b50be79)
-- [【技術判断】 フリーランスの技術選定II](https://note.com/digiangler777/n/n52370ed2dbdd)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
