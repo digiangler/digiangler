@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [【仕組み化】一人で仕事を回す最小の工程](https://note.com/digiangler777/n/nfa4bf984f682)
 - [【現場ファイル】断った仕事と受けた仕事](https://note.com/digiangler777/n/n1c15b2ece79c)
 - [【週初エッセイ】台風が近づく日曜、先に予定を崩しておく——止まる前提で一週間を組む](https://note.com/digiangler777/n/n0b83ae0a28cc)
 - [【フリーランスの◯◯◯】フリーランスの向き不向き](https://note.com/digiangler777/n/n3a682ebdb639)
 - [【週末エッセイ】 新学期の気配がする9月の土曜 —— 節目が外から来なくなって15年が経った](https://note.com/digiangler777/n/nb001b1382a47)
-- [【伝える技術】フリーランスの信頼II](https://note.com/digiangler777/n/n14a4de4c2a36)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
