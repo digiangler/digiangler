@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [【配布】契約前チェックリスト](https://note.com/digiangler777/n/n366f52e45c60)
+- [【コード哲学エッセイ】その現場の方言に僕は従う —— 一貫性は正しさより強い](https://note.com/digiangler777/n/ne9768ebe44e7)
 - [【技術判断】保守できないコードは納品しない](https://note.com/digiangler777/n/n9f10e7f6924e)
 - [【仕組み化】一人で仕事を回す最小の工程](https://note.com/digiangler777/n/nfa4bf984f682)
 - [【現場ファイル】断った仕事と受けた仕事](https://note.com/digiangler777/n/n1c15b2ece79c)
-- [【週初エッセイ】台風が近づく日曜、先に予定を崩しておく——止まる前提で一週間を組む](https://note.com/digiangler777/n/n0b83ae0a28cc)
-- [【フリーランスの◯◯◯】フリーランスの向き不向き](https://note.com/digiangler777/n/n3a682ebdb639)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
