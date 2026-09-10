@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [【お金と数字】フリーランスの飯の種II](https://note.com/digiangler777/n/n3ef937fa103e)
 - [【配布】契約前チェックリスト](https://note.com/digiangler777/n/n366f52e45c60)
 - [【コード哲学エッセイ】その現場の方言に僕は従う —— 一貫性は正しさより強い](https://note.com/digiangler777/n/ne9768ebe44e7)
 - [【技術判断】保守できないコードは納品しない](https://note.com/digiangler777/n/n9f10e7f6924e)
 - [【仕組み化】一人で仕事を回す最小の工程](https://note.com/digiangler777/n/nfa4bf984f682)
-- [【現場ファイル】断った仕事と受けた仕事](https://note.com/digiangler777/n/n1c15b2ece79c)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
