@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [【週末エッセイ】日が落ちるのが早くなった土曜 —— 照明を点ける時刻が、僕の終業を決めている](https://note.com/digiangler777/n/n0398328d51ed)
+- [【フリーランスの◯◯◯】フリーランスの実力](https://note.com/digiangler777/n/n744a9b8f9bde)
 - [【伝える技術】フリーランスの断る力II](https://note.com/digiangler777/n/n8bc464fcfce5)
 - [【お金と数字】フリーランスの飯の種II](https://note.com/digiangler777/n/n3ef937fa103e)
 - [【配布】契約前チェックリスト](https://note.com/digiangler777/n/n366f52e45c60)
-- [【コード哲学エッセイ】その現場の方言に僕は従う —— 一貫性は正しさより強い](https://note.com/digiangler777/n/ne9768ebe44e7)
-- [【技術判断】保守できないコードは納品しない](https://note.com/digiangler777/n/n9f10e7f6924e)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
