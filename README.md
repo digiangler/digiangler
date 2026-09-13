@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [【週初エッセイ】休む前の一週間がいちばん忙しい —— 連休を前借りする日曜に](https://note.com/digiangler777/n/naa035c44a941)
+- [【現場ファイル】単価が2倍になった案件で何が違ったか](https://note.com/digiangler777/n/n367709941cfa)
 - [【週末エッセイ】日が落ちるのが早くなった土曜 —— 照明を点ける時刻が、僕の終業を決めている](https://note.com/digiangler777/n/n0398328d51ed)
 - [【フリーランスの◯◯◯】フリーランスの実力](https://note.com/digiangler777/n/n744a9b8f9bde)
 - [【伝える技術】フリーランスの断る力II](https://note.com/digiangler777/n/n8bc464fcfce5)
-- [【お金と数字】フリーランスの飯の種II](https://note.com/digiangler777/n/n3ef937fa103e)
-- [【配布】契約前チェックリスト](https://note.com/digiangler777/n/n366f52e45c60)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
