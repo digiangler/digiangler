@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [【お金と数字】フリーランスの不安II](https://note.com/digiangler777/n/n26ca25087a12)
 - [【コード哲学エッセイ】納品したコードは、もう僕のものじゃない —— 手を離れたあとに残る、責任の話](https://note.com/digiangler777/n/n567cfb5ac29d)
 - [【配布】引き継ぎドキュメントの雛形](https://note.com/digiangler777/n/nab8b2979c1b2)
 - [【技術判断】フリーランスの矜持II](https://note.com/digiangler777/n/n52b62dd49469)
 - [【仕組み化】相手が動いている連休の止め方](https://note.com/digiangler777/n/nf00261c8f086)
-- [【週初エッセイ】休む前の一週間がいちばん忙しい —— 連休を前借りする日曜に](https://note.com/digiangler777/n/naa035c44a941)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
