@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [【週初エッセイ】明日も休みの日曜は、日曜の顔をしていない —— 夕方の憂鬱が、いつのまにか消えていた](https://note.com/digiangler777/n/n00c85dae90f2)
+- [【現場ファイル】一番長く続いた取引先との7年](https://note.com/digiangler777/n/n0ade8ed9c66a)
 - [【週末エッセイ】5連休の初日、何も釣れないまま夕方になった —— 結果の出ない時間に耐えられるようになるまで](https://note.com/digiangler777/n/nf86ad196c916)
 - [【フリーランスの◯◯◯】フリーランスの休み方](https://note.com/digiangler777/n/n831b69387407)
 - [【伝える技術】フリーランスの引き際II](https://note.com/digiangler777/n/n5e9405b972e4)
-- [【お金と数字】フリーランスの不安II](https://note.com/digiangler777/n/n26ca25087a12)
-- [【コード哲学エッセイ】納品したコードは、もう僕のものじゃない —— 手を離れたあとに残る、責任の話](https://note.com/digiangler777/n/n567cfb5ac29d)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
