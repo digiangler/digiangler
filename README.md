@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [【技術判断】見積もりが外れる技術的な理由](https://note.com/digiangler777/n/n9c0a83f56f4f)
 - [【仕組み化】フリーランスの孤独II](https://note.com/digiangler777/n/n2fd074997ef9)
 - [【週初エッセイ】明日も休みの日曜は、日曜の顔をしていない —— 夕方の憂鬱が、いつのまにか消えていた](https://note.com/digiangler777/n/n00c85dae90f2)
 - [【現場ファイル】一番長く続いた取引先との7年](https://note.com/digiangler777/n/n0ade8ed9c66a)
 - [【週末エッセイ】5連休の初日、何も釣れないまま夕方になった —— 結果の出ない時間に耐えられるようになるまで](https://note.com/digiangler777/n/nf86ad196c916)
-- [【フリーランスの◯◯◯】フリーランスの休み方](https://note.com/digiangler777/n/n831b69387407)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
