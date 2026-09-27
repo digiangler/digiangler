@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [【現場ファイル】フリーランスの時間II](https://note.com/digiangler777/n/n3c58bb10cebe)
+- [【週初エッセイ】9月が終わる週の日曜、まだ送っていない請求がある —— 暮らしと仕事の境目が月末だけ消える](https://note.com/digiangler777/n/n24bbe3fcfd9a)
 - [【フリーランスの◯◯◯】フリーランスの年齢](https://note.com/digiangler777/n/n6988626cd98a)
 - [【週末エッセイ】名月の翌日、もう少し丸い月を見上げる —— 呼ばれたピークより、その次の夜が好きだ](https://note.com/digiangler777/n/n77249c4579d3)
 - [【伝える技術】秋に届いた単価と将来の問い](https://note.com/digiangler777/n/necdec5a554ae)
-- [【お金と数字】フリーランスの発信II](https://note.com/digiangler777/n/n44193f64b34b)
-- [【コード哲学エッセイ】遅れた仕事に人を足せない —— 『人月の神話』を一人で読む秋の連休](https://note.com/digiangler777/n/nf90f0e342fd0)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
