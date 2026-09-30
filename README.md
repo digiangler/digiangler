@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [【目標設定】10月、僕が新しく始めたい3つのこと](https://note.com/digiangler777/n/neb1adb5d3206)
+- [【コード哲学エッセイ】AIが書いた行に僕の名前を載せる —— 責任は生成した側には戻せない](https://note.com/digiangler777/n/n40d0ae0134a8)
 - [【思索】9月を振り返って](https://note.com/digiangler777/n/n2bb15d0d40cc)
 - [【マネタイズ戦略】連載にしたら数字は動いたのか](https://note.com/digiangler777/n/na6f277655aba)
 - [【仕組み化】10月からの連載マップを引く](https://note.com/digiangler777/n/n52c3e6518dcd)
-- [【現場ファイル】フリーランスの時間II](https://note.com/digiangler777/n/n3c58bb10cebe)
-- [【週初エッセイ】9月が終わる週の日曜、まだ送っていない請求がある —— 暮らしと仕事の境目が月末だけ消える](https://note.com/digiangler777/n/n24bbe3fcfd9a)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
