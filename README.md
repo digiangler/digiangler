@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [【フリーランスの◯◯◯】フリーランスとソロプレナー](https://note.com/digiangler777/n/nc5bb5fc822eb)
+- [【週末エッセイ】金木犀の香りがした土曜 —— 毎年同じ香りが去年の僕を連れてくる](https://note.com/digiangler777/n/n40adf95278b9)
 - [【伝える技術】フリーランスの信頼III](https://note.com/digiangler777/n/n0a9e51ae6be6)
 - [【お金と数字】フリーランスの値付けIII](https://note.com/digiangler777/n/n1dca296a3e38)
 - [【目標設定】10月、僕が新しく始めたい3つのこと](https://note.com/digiangler777/n/neb1adb5d3206)
-- [【コード哲学エッセイ】AIが書いた行に僕の名前を載せる —— 責任は生成した側には戻せない](https://note.com/digiangler777/n/n40d0ae0134a8)
-- [【思索】9月を振り返って](https://note.com/digiangler777/n/n2bb15d0d40cc)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
