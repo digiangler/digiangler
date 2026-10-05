@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [【仕組み化】フリーランスの孤独III](https://note.com/digiangler777/n/n3323412bc989)
 - [【現場ファイル】フリーランスの不安III](https://note.com/digiangler777/n/n3fdd790940b2)
 - [【週初エッセイ】白いままの手帳を10月の日曜に開いた —— 使わなかった9か月がまだ僕の前にあった](https://note.com/digiangler777/n/n97edac1d4db7)
 - [【フリーランスの◯◯◯】フリーランスとソロプレナー](https://note.com/digiangler777/n/nc5bb5fc822eb)
 - [【週末エッセイ】金木犀の香りがした土曜 —— 毎年同じ香りが去年の僕を連れてくる](https://note.com/digiangler777/n/n40adf95278b9)
-- [【伝える技術】フリーランスの信頼III](https://note.com/digiangler777/n/n0a9e51ae6be6)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
