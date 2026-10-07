@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [【配布】見積もり内訳シート](https://note.com/digiangler777/n/n8259813c5247)
+- [【コード哲学エッセイ】見積もりは約束じゃない —— 『ソフトウェア見積り』の不確実性コーンを一人で請ける側から読む](https://note.com/digiangler777/n/neb81f9694997)
 - [【技術判断】フリーランスの技術選定III](https://note.com/digiangler777/n/n1a2b51816cdc)
 - [【仕組み化】フリーランスの孤独III](https://note.com/digiangler777/n/n3323412bc989)
 - [【現場ファイル】フリーランスの不安III](https://note.com/digiangler777/n/n3fdd790940b2)
-- [【週初エッセイ】白いままの手帳を10月の日曜に開いた —— 使わなかった9か月がまだ僕の前にあった](https://note.com/digiangler777/n/n97edac1d4db7)
-- [【フリーランスの◯◯◯】フリーランスとソロプレナー](https://note.com/digiangler777/n/nc5bb5fc822eb)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
