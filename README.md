@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [【号外】もう使っていないアプリが一番危ない？相次ぐ情報漏洩から自分を守るアカウントのデジタル断捨離入門](https://note.com/digiangler777/n/n9e8e69946c9a)
+- [【現場ファイル】要件が最後まで決まらなかった案件](https://note.com/digiangler777/n/n5c8585f758c4)
+- [【週初エッセイ】1か月分のカメラロールを10月の日曜に遡った —— 僕の指が止まったのは、スクリーンショットの列だった](https://note.com/digiangler777/n/n59eb4b58c4d8)
 - [【フリーランスの◯◯◯】フリーランスの専門性](https://note.com/digiangler777/n/n037d41a69452)
 - [【週末エッセイ】仕事に使えない本を使わないまま読んだ —— 役に立つ頁を土曜の僕は探さなかった](https://note.com/digiangler777/n/n3748ef2f2e13)
-- [【伝える技術】フリーランスの断る力III](https://note.com/digiangler777/n/nbb6ac565028b)
-- [【お金と数字】フリーランスの飯の種III](https://note.com/digiangler777/n/n5ee2e2530437)
-- [【配布】見積もり内訳シート](https://note.com/digiangler777/n/n8259813c5247)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
