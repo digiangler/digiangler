@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [【お金と数字】フリーランスの発信III](https://note.com/digiangler777/n/n494bf2ee5bea)
 - [【配布】未決事項リスト](https://note.com/digiangler777/n/nca763b1b424d)
 - [【コード哲学エッセイ】nullは「無い」じゃなく「まだ決まっていない」だ —— 空の値を僕は埋めずに残した](https://note.com/digiangler777/n/na981b0a66b15)
 - [【技術判断】フリーランスの矜持III](https://note.com/digiangler777/n/n2a397ea3e031)
 - [【仕組み化】フリーランスの老後III](https://note.com/digiangler777/n/ndb37c3233963)
-- [【号外】もう使っていないアプリが一番危ない？相次ぐ情報漏洩から自分を守るアカウントのデジタル断捨離入門](https://note.com/digiangler777/n/n9e8e69946c9a)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
