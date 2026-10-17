@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [【フリーランスの◯◯◯】フリーランスの評判](https://note.com/digiangler777/n/n17c09c4f1d11)
+- [【週末エッセイ】新米を炊いた土曜 —— 同じ手順が今年も僕の手元にある](https://note.com/digiangler777/n/n9b2ba1165884)
 - [【伝える技術】フリーランスの時間III](https://note.com/digiangler777/n/n5448107bf65f)
 - [【お金と数字】フリーランスの発信III](https://note.com/digiangler777/n/n494bf2ee5bea)
 - [【配布】未決事項リスト](https://note.com/digiangler777/n/nca763b1b424d)
-- [【コード哲学エッセイ】nullは「無い」じゃなく「まだ決まっていない」だ —— 空の値を僕は埋めずに残した](https://note.com/digiangler777/n/na981b0a66b15)
-- [【技術判断】フリーランスの矜持III](https://note.com/digiangler777/n/n2a397ea3e031)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
