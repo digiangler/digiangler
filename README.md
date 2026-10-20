@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [【技術判断】指定の技術が古いとき](https://note.com/digiangler777/n/nc010da210cf5)
 - [【号外】書けるエンジニアは最強](https://note.com/digiangler777/n/n8754675578a8)
 - [【仕組み化】並行案件の切り替え](https://note.com/digiangler777/n/nb427213fae62)
 - [【現場ファイル】フリーランスの引き際III](https://note.com/digiangler777/n/n45c1c240bf0a)
 - [【週初エッセイ】どのフォルダにも入らないメモがある —— 分類できない1つを月曜の前の僕は許す](https://note.com/digiangler777/n/n2d6bbdab75b0)
-- [【フリーランスの◯◯◯】フリーランスの評判](https://note.com/digiangler777/n/n17c09c4f1d11)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
