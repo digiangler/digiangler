@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [【配布】仕様変更の受付票](https://note.com/digiangler777/n/nb468c652e351)
+- [【コード哲学エッセイ】差分は、読む人のために小さくする —— 仕様変更を受けたコードに変えた理由を僕は残した](https://note.com/digiangler777/n/n8b583e2f411a)
 - [【技術判断】指定の技術が古いとき](https://note.com/digiangler777/n/nc010da210cf5)
 - [【号外】書けるエンジニアは最強](https://note.com/digiangler777/n/n8754675578a8)
 - [【仕組み化】並行案件の切り替え](https://note.com/digiangler777/n/nb427213fae62)
-- [【現場ファイル】フリーランスの引き際III](https://note.com/digiangler777/n/n45c1c240bf0a)
-- [【週初エッセイ】どのフォルダにも入らないメモがある —— 分類できない1つを月曜の前の僕は許す](https://note.com/digiangler777/n/n2d6bbdab75b0)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
