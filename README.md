@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [【フリーランスの◯◯◯】フリーランスの失敗](https://note.com/digiangler777/n/n0bd17d764cc9)
+- [【週末エッセイ】土曜の朝、AIに何も頼まなかった —— 休まない相棒の隣で、僕が休む理由](https://note.com/digiangler777/n/n671b76e016ec)
 - [【伝える技術】進行中の仕事に届いた問い](https://note.com/digiangler777/n/n3d32075d9b60)
 - [【お金と数字】残り2か月の請求見込み](https://note.com/digiangler777/n/na868fb293601)
 - [【配布】仕様変更の受付票](https://note.com/digiangler777/n/nb468c652e351)
-- [【コード哲学エッセイ】差分は、読む人のために小さくする —— 仕様変更を受けたコードに変えた理由を僕は残した](https://note.com/digiangler777/n/n8b583e2f411a)
-- [【技術判断】指定の技術が古いとき](https://note.com/digiangler777/n/nc010da210cf5)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
