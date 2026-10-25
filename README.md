@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [【現場ファイル】検収で揉めた案件](https://note.com/digiangler777/n/n7e6621bf37e0)
+- [【週初エッセイ】壁の時計が止まっていた —— 気づくまでに3日かかった。僕は時刻を誰にも合わせていない](https://note.com/digiangler777/n/n74aa183347c3)
 - [【フリーランスの◯◯◯】フリーランスの失敗](https://note.com/digiangler777/n/n0bd17d764cc9)
 - [【週末エッセイ】土曜の朝、AIに何も頼まなかった —— 休まない相棒の隣で、僕が休む理由](https://note.com/digiangler777/n/n671b76e016ec)
 - [【伝える技術】進行中の仕事に届いた問い](https://note.com/digiangler777/n/n3d32075d9b60)
-- [【お金と数字】残り2か月の請求見込み](https://note.com/digiangler777/n/na868fb293601)
-- [【配布】仕様変更の受付票](https://note.com/digiangler777/n/nb468c652e351)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
