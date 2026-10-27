@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [【技術判断】保守契約の範囲](https://note.com/digiangler777/n/n8ce401ef7052)
 - [【仕組み化】年末の駆け込み発注](https://note.com/digiangler777/n/n40c377fd5843)
 - [【現場ファイル】検収で揉めた案件](https://note.com/digiangler777/n/n7e6621bf37e0)
 - [【週初エッセイ】壁の時計が止まっていた —— 気づくまでに3日かかった。僕は時刻を誰にも合わせていない](https://note.com/digiangler777/n/n74aa183347c3)
 - [【フリーランスの◯◯◯】フリーランスの失敗](https://note.com/digiangler777/n/n0bd17d764cc9)
-- [【週末エッセイ】土曜の朝、AIに何も頼まなかった —— 休まない相棒の隣で、僕が休む理由](https://note.com/digiangler777/n/n671b76e016ec)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
