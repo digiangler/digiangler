@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [【思索】10月を振り返って](https://note.com/digiangler777/n/n8aa66d007e8d)
 - [【お金と数字】確定申告の準備](https://note.com/digiangler777/n/ndf2d843064b2)
 - [【配布】検収チェックリスト](https://note.com/digiangler777/n/ndadfb1a921bf)
 - [【コード哲学エッセイ】「終わった」を決めるのは僕じゃない —— テストが通った日と受け入れられた日のあいだ](https://note.com/digiangler777/n/n53de3db4cb9f)
 - [【技術判断】保守契約の範囲](https://note.com/digiangler777/n/n8ce401ef7052)
-- [【仕組み化】年末の駆け込み発注](https://note.com/digiangler777/n/n40c377fd5843)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
