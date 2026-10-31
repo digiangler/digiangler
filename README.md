@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [【目標設定】11月、僕が新しく始めたい3つのこと](https://note.com/digiangler777/n/nba7699d50b7a)
+- [【週末エッセイ】冷房も暖房もいらない土曜 —— 何も調整しなくていい季節は、一年に数週間しかない](https://note.com/digiangler777/n/n835f68aaf07c)
+- [【マネタイズ戦略】未記入をやめたら、連載は判定できたのか](https://note.com/digiangler777/n/n16bc5651a4fb)
 - [【思索】10月を振り返って](https://note.com/digiangler777/n/n8aa66d007e8d)
 - [【お金と数字】確定申告の準備](https://note.com/digiangler777/n/ndf2d843064b2)
-- [【配布】検収チェックリスト](https://note.com/digiangler777/n/ndadfb1a921bf)
-- [【コード哲学エッセイ】「終わった」を決めるのは僕じゃない —— テストが通った日と受け入れられた日のあいだ](https://note.com/digiangler777/n/n53de3db4cb9f)
-- [【技術判断】保守契約の範囲](https://note.com/digiangler777/n/n8ce401ef7052)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
