@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [【仕組み化】1月の箱](https://note.com/digiangler777/n/n666bcf0f2e88)
 - [【現場ファイル】年内に収まらなかった依頼](https://note.com/digiangler777/n/n91ea1e095406)
 - [【週末エッセイ】立冬の土曜、冬キャンプの支度を考える —— 寒さを選ぶ趣味は、準備の時間まで含めて僕の趣味だ](https://note.com/digiangler777/n/ndfcb10eaf1a0)
 - [【目標設定】11月、僕が新しく始めたい3つのこと](https://note.com/digiangler777/n/nba7699d50b7a)
 - [【週末エッセイ】冷房も暖房もいらない土曜 —— 何も調整しなくていい季節は、一年に数週間しかない](https://note.com/digiangler777/n/n835f68aaf07c)
-- [【マネタイズ戦略】未記入をやめたら、連載は判定できたのか](https://note.com/digiangler777/n/n16bc5651a4fb)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
