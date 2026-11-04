@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [【配布】実務シート8選・案内マップ](https://note.com/digiangler777/n/n8f9bf883cf23)
+- [【コード哲学エッセイ】正しい提案が通らなかった日 —— 現場の外から来た僕は、どこまで言っていいのか](https://note.com/digiangler777/n/n80b5e7c4c502)
 - [【技術判断】年末のコードフリーズ](https://note.com/digiangler777/n/n6d03dbba145e)
 - [【仕組み化】1月の箱](https://note.com/digiangler777/n/n666bcf0f2e88)
 - [【現場ファイル】年内に収まらなかった依頼](https://note.com/digiangler777/n/n91ea1e095406)
-- [【週末エッセイ】立冬の土曜、冬キャンプの支度を考える —— 寒さを選ぶ趣味は、準備の時間まで含めて僕の趣味だ](https://note.com/digiangler777/n/ndfcb10eaf1a0)
-- [【目標設定】11月、僕が新しく始めたい3つのこと](https://note.com/digiangler777/n/nba7699d50b7a)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
