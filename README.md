@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
-- [翌月の振込額を、型で閉じてから計算する](https://note.com/digiangler777/n/n5a48e3988b88)
+- [【創刊号】図面に載せなかったもの](https://note.com/digiangler777/n/n3a37657e100b)
+- [【伝える技術】入金が遅れているときの1通](https://note.com/digiangler777/n/nb9fea11d6add)
+- [【創刊号】翌月の振込額を、型で閉じてから計算する](https://note.com/digiangler777/n/n5a48e3988b88)
 - [【お金と数字】案件ごとの実効単価](https://note.com/digiangler777/n/n4ea8e866e415)
 - [【配布】実務シート8選・案内マップ](https://note.com/digiangler777/n/n8f9bf883cf23)
-- [【コード哲学エッセイ】正しい提案が通らなかった日 —— 現場の外から来た僕は、どこまで言っていいのか](https://note.com/digiangler777/n/n80b5e7c4c502)
-- [【技術判断】年末のコードフリーズ](https://note.com/digiangler777/n/n6d03dbba145e)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
