@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [【フリーランスの◯◯◯】フリーランスの区切り](https://note.com/digiangler777/n/n20352ced874f)
+- [【週末エッセイ】健康診断の予約は、誰もしてくれない —— 月が変わる日曜に、僕は自分の体を先に押さえる](https://note.com/digiangler777/n/ne1c7b5760fce)
 - [【創刊号】図面に載せなかったもの](https://note.com/digiangler777/n/n3a37657e100b)
 - [【伝える技術】入金が遅れているときの1通](https://note.com/digiangler777/n/nb9fea11d6add)
 - [【創刊号】翌月の振込額を、型で閉じてから計算する](https://note.com/digiangler777/n/n5a48e3988b88)
-- [【お金と数字】案件ごとの実効単価](https://note.com/digiangler777/n/n4ea8e866e415)
-- [【配布】実務シート8選・案内マップ](https://note.com/digiangler777/n/n8f9bf883cf23)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
