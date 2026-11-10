@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [【技術判断】バックアップと復元](https://note.com/digiangler777/n/n03586a573e5c)
 - [【仕組み化】日次ノートから「手で写す欄」を消した](https://note.com/digiangler777/n/n1014afe5bca2)
 - [【現場ファイル】契約更新の案件](https://note.com/digiangler777/n/n6ae62a1efa78)
 - [【週初エッセイ】指先が冷える朝がきた —— キーボードの前で、冬の入口を僕の体が先に知らせる](https://note.com/digiangler777/n/nf836864b1e99)
 - [【フリーランスの◯◯◯】フリーランスの区切り](https://note.com/digiangler777/n/n20352ced874f)
-- [【週末エッセイ】健康診断の予約は、誰もしてくれない —— 月が変わる日曜に、僕は自分の体を先に押さえる](https://note.com/digiangler777/n/ne1c7b5760fce)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
