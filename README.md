@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [【伝える技術】見積もりに返事が来ないときの1通](https://note.com/digiangler777/n/n3bef6045d986)
 - [【お金と数字】月20ドルを足し続けた夜](https://note.com/digiangler777/n/ndcc0f59e48d4)
 - [【配布】契約更新前チェックリスト](https://note.com/digiangler777/n/n581f11eafdcd)
 - [【コード哲学エッセイ】書きながら考える日があっていい —— 『ハッカーと画家』を、設計図より先に手を動かす僕の側から読む](https://note.com/digiangler777/n/n10039a9290d4)
 - [【技術判断】バックアップと復元](https://note.com/digiangler777/n/n03586a573e5c)
-- [【仕組み化】日次ノートから「手で写す欄」を消した](https://note.com/digiangler777/n/n1014afe5bca2)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
