@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [【仕組み化】投稿ボタンを押し忘れた夜](https://note.com/digiangler777/n/n0fbd19bd7649)
 - [【現場ファイル】年末年始の休み中に届く連絡](https://note.com/digiangler777/n/neb8f2afeebe5)
 - [【週初エッセイ】日曜の午後、誰かの勝負を流している —— 評価される場面から遠い仕事で、僕は何を見ているのか](https://note.com/digiangler777/n/n20bdfe66bef7)
 - [【フリーランスの◯◯◯】フリーランスの撤退](https://note.com/digiangler777/n/na72159e0173f)
 - [【週末エッセイ】アルバムを最初から最後まで流した土曜 —— 選ばないまま聴く時間が、僕には思ったより長かった](https://note.com/digiangler777/n/n856f791a96f3)
-- [【伝える技術】見積もりに返事が来ないときの1通](https://note.com/digiangler777/n/n3bef6045d986)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
