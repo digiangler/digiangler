@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [【お金と数字】生活費と事業費を分ける手元資金](https://note.com/digiangler777/n/n9a709796b685)
 - [【配布】年末年始の連絡窓口カード](https://note.com/digiangler777/n/nb5581a81a7ab)
 - [【コード哲学エッセイ】冪等性は、やり直しを許す設計だ —— 同じ操作を何度押しても壊れない、という優しさ](https://note.com/digiangler777/n/n07087d4f5786)
 - [【技術判断】証明書が切れて止まった朝](https://note.com/digiangler777/n/n75a356372f8a)
 - [【仕組み化】投稿ボタンを押し忘れた夜](https://note.com/digiangler777/n/n0fbd19bd7649)
-- [【現場ファイル】年末年始の休み中に届く連絡](https://note.com/digiangler777/n/neb8f2afeebe5)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
