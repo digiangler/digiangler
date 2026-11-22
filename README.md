@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [【現場ファイル】年内に閉じる分と1月へ送る分](https://note.com/digiangler777/n/neead5f2953a2)
+- [【週初エッセイ】会わなくなった人の名前が、連絡先に残っている —— 一通送るかどうか、日曜の朝に迷う](https://note.com/digiangler777/n/n57df1a78cfc0)
 - [【フリーランスの◯◯◯】フリーランスの継続](https://note.com/digiangler777/n/nfe70f026edc7)
 - [【週末エッセイ】釣り糸を巻き替えた土曜 —— 魚と関係なく、手入れだけは結果を裏切らない](https://note.com/digiangler777/n/ncd7995523f14)
 - [【伝える技術】要件は年内、実装は1月](https://note.com/digiangler777/n/n400435ecaeab)
-- [【お金と数字】生活費と事業費を分ける手元資金](https://note.com/digiangler777/n/n9a709796b685)
-- [【配布】年末年始の連絡窓口カード](https://note.com/digiangler777/n/nb5581a81a7ab)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
