@@ -233,11 +233,11 @@
 ### 🍣 note
 
 <!-- NOTE:START -->
+- [【配布】納品・検収・請求を1行で閉じる](https://note.com/digiangler777/n/nb63d9b1208b6)
+- [【コード哲学エッセイ】ルールは「お願い」で、フックは「約束」だ —— AIに頼むことと守らせることを分ける](https://note.com/digiangler777/n/n0fc13d9e3745)
 - [ひとりで仕事をしていると、意外と「仕事以外」に時間を取られる](https://note.com/digiangler777/n/n5a6f31f84208)
 - [【技術判断】「急に動かない」と連絡が来たとき](https://note.com/digiangler777/n/nd51457f0422d)
 - [【仕組み化】「今年やったこと」を1枚で渡す](https://note.com/digiangler777/n/n256f97c531dd)
-- [【現場ファイル】年内に閉じる分と1月へ送る分](https://note.com/digiangler777/n/neead5f2953a2)
-- [【週初エッセイ】会わなくなった人の名前が、連絡先に残っている —— 一通送るかどうか、日曜の朝に迷う](https://note.com/digiangler777/n/n57df1a78cfc0)
 <!-- NOTE:END -->
 
 ### 🍣 Qiita
